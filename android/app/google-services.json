@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859456571329",
+    "project_id": "find-my-phon",
+    "storage_bucket": "find-my-phon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859456571329:android:73b0fc16a57c86a65a9140",
+        "android_client_info": {
+          "package_name": "com.example.find_my_phon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859456571329-m8rhrli23362lr7on80hb00f5hsilv15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZMK4lWLJ0YkEXahebqRKBybglqV2d3bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859456571329-m8rhrli23362lr7on80hb00f5hsilv15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

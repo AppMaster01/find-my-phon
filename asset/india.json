@@ -1,0 +1,10444 @@
+{
+"citylist": [
+ {
+   "cityName": "Barkheda Kalan",
+   "code": "07410"
+ },
+ {
+   "cityName": "Abhayapuri",
+   "code": "03669"
+ },
+ {
+   "cityName": "Abohar",
+   "code": "01634"
+ },
+ {
+   "cityName": "Abu Road",
+   "code": "02974"
+ },
+ {
+   "cityName": "Achalpur",
+   "code": "07223"
+ },
+ {
+   "cityName": "Achampet",
+   "code": "08541"
+ },
+ {
+   "cityName": "Achhnera",
+   "code": "05613"
+ },
+ {
+   "cityName": "Adampur Mandi",
+   "code": "01669"
+ },
+ {
+   "cityName": "Adhaura",
+   "code": "06180"
+ },
+ {
+   "cityName": "Adilabad",
+   "code": "08732"
+ },
+ {
+   "cityName": "Adimaly",
+   "code": "04864"
+ },
+ {
+   "cityName": "Adoni",
+   "code": "08512"
+ },
+ {
+   "cityName": "Adoor",
+   "code": "04734"
+ },
+ {
+   "cityName": "Adra",
+   "code": "03251"
+ },
+ {
+   "cityName": "Afzalpur",
+   "code": "08470"
+ },
+ {
+   "cityName": "Agar",
+   "code": "07362"
+ },
+ {
+   "cityName": "Agartala",
+   "code": "0381"
+ },
+ {
+   "cityName": "Agathy",
+   "code": "04894"
+ },
+ {
+   "cityName": "Agra",
+   "code": "0562"
+ },
+ {
+   "cityName": "Aheri",
+   "code": "07133"
+ },
+ {
+   "cityName": "Ahmedabad Local",
+   "code": "079"
+ },
+ {
+   "cityName": "Ahmednagar",
+   "code": "0241"
+ },
+ {
+   "cityName": "Ahmedpur",
+   "code": "02381"
+ },
+ {
+   "cityName": "Ahore",
+   "code": "02978"
+ },
+ {
+   "cityName": "Ahwa",
+   "code": "02631"
+ },
+ {
+   "cityName": "Ainapur",
+   "code": "08339"
+ },
+ {
+   "cityName": "Aizwal-I",
+   "code": "0389"
+ },
+ {
+   "cityName": "Aizwal-Ii",
+   "code": "03838"
+ },
+ {
+   "cityName": "Ajaigarh",
+   "code": "07730"
+ },
+ {
+   "cityName": "Ajara",
+   "code": "02323"
+ },
+ {
+   "cityName": "Ajmer",
+   "code": "0145"
+ },
+ {
+   "cityName": "Ajnala",
+   "code": "01858"
+ },
+ {
+   "cityName": "Akbarpur",
+   "code": "05111"
+ },
+ {
+   "cityName": "Akbarpur-I",
+   "code": "05271"
+ },
+ {
+   "cityName": "Akbarpur-Ii",
+   "code": "05275"
+ },
+ {
+   "cityName": "Akhnoor",
+   "code": "01924"
+ },
+ {
+   "cityName": "Akkalkot",
+   "code": "02181"
+ },
+ {
+   "cityName": "Aklera",
+   "code": "07431"
+ },
+ {
+   "cityName": "Akola",
+   "code": "0724"
+ },
+ {
+   "cityName": "Akole",
+   "code": "02424"
+ },
+ {
+   "cityName": "Akot",
+   "code": "07258"
+ },
+ {
+   "cityName": "Alampur",
+   "code": "08502"
+ },
+ {
+   "cityName": "Aland",
+   "code": "08477"
+ },
+ {
+   "cityName": "Alathur",
+   "code": "04922"
+ },
+ {
+   "cityName": "Alibagh",
+   "code": "02141"
+ },
+ {
+   "cityName": "Aliganj",
+   "code": "05740"
+ },
+ {
+   "cityName": "Aligarh",
+   "code": "0571"
+ },
+ {
+   "cityName": "Alipurduar",
+   "code": "03564"
+ },
+ {
+   "cityName": "Alirajpur",
+   "code": "07394"
+ },
+ {
+   "cityName": "Allagadda",
+   "code": "08519"
+ },
+ {
+   "cityName": "Allahabad",
+   "code": "0532"
+ },
+ {
+   "cityName": "Alleppy",
+   "code": "0477"
+ },
+ {
+   "cityName": "Almora",
+   "code": "05962"
+ },
+ {
+   "cityName": "Along",
+   "code": "03783"
+ },
+ {
+   "cityName": "Alur",
+   "code": "08523"
+ },
+ {
+   "cityName": "Alur",
+   "code": "08170"
+ },
+ {
+   "cityName": "Alwar",
+   "code": "0144"
+ },
+ {
+   "cityName": "Amagaon",
+   "code": "07189"
+ },
+ {
+   "cityName": "Amalapuram",
+   "code": "08856"
+ },
+ {
+   "cityName": "Amalner",
+   "code": "02587"
+ },
+ {
+   "cityName": "Amangallu",
+   "code": "08545"
+ },
+ {
+   "cityName": "Amarpatan",
+   "code": "07675"
+ },
+ {
+   "cityName": "Amarpur",
+   "code": "06420"
+ },
+ {
+   "cityName": "Amarwada",
+   "code": "07167"
+ },
+ {
+   "cityName": "Amb",
+   "code": "01976"
+ },
+ {
+   "cityName": "Ambad",
+   "code": "02483"
+ },
+ {
+   "cityName": "Ambah",
+   "code": "07538"
+ },
+ {
+   "cityName": "Ambala",
+   "code": "0171"
+ },
+ {
+   "cityName": "Ambasa",
+   "code": "03826"
+ },
+ {
+   "cityName": "Ambasamudram",
+   "code": "04634"
+ },
+ {
+   "cityName": "Ambejogai",
+   "code": "02446"
+ },
+ {
+   "cityName": "Amber",
+   "code": "01423"
+ },
+ {
+   "cityName": "Ambikapur",
+   "code": "07774"
+ },
+ {
+   "cityName": "Amet",
+   "code": "02908"
+ },
+ {
+   "cityName": "Amethi",
+   "code": "05368"
+ },
+ {
+   "cityName": "Amini",
+   "code": "04891"
+ },
+ {
+   "cityName": "Amlagora",
+   "code": "03227"
+ },
+ {
+   "cityName": "Amlaren",
+   "code": "03653"
+ },
+ {
+   "cityName": "Amod",
+   "code": "02641"
+ },
+ {
+   "cityName": "Amravati",
+   "code": "0721"
+ },
+ {
+   "cityName": "Amreli",
+   "code": "02792"
+ },
+ {
+   "cityName": "Amritsar",
+   "code": "0183"
+ },
+ {
+   "cityName": "Amroha",
+   "code": "05922"
+ },
+ {
+   "cityName": "Anakapalle",
+   "code": "08924"
+ },
+ {
+   "cityName": "Anamali",
+   "code": "04253"
+ },
+ {
+   "cityName": "Anand",
+   "code": "02692"
+ },
+ {
+   "cityName": "Anandapur",
+   "code": "06731"
+ },
+ {
+   "cityName": "Anantapur",
+   "code": "08554"
+ },
+ {
+   "cityName": "Anantnag",
+   "code": "01932"
+ },
+ {
+   "cityName": "Andole",
+   "code": "08450"
+ },
+ {
+   "cityName": "Androth",
+   "code": "04893"
+ },
+ {
+   "cityName": "Anekal",
+   "code": "08110"
+ },
+ {
+   "cityName": "Anini",
+   "code": "03801"
+ },
+ {
+   "cityName": "Anjar",
+   "code": "02836"
+ },
+ {
+   "cityName": "Ankaleshwar",
+   "code": "02646"
+ },
+ {
+   "cityName": "Ankola",
+   "code": "08388"
+ },
+ {
+   "cityName": "Anndman Island",
+   "code": "03192"
+ },
+ {
+   "cityName": "Anola-I",
+   "code": "05823"
+ },
+ {
+   "cityName": "Anola-Ii",
+   "code": "05824"
+ },
+ {
+   "cityName": "Antagarh",
+   "code": "07847"
+ },
+ {
+   "cityName": "Anugul",
+   "code": "06764"
+ },
+ {
+   "cityName": "Anupgarh(E)",
+   "code": "01498"
+ },
+ {
+   "cityName": "Anupgarh(W)",
+   "code": "01506"
+ },
+ {
+   "cityName": "Arakandanallur",
+   "code": "04153"
+ },
+ {
+   "cityName": "Araku",
+   "code": "08936"
+ },
+ {
+   "cityName": "Arambagh",
+   "code": "03211"
+ },
+ {
+   "cityName": "Arang",
+   "code": "07720"
+ },
+ {
+   "cityName": "Arantangi",
+   "code": "04371"
+ },
+ {
+   "cityName": "Araria",
+   "code": "06453"
+ },
+ {
+   "cityName": "Aravakurichi",
+   "code": "04320"
+ },
+ {
+   "cityName": "Areraj",
+   "code": "06258"
+ },
+ {
+   "cityName": "Ariyalur",
+   "code": "04329"
+ },
+ {
+   "cityName": "Arjuni Merogaon",
+   "code": "07196"
+ },
+ {
+   "cityName": "Arki",
+   "code": "01796"
+ },
+ {
+   "cityName": "Arkonam",
+   "code": "04177"
+ },
+ {
+   "cityName": "Armoor",
+   "code": "08463"
+ },
+ {
+   "cityName": "Arni",
+   "code": "04173"
+ },
+ {
+   "cityName": "Arone",
+   "code": "07545"
+ },
+ {
+   "cityName": "Arrah",
+   "code": "06182"
+ },
+ {
+   "cityName": "Arsikere",
+   "code": "08174"
+ },
+ {
+   "cityName": "Aruppukottai",
+   "code": "04566"
+ },
+ {
+   "cityName": "Arvi",
+   "code": "07157"
+ },
+ {
+   "cityName": "Arwal",
+   "code": "06337"
+ },
+ {
+   "cityName": "Asansol",
+   "code": "0341"
+ },
+ {
+   "cityName": "Ashoknagar",
+   "code": "07543"
+ },
+ {
+   "cityName": "Ashta",
+   "code": "07560"
+ },
+ {
+   "cityName": "Ashti",
+   "code": "02441"
+ },
+ {
+   "cityName": "Asifabad",
+   "code": "08733"
+ },
+ {
+   "cityName": "Asind",
+   "code": "01480"
+ },
+ {
+   "cityName": "Aska",
+   "code": "06822"
+ },
+ {
+   "cityName": "Aspur",
+   "code": "02967"
+ },
+ {
+   "cityName": "Assandh",
+   "code": "01749"
+ },
+ {
+   "cityName": "Aswaraopet",
+   "code": "08740"
+ },
+ {
+   "cityName": "Athani",
+   "code": "08289"
+ },
+ {
+   "cityName": "Athgarh",
+   "code": "06723"
+ },
+ {
+   "cityName": "Athmallik",
+   "code": "06763"
+ },
+ {
+   "cityName": "Atmakur",
+   "code": "08517"
+ },
+ {
+   "cityName": "Atmakur",
+   "code": "08627"
+ },
+ {
+   "cityName": "Atmakur",
+   "code": "08504"
+ },
+ {
+   "cityName": "Atner",
+   "code": "07144"
+ },
+ {
+   "cityName": "Atpadi",
+   "code": "02343"
+ },
+ {
+   "cityName": "Atrauli",
+   "code": "05723"
+ },
+ {
+   "cityName": "Atru",
+   "code": "07451"
+ },
+ {
+   "cityName": "Attabira",
+   "code": "06682"
+ },
+ {
+   "cityName": "Attingal",
+   "code": "0470"
+ },
+ {
+   "cityName": "Attur",
+   "code": "04282"
+ },
+ {
+   "cityName": "Aurad",
+   "code": "08485"
+ },
+ {
+   "cityName": "Auraiya",
+   "code": "05683"
+ },
+ {
+   "cityName": "Aurangabad",
+   "code": "06186"
+ },
+ {
+   "cityName": "Aurangabad",
+   "code": "02432"
+ },
+ {
+   "cityName": "Ausa",
+   "code": "02383"
+ },
+ {
+   "cityName": "Avanashi",
+   "code": "04296"
+ },
+ {
+   "cityName": "Azamgarh",
+   "code": "05462"
+ },
+ {
+   "cityName": "B. Kothakota",
+   "code": "08582"
+ },
+ {
+   "cityName": "Baberu",
+   "code": "05190"
+ },
+ {
+   "cityName": "Babhulgaon",
+   "code": "07203"
+ },
+ {
+   "cityName": "Bableshwar",
+   "code": "08355"
+ },
+ {
+   "cityName": "Babra",
+   "code": "02791"
+ },
+ {
+   "cityName": "Bacheli",
+   "code": "07857"
+ },
+ {
+   "cityName": "Badagara",
+   "code": "0496"
+ },
+ {
+   "cityName": "Badamalhera",
+   "code": "07689"
+ },
+ {
+   "cityName": "Badami",
+   "code": "08357"
+ },
+ {
+   "cityName": "Badarwsas",
+   "code": "07495"
+ },
+ {
+   "cityName": "Badaun",
+   "code": "05832"
+ },
+ {
+   "cityName": "Badgam",
+   "code": "01951"
+ },
+ {
+   "cityName": "Badnagar",
+   "code": "07367"
+ },
+ {
+   "cityName": "Badnawar",
+   "code": "07295"
+ },
+ {
+   "cityName": "Badvel",
+   "code": "08569"
+ },
+ {
+   "cityName": "Badwani",
+   "code": "07290"
+ },
+ {
+   "cityName": "Bagaha",
+   "code": "06251"
+ },
+ {
+   "cityName": "Bagalkot",
+   "code": "08354"
+ },
+ {
+   "cityName": "Bagbahera",
+   "code": "07707"
+ },
+ {
+   "cityName": "Bagdihi",
+   "code": "06640"
+ },
+ {
+   "cityName": "Bagepalli",
+   "code": "08150"
+ },
+ {
+   "cityName": "Bageshwar",
+   "code": "05963"
+ },
+ {
+   "cityName": "Baghmara",
+   "code": "03639"
+ },
+ {
+   "cityName": "Baghpat-Ii",
+   "code": "01234"
+ },
+ {
+   "cityName": "Bagicha",
+   "code": "07769"
+ },
+ {
+   "cityName": "Bagidora",
+   "code": "02968"
+ },
+ {
+   "cityName": "Bagli",
+   "code": "07271"
+ },
+ {
+   "cityName": "Bagodar",
+   "code": "06557"
+ },
+ {
+   "cityName": "Bahadurgarh",
+   "code": "01276"
+ },
+ {
+   "cityName": "Baharagora",
+   "code": "06594"
+ },
+ {
+   "cityName": "Baheri",
+   "code": "05822"
+ },
+ {
+   "cityName": "Bahraich-I",
+   "code": "05252"
+ },
+ {
+   "cityName": "Bahraich-Ii",
+   "code": "05250"
+ },
+ {
+   "cityName": "Baihar",
+   "code": "07636"
+ },
+ {
+   "cityName": "Baikunthpur",
+   "code": "07836"
+ },
+ {
+   "cityName": "Bailhongal",
+   "code": "08288"
+ },
+ {
+   "cityName": "Baithalangshu",
+   "code": "03677"
+ },
+ {
+   "cityName": "Balachaur",
+   "code": "01885"
+ },
+ {
+   "cityName": "Balaghat",
+   "code": "07632"
+ },
+ {
+   "cityName": "Balangir",
+   "code": "06652"
+ },
+ {
+   "cityName": "Balapur",
+   "code": "07257"
+ },
+ {
+   "cityName": "Balasinor",
+   "code": "02690"
+ },
+ {
+   "cityName": "Balasore",
+   "code": "06782"
+ },
+ {
+   "cityName": "Baldeogarh",
+   "code": "07684"
+ },
+ {
+   "cityName": "Baldi",
+   "code": "07326"
+ },
+ {
+   "cityName": "Bali(N)",
+   "code": "02933"
+ },
+ {
+   "cityName": "Bali(S)",
+   "code": "02938"
+ },
+ {
+   "cityName": "Baliguda",
+   "code": "06846"
+ },
+ {
+   "cityName": "Ballia-I",
+   "code": "05498"
+ },
+ {
+   "cityName": "Ballia-Ii",
+   "code": "05496"
+ },
+ {
+   "cityName": "Balod",
+   "code": "07749"
+ },
+ {
+   "cityName": "Balodabazar",
+   "code": "07727"
+ },
+ {
+   "cityName": "Balrampur",
+   "code": "07831"
+ },
+ {
+   "cityName": "Balrampur-I",
+   "code": "05263"
+ },
+ {
+   "cityName": "Balrampur-Ii",
+   "code": "05264"
+ },
+ {
+   "cityName": "Balugaon",
+   "code": "06756"
+ },
+ {
+   "cityName": "Balumath",
+   "code": "06568"
+ },
+ {
+   "cityName": "Balurghat",
+   "code": "03522"
+ },
+ {
+   "cityName": "Bamanwas",
+   "code": "07467"
+ },
+ {
+   "cityName": "Bameng",
+   "code": "03785"
+ },
+ {
+   "cityName": "Bamori",
+   "code": "07540"
+ },
+ {
+   "cityName": "Banaganapalle",
+   "code": "08515"
+ },
+ {
+   "cityName": "Banaigarh",
+   "code": "06626"
+ },
+ {
+   "cityName": "Banda",
+   "code": "07583"
+ },
+ {
+   "cityName": "Banda",
+   "code": "05192"
+ },
+ {
+   "cityName": "Bandar",
+   "code": "08672"
+ },
+ {
+   "cityName": "Bandhavgarh",
+   "code": "07653"
+ },
+ {
+   "cityName": "Bandipur",
+   "code": "01957"
+ },
+ {
+   "cityName": "Banera",
+   "code": "01487"
+ },
+ {
+   "cityName": "Bangalore",
+   "code": "080"
+ },
+ {
+   "cityName": "Bangarpet",
+   "code": "08153"
+ },
+ {
+   "cityName": "Bangarupalem",
+   "code": "08573"
+ },
+ {
+   "cityName": "Bangiriposi",
+   "code": "06791"
+ },
+ {
+   "cityName": "Banjar",
+   "code": "01903"
+ },
+ {
+   "cityName": "Banka",
+   "code": "06424"
+ },
+ {
+   "cityName": "Bankura",
+   "code": "03242"
+ },
+ {
+   "cityName": "Banmankhi",
+   "code": "06467"
+ },
+ {
+   "cityName": "Bansada",
+   "code": "02630"
+ },
+ {
+   "cityName": "Bansdeeh",
+   "code": "05494"
+ },
+ {
+   "cityName": "Bansgaon-I",
+   "code": "05525"
+ },
+ {
+   "cityName": "Bansgaon-Ii",
+   "code": "05521"
+ },
+ {
+   "cityName": "Bansi",
+   "code": "05545"
+ },
+ {
+   "cityName": "Bansur",
+   "code": "01461"
+ },
+ {
+   "cityName": "Banswada",
+   "code": "08466"
+ },
+ {
+   "cityName": "Banswara",
+   "code": "02962"
+ },
+ {
+   "cityName": "Bantwal",
+   "code": "08255"
+ },
+ {
+   "cityName": "Bapatla",
+   "code": "08643"
+ },
+ {
+   "cityName": "Barabanki",
+   "code": "05248"
+ },
+ {
+   "cityName": "Barachakia",
+   "code": "06257"
+ },
+ {
+   "cityName": "Barama",
+   "code": "03623"
+ },
+ {
+   "cityName": "Baramati",
+   "code": "02112"
+ },
+ {
+   "cityName": "Baramulla",
+   "code": "01952"
+ },
+ {
+   "cityName": "Baran",
+   "code": "07453"
+ },
+ {
+   "cityName": "Barara",
+   "code": "01731"
+ },
+ {
+   "cityName": "Barauni",
+   "code": "06279"
+ },
+ {
+   "cityName": "Barbil",
+   "code": "06767"
+ },
+ {
+   "cityName": "Bardoli",
+   "code": "02622"
+ },
+ {
+   "cityName": "Bareilly",
+   "code": "0581"
+ },
+ {
+   "cityName": "Bareja",
+   "code": "02718"
+ },
+ {
+   "cityName": "Bareli",
+   "code": "07486"
+ },
+ {
+   "cityName": "Bargarh",
+   "code": "06646"
+ },
+ {
+   "cityName": "Barh",
+   "code": "06132"
+ },
+ {
+   "cityName": "Barhi",
+   "code": "06543"
+ },
+ {
+   "cityName": "Bari",
+   "code": "05647"
+ },
+ {
+   "cityName": "Baripada",
+   "code": "06792"
+ },
+ {
+   "cityName": "Barisadri",
+   "code": "01473"
+ },
+ {
+   "cityName": "Barkagaon",
+   "code": "06551"
+ },
+ {
+   "cityName": "Barkot",
+   "code": "06643"
+ },
+ {
+   "cityName": "Barmer (C )",
+   "code": "02982"
+ },
+ {
+   "cityName": "Barmer (E )",
+   "code": "02983"
+ },
+ {
+   "cityName": "Barmer (N )",
+   "code": "02902"
+ },
+ {
+   "cityName": "Barmer (S )",
+   "code": "02984"
+ },
+ {
+   "cityName": "Barmer (Sw )",
+   "code": "02986"
+ },
+ {
+   "cityName": "Barmer (W )",
+   "code": "02985"
+ },
+ {
+   "cityName": "Barnala",
+   "code": "01679"
+ },
+ {
+   "cityName": "Baroda",
+   "code": "07531"
+ },
+ {
+   "cityName": "Barosi",
+   "code": "06451"
+ },
+ {
+   "cityName": "Barpalli",
+   "code": "07813"
+ },
+ {
+   "cityName": "Barpeta Road",
+   "code": "03666"
+ },
+ {
+   "cityName": "Barshi Takli",
+   "code": "07255"
+ },
+ {
+   "cityName": "Barsi",
+   "code": "02184"
+ },
+ {
+   "cityName": "Barwadih",
+   "code": "06567"
+ },
+ {
+   "cityName": "Barwaha",
+   "code": "07280"
+ },
+ {
+   "cityName": "Barwala",
+   "code": "02711"
+ },
+ {
+   "cityName": "Barwala",
+   "code": "01693"
+ },
+ {
+   "cityName": "Basana",
+   "code": "07724"
+ },
+ {
+   "cityName": "Basar",
+   "code": "03795"
+ },
+ {
+   "cityName": "Basavakalyan",
+   "code": "08481"
+ },
+ {
+   "cityName": "Basavanabagewadi",
+   "code": "08358"
+ },
+ {
+   "cityName": "Basavapatna",
+   "code": "08180"
+ },
+ {
+   "cityName": "Baseri",
+   "code": "05646"
+ },
+ {
+   "cityName": "Basholi",
+   "code": "01921"
+ },
+ {
+   "cityName": "Basia",
+   "code": "06533"
+ },
+ {
+   "cityName": "Basirhat",
+   "code": "03217"
+ },
+ {
+   "cityName": "Basmatnagar",
+   "code": "02454"
+ },
+ {
+   "cityName": "Bassein",
+   "code": "0250"
+ },
+ {
+   "cityName": "Bassi",
+   "code": "01429"
+ },
+ {
+   "cityName": "Basta",
+   "code": "06781"
+ },
+ {
+   "cityName": "Bastanar",
+   "code": "07862"
+ },
+ {
+   "cityName": "Basti",
+   "code": "05542"
+ },
+ {
+   "cityName": "Baswa",
+   "code": "01420"
+ },
+ {
+   "cityName": "Batala",
+   "code": "01871"
+ },
+ {
+   "cityName": "Batkakhapa",
+   "code": "07169"
+ },
+ {
+   "cityName": "Batlagundu",
+   "code": "04543"
+ },
+ {
+   "cityName": "Bawal",
+   "code": "01284"
+ },
+ {
+   "cityName": "Bawanikhera",
+   "code": "01254"
+ },
+ {
+   "cityName": "Bayad",
+   "code": "02779"
+ },
+ {
+   "cityName": "Bayana",
+   "code": "05648"
+ },
+ {
+   "cityName": "Bderajpur",
+   "code": "07849"
+ },
+ {
+   "cityName": "Beawar",
+   "code": "01462"
+ },
+ {
+   "cityName": "Bedarwah",
+   "code": "01997"
+ },
+ {
+   "cityName": "Begamganj",
+   "code": "07487"
+ },
+ {
+   "cityName": "Begun (N)",
+   "code": "01474"
+ },
+ {
+   "cityName": "Begun (S)",
+   "code": "01475"
+ },
+ {
+   "cityName": "Begusarai",
+   "code": "06243"
+ },
+ {
+   "cityName": "Behror",
+   "code": "01494"
+ },
+ {
+   "cityName": "Belgaum",
+   "code": "0831"
+ },
+ {
+   "cityName": "Bellampalli",
+   "code": "08735"
+ },
+ {
+   "cityName": "Bellary",
+   "code": "08392"
+ },
+ {
+   "cityName": "Belonia",
+   "code": "03823"
+ },
+ {
+   "cityName": "Belthangady",
+   "code": "08256"
+ },
+ {
+   "cityName": "Belur",
+   "code": "08177"
+ },
+ {
+   "cityName": "Bemetara",
+   "code": "07824"
+ },
+ {
+   "cityName": "Benipatti",
+   "code": "06271"
+ },
+ {
+   "cityName": "Benipur",
+   "code": "06242"
+ },
+ {
+   "cityName": "Beohari",
+   "code": "07650"
+ },
+ {
+   "cityName": "Berasia",
+   "code": "07565"
+ },
+ {
+   "cityName": "Berchha",
+   "code": "07363"
+ },
+ {
+   "cityName": "Berhampur",
+   "code": "0680"
+ },
+ {
+   "cityName": "Berhampur",
+   "code": "03482"
+ },
+ {
+   "cityName": "Berla",
+   "code": "07825"
+ },
+ {
+   "cityName": "Bermo",
+   "code": "06549"
+ },
+ {
+   "cityName": "Betanati",
+   "code": "06793"
+ },
+ {
+   "cityName": "Bethuadahari",
+   "code": "03474"
+ },
+ {
+   "cityName": "Bettiah",
+   "code": "06254"
+ },
+ {
+   "cityName": "Betul",
+   "code": "07141"
+ },
+ {
+   "cityName": "Bhabhua",
+   "code": "06189"
+ },
+ {
+   "cityName": "Bhachav",
+   "code": "02837"
+ },
+ {
+   "cityName": "Bhadohi",
+   "code": "05414"
+ },
+ {
+   "cityName": "Bhadra",
+   "code": "01504"
+ },
+ {
+   "cityName": "Bhadrachalam",
+   "code": "08743"
+ },
+ {
+   "cityName": "Bhadrak",
+   "code": "06784"
+ },
+ {
+   "cityName": "Bhadravati",
+   "code": "08282"
+ },
+ {
+   "cityName": "Bhadrawati",
+   "code": "07175"
+ },
+ {
+   "cityName": "Bhagalpur",
+   "code": "0641"
+ },
+ {
+   "cityName": "Bhainsa",
+   "code": "08752"
+ },
+ {
+   "cityName": "Bhainsdehi",
+   "code": "07143"
+ },
+ {
+   "cityName": "Bhairongarh",
+   "code": "07789"
+ },
+ {
+   "cityName": "Bhalki",
+   "code": "08484"
+ },
+ {
+   "cityName": "Bhamregadh",
+   "code": "07134"
+ },
+ {
+   "cityName": "Bhandara",
+   "code": "07184"
+ },
+ {
+   "cityName": "Bhandaria",
+   "code": "06581"
+ },
+ {
+   "cityName": "Bhander",
+   "code": "07523"
+ },
+ {
+   "cityName": "Bhanjanagar",
+   "code": "06821"
+ },
+ {
+   "cityName": "Bhanpura",
+   "code": "07427"
+ },
+ {
+   "cityName": "Bhanupratappur",
+   "code": "07850"
+ },
+ {
+   "cityName": "Bhanvad",
+   "code": "02896"
+ },
+ {
+   "cityName": "Bharathpur",
+   "code": "07835"
+ },
+ {
+   "cityName": "Bharatpur",
+   "code": "05644"
+ },
+ {
+   "cityName": "Bharmour",
+   "code": "01895"
+ },
+ {
+   "cityName": "Bharthana",
+   "code": "05680"
+ },
+ {
+   "cityName": "Bharuch",
+   "code": "02642"
+ },
+ {
+   "cityName": "Bharwari",
+   "code": "05331"
+ },
+ {
+   "cityName": "Bhatapara",
+   "code": "07726"
+ },
+ {
+   "cityName": "Bhatinda",
+   "code": "0164"
+ },
+ {
+   "cityName": "Bhatkal",
+   "code": "08385"
+ },
+ {
+   "cityName": "Bhatwari-I",
+   "code": "01374"
+ },
+ {
+   "cityName": "Bhatwari-Ii",
+   "code": "01377"
+ },
+ {
+   "cityName": "Bhavani",
+   "code": "04256"
+ },
+ {
+   "cityName": "Bhavnagar",
+   "code": "0278"
+ },
+ {
+   "cityName": "Bhawanathpur",
+   "code": "06563"
+ },
+ {
+   "cityName": "Bhawanipatna",
+   "code": "06670"
+ },
+ {
+   "cityName": "Bheemunipatnam",
+   "code": "08933"
+ },
+ {
+   "cityName": "Bhikangaon",
+   "code": "07288"
+ },
+ {
+   "cityName": "Bhilaigarh",
+   "code": "07729"
+ },
+ {
+   "cityName": "Bhiloda",
+   "code": "02771"
+ },
+ {
+   "cityName": "Bhilwara",
+   "code": "01482"
+ },
+ {
+   "cityName": "Bhim(N)",
+   "code": "02951"
+ },
+ {
+   "cityName": "Bhim(S)",
+   "code": "02909"
+ },
+ {
+   "cityName": "Bhimadole",
+   "code": "08829"
+ },
+ {
+   "cityName": "Bhimavaram",
+   "code": "08816"
+ },
+ {
+   "cityName": "Bhimpur",
+   "code": "07142"
+ },
+ {
+   "cityName": "Bhind",
+   "code": "07534"
+ },
+ {
+   "cityName": "Bhinmal(N)",
+   "code": "02969"
+ },
+ {
+   "cityName": "Bhinmal(S)",
+   "code": "02990"
+ },
+ {
+   "cityName": "Bhir",
+   "code": "02442"
+ },
+ {
+   "cityName": "Bhitarwar",
+   "code": "07525"
+ },
+ {
+   "cityName": "Bhiwandi",
+   "code": "02522"
+ },
+ {
+   "cityName": "Bhiwani",
+   "code": "01664"
+ },
+ {
+   "cityName": "Bhiwapur",
+   "code": "07106"
+ },
+ {
+   "cityName": "Bhogaon",
+   "code": "05673"
+ },
+ {
+   "cityName": "Bhognipur",
+   "code": "05113"
+ },
+ {
+   "cityName": "Bhokar",
+   "code": "02467"
+ },
+ {
+   "cityName": "Bhokardan",
+   "code": "02485"
+ },
+ {
+   "cityName": "Bhongir",
+   "code": "08685"
+ },
+ {
+   "cityName": "Bhoom",
+   "code": "02478"
+ },
+ {
+   "cityName": "Bhooragamphad",
+   "code": "08746"
+ },
+ {
+   "cityName": "Bhopal",
+   "code": "0755"
+ },
+ {
+   "cityName": "Bhopalpatnam",
+   "code": "07851"
+ },
+ {
+   "cityName": "Bhor",
+   "code": "02113"
+ },
+ {
+   "cityName": "Bhubneshwar",
+   "code": "0674"
+ },
+ {
+   "cityName": "Bhudargad",
+   "code": "02599"
+ },
+ {
+   "cityName": "Bhuj",
+   "code": "02832"
+ },
+ {
+   "cityName": "Bhusawal",
+   "code": "02582"
+ },
+ {
+   "cityName": "Biaora",
+   "code": "07374"
+ },
+ {
+   "cityName": "Bidar",
+   "code": "08482"
+ },
+ {
+   "cityName": "Bidhuna",
+   "code": "05681"
+ },
+ {
+   "cityName": "Bidupur",
+   "code": "06229"
+ },
+ {
+   "cityName": "Biharsharif",
+   "code": "06112"
+ },
+ {
+   "cityName": "Bihupuria",
+   "code": "03759"
+ },
+ {
+   "cityName": "Bijadandi",
+   "code": "07643"
+ },
+ {
+   "cityName": "Bijapur",
+   "code": "07853"
+ },
+ {
+   "cityName": "Bijapur",
+   "code": "08352"
+ },
+ {
+   "cityName": "Bijawar",
+   "code": "07608"
+ },
+ {
+   "cityName": "Bijaypur",
+   "code": "07528"
+ },
+ {
+   "cityName": "Bijni",
+   "code": "03668"
+ },
+ {
+   "cityName": "Bijnore-I",
+   "code": "01342"
+ },
+ {
+   "cityName": "Bijnore-Ii",
+   "code": "01345"
+ },
+ {
+   "cityName": "Bikaner ( C)",
+   "code": "01521"
+ },
+ {
+   "cityName": "Bikaner ( E)",
+   "code": "01522"
+ },
+ {
+   "cityName": "Bikaner ( N)",
+   "code": "01520"
+ },
+ {
+   "cityName": "Bikaner ( S)",
+   "code": "0151"
+ },
+ {
+   "cityName": "Bikaner ( W)",
+   "code": "01523"
+ },
+ {
+   "cityName": "Bikapur",
+   "code": "05270"
+ },
+ {
+   "cityName": "Bikram",
+   "code": "06135"
+ },
+ {
+   "cityName": "Bikramganj",
+   "code": "06185"
+ },
+ {
+   "cityName": "Bilara(N)",
+   "code": "02920"
+ },
+ {
+   "cityName": "Bilara(S)",
+   "code": "02930"
+ },
+ {
+   "cityName": "Bilari",
+   "code": "05921"
+ },
+ {
+   "cityName": "Bilasipara",
+   "code": "03667"
+ },
+ {
+   "cityName": "Bilaspur",
+   "code": "07752"
+ },
+ {
+   "cityName": "Bilaspur",
+   "code": "01978"
+ },
+ {
+   "cityName": "Bilgram-I",
+   "code": "05851"
+ },
+ {
+   "cityName": "Bilgram-Ii",
+   "code": "05855"
+ },
+ {
+   "cityName": "Bilhaur",
+   "code": "05112"
+ },
+ {
+   "cityName": "Biligi",
+   "code": "08425"
+ },
+ {
+   "cityName": "Billimora",
+   "code": "02634"
+ },
+ {
+   "cityName": "Billoli",
+   "code": "02465"
+ },
+ {
+   "cityName": "Bina",
+   "code": "07580"
+ },
+ {
+   "cityName": "Bindki",
+   "code": "05181"
+ },
+ {
+   "cityName": "Birmaharajpur",
+   "code": "06651"
+ },
+ {
+   "cityName": "Birpara",
+   "code": "03563"
+ },
+ {
+   "cityName": "Birpur",
+   "code": "06471"
+ },
+ {
+   "cityName": "Birsa",
+   "code": "07637"
+ },
+ {
+   "cityName": "Birsinghpur",
+   "code": "07655"
+ },
+ {
+   "cityName": "Bisalpur",
+   "code": "05881"
+ },
+ {
+   "cityName": "Bisam Cuttack",
+   "code": "06863"
+ },
+ {
+   "cityName": "Bisauli",
+   "code": "05834"
+ },
+ {
+   "cityName": "Bishanpur",
+   "code": "03244"
+ },
+ {
+   "cityName": "Bishenupur",
+   "code": "03879"
+ },
+ {
+   "cityName": "Bishrampur",
+   "code": "06584"
+ },
+ {
+   "cityName": "Biswan",
+   "code": "05863"
+ },
+ {
+   "cityName": "Bitra",
+   "code": "04890"
+ },
+ {
+   "cityName": "Boath",
+   "code": "08751"
+ },
+ {
+   "cityName": "Bobbili",
+   "code": "08944"
+ },
+ {
+   "cityName": "Bodhan",
+   "code": "08467"
+ },
+ {
+   "cityName": "Bodla",
+   "code": "07740"
+ },
+ {
+   "cityName": "Bokaband",
+   "code": "07867"
+ },
+ {
+   "cityName": "Bokajan",
+   "code": "03675"
+ },
+ {
+   "cityName": "Bokakhat",
+   "code": "03776"
+ },
+ {
+   "cityName": "Bokaro",
+   "code": "06542"
+ },
+ {
+   "cityName": "Boko",
+   "code": "03621"
+ },
+ {
+   "cityName": "Bolpur",
+   "code": "03463"
+ },
+ {
+   "cityName": "Bolwa",
+   "code": "06539"
+ },
+ {
+   "cityName": "Bongoan",
+   "code": "03215"
+ },
+ {
+   "cityName": "Bonli",
+   "code": "07466"
+ },
+ {
+   "cityName": "Boriguma",
+   "code": "06860"
+ },
+ {
+   "cityName": "Borsad",
+   "code": "02696"
+ },
+ {
+   "cityName": "Botad",
+   "code": "02849"
+ },
+ {
+   "cityName": "Boudh",
+   "code": "06841"
+ },
+ {
+   "cityName": "Brahmapuri",
+   "code": "07177"
+ },
+ {
+   "cityName": "Budhana",
+   "code": "01392"
+ },
+ {
+   "cityName": "Budhni",
+   "code": "07564"
+ },
+ {
+   "cityName": "Buguda",
+   "code": "06818"
+ },
+ {
+   "cityName": "Bulandshahar",
+   "code": "05732"
+ },
+ {
+   "cityName": "Bulbulchandi",
+   "code": "03511"
+ },
+ {
+   "cityName": "Buldhana",
+   "code": "07262"
+ },
+ {
+   "cityName": "Bundi",
+   "code": "0747"
+ },
+ {
+   "cityName": "Bundu",
+   "code": "06530"
+ },
+ {
+   "cityName": "Burdwan",
+   "code": "0342"
+ },
+ {
+   "cityName": "Burhanpur",
+   "code": "07325"
+ },
+ {
+   "cityName": "Butibori",
+   "code": "07103"
+ },
+ {
+   "cityName": "Buxer",
+   "code": "06183"
+ },
+ {
+   "cityName": "Buxwaha",
+   "code": "07609"
+ },
+ {
+   "cityName": "Calcutta",
+   "code": "033"
+ },
+ {
+   "cityName": "Calicut",
+   "code": "0495"
+ },
+ {
+   "cityName": "Canacona",
+   "code": "08346"
+ },
+ {
+   "cityName": "Cannanore",
+   "code": "0497"
+ },
+ {
+   "cityName": "Canning",
+   "code": "03218"
+ },
+ {
+   "cityName": "Capianganj-Ii",
+   "code": "05563"
+ },
+ {
+   "cityName": "Captanganj-I",
+   "code": "05567"
+ },
+ {
+   "cityName": "Chachaura",
+   "code": "07546"
+ },
+ {
+   "cityName": "Chaibasa",
+   "code": "06582"
+ },
+ {
+   "cityName": "Chainpur",
+   "code": "06586"
+ },
+ {
+   "cityName": "Chainpur",
+   "code": "06535"
+ },
+ {
+   "cityName": "Chakai",
+   "code": "06347"
+ },
+ {
+   "cityName": "Chakardharpur",
+   "code": "06587"
+ },
+ {
+   "cityName": "Chakia",
+   "code": "05413"
+ },
+ {
+   "cityName": "Chakpikarong",
+   "code": "03878"
+ },
+ {
+   "cityName": "Chakrata",
+   "code": "01360"
+ },
+ {
+   "cityName": "Chalisgaon",
+   "code": "02589"
+ },
+ {
+   "cityName": "Chamba",
+   "code": "01899"
+ },
+ {
+   "cityName": "Chamoli",
+   "code": "01372"
+ },
+ {
+   "cityName": "Chamorshi",
+   "code": "07135"
+ },
+ {
+   "cityName": "Champadanga",
+   "code": "03212"
+ },
+ {
+   "cityName": "Champai-I",
+   "code": "03831"
+ },
+ {
+   "cityName": "Champai-Ii",
+   "code": "03830"
+ },
+ {
+   "cityName": "Champawat",
+   "code": "05965"
+ },
+ {
+   "cityName": "Chanasma",
+   "code": "02734"
+ },
+ {
+   "cityName": "Chandauli",
+   "code": "05412"
+ },
+ {
+   "cityName": "Chandbali",
+   "code": "06786"
+ },
+ {
+   "cityName": "Chandel",
+   "code": "03872"
+ },
+ {
+   "cityName": "Chanderi",
+   "code": "07547"
+ },
+ {
+   "cityName": "Chandgad",
+   "code": "02320"
+ },
+ {
+   "cityName": "Chandigarh",
+   "code": "0172"
+ },
+ {
+   "cityName": "Chandil",
+   "code": "06591"
+ },
+ {
+   "cityName": "Chandipara",
+   "code": "07818"
+ },
+ {
+   "cityName": "Chandoor",
+   "code": "08681"
+ },
+ {
+   "cityName": "Chandrapur",
+   "code": "07172"
+ },
+ {
+   "cityName": "Chandur Rly.",
+   "code": "07222"
+ },
+ {
+   "cityName": "Chandurbazar",
+   "code": "07227"
+ },
+ {
+   "cityName": "Changlang",
+   "code": "03808"
+ },
+ {
+   "cityName": "Chanwad",
+   "code": "02556"
+ },
+ {
+   "cityName": "Chapara",
+   "code": "06152"
+ },
+ {
+   "cityName": "Charkhari",
+   "code": "05283"
+ },
+ {
+   "cityName": "Charkhidadri",
+   "code": "01250"
+ },
+ {
+   "cityName": "Chatra",
+   "code": "06541"
+ },
+ {
+   "cityName": "Chaurai",
+   "code": "07166"
+ },
+ {
+   "cityName": "Chavitidibbalu",
+   "code": "08863"
+ },
+ {
+   "cityName": "Chavparan",
+   "code": "06547"
+ },
+ {
+   "cityName": "Cheeka",
+   "code": "01743"
+ },
+ {
+   "cityName": "Chejerla",
+   "code": "08628"
+ },
+ {
+   "cityName": "Chengalpattu",
+   "code": "044"
+ },
+ {
+   "cityName": "Chengam",
+   "code": "04188"
+ },
+ {
+   "cityName": "Chennai",
+   "code": "044"
+ },
+ {
+   "cityName": "Chepurupalli",
+   "code": "08952"
+ },
+ {
+   "cityName": "Cherial",
+   "code": "08710"
+ },
+ {
+   "cityName": "Cherrapunjee",
+   "code": "03637"
+ },
+ {
+   "cityName": "Chetlet",
+   "code": "04899"
+ },
+ {
+   "cityName": "Chevella",
+   "code": "08417"
+ },
+ {
+   "cityName": "Chhabra",
+   "code": "07452"
+ },
+ {
+   "cityName": "Chhachrauli",
+   "code": "01735"
+ },
+ {
+   "cityName": "Chhapara",
+   "code": "07691"
+ },
+ {
+   "cityName": "Chhata",
+   "code": "05662"
+ },
+ {
+   "cityName": "Chhatarpur",
+   "code": "07682"
+ },
+ {
+   "cityName": "Chhatrapur",
+   "code": "06811"
+ },
+ {
+   "cityName": "Chhendipada",
+   "code": "06761"
+ },
+ {
+   "cityName": "Chhibramau",
+   "code": "05691"
+ },
+ {
+   "cityName": "Chhikaldara",
+   "code": "07220"
+ },
+ {
+   "cityName": "Chhinagarh",
+   "code": "07863"
+ },
+ {
+   "cityName": "Chhindwara",
+   "code": "07162"
+ },
+ {
+   "cityName": "Chhipaborad",
+   "code": "07454"
+ },
+ {
+   "cityName": "Chhota Udaipur",
+   "code": "02669"
+ },
+ {
+   "cityName": "Chhuriakala",
+   "code": "07745"
+ },
+ {
+   "cityName": "Chicholi",
+   "code": "07145"
+ },
+ {
+   "cityName": "Chidambaram",
+   "code": "04144"
+ },
+ {
+   "cityName": "Chikhali",
+   "code": "07264"
+ },
+ {
+   "cityName": "Chinchwad",
+   "code": "0212"
+ },
+ {
+   "cityName": "Chingmut",
+   "code": "07855"
+ },
+ {
+   "cityName": "Chinnor",
+   "code": "08737"
+ },
+ {
+   "cityName": "Chintalapudi",
+   "code": "08823"
+ },
+ {
+   "cityName": "Chintapalle",
+   "code": "08937"
+ },
+ {
+   "cityName": "Chiplun",
+   "code": "02355"
+ },
+ {
+   "cityName": "Chirala",
+   "code": "08594"
+ },
+ {
+   "cityName": "Chirawa",
+   "code": "01596"
+ },
+ {
+   "cityName": "Chirgaon",
+   "code": "05170"
+ },
+ {
+   "cityName": "Chitrangi",
+   "code": "07806"
+ },
+ {
+   "cityName": "Chittoor",
+   "code": "08572"
+ },
+ {
+   "cityName": "Chittorgarh",
+   "code": "01472"
+ },
+ {
+   "cityName": "Chodavaram",
+   "code": "08934"
+ },
+ {
+   "cityName": "Chohtan (N)",
+   "code": "02989"
+ },
+ {
+   "cityName": "Chohtan (S)",
+   "code": "02903"
+ },
+ {
+   "cityName": "Chopda",
+   "code": "02586"
+ },
+ {
+   "cityName": "Chotila",
+   "code": "02751"
+ },
+ {
+   "cityName": "Chowkhem",
+   "code": "03806"
+ },
+ {
+   "cityName": "Chuikhadan",
+   "code": "07743"
+ },
+ {
+   "cityName": "Chumur",
+   "code": "07170"
+ },
+ {
+   "cityName": "Chunur",
+   "code": "05443"
+ },
+ {
+   "cityName": "Churah",
+   "code": "01896"
+ },
+ {
+   "cityName": "Churchandpur",
+   "code": "03874"
+ },
+ {
+   "cityName": "Churhat",
+   "code": "07802"
+ },
+ {
+   "cityName": "Churu",
+   "code": "01562"
+ },
+ {
+   "cityName": "Coimbatore",
+   "code": "0422"
+ },
+ {
+   "cityName": "Contai",
+   "code": "03220"
+ },
+ {
+   "cityName": "Coochbehar",
+   "code": "03582"
+ },
+ {
+   "cityName": "Cuddalore",
+   "code": "04142"
+ },
+ {
+   "cityName": "Cuddapah",
+   "code": "08562"
+ },
+ {
+   "cityName": "Cumbum",
+   "code": "08406"
+ },
+ {
+   "cityName": "Cumbum",
+   "code": "04554"
+ },
+ {
+   "cityName": "Cuttack",
+   "code": "0671"
+ },
+ {
+   "cityName": "Dabhara",
+   "code": "07758"
+ },
+ {
+   "cityName": "Dabhoi",
+   "code": "02663"
+ },
+ {
+   "cityName": "Dabra",
+   "code": "07524"
+ },
+ {
+   "cityName": "Dabwali",
+   "code": "01668"
+ },
+ {
+   "cityName": "Dadengiri",
+   "code": "03650"
+ },
+ {
+   "cityName": "Dahanu",
+   "code": "02528"
+ },
+ {
+   "cityName": "Dahod",
+   "code": "02673"
+ },
+ {
+   "cityName": "Daimond Harbour",
+   "code": "03174"
+ },
+ {
+   "cityName": "Dalkhola",
+   "code": "03525"
+ },
+ {
+   "cityName": "Dallirajhara",
+   "code": "07748"
+ },
+ {
+   "cityName": "Dalmau-I",
+   "code": "05317"
+ },
+ {
+   "cityName": "Dalmau-Ii",
+   "code": "05315"
+ },
+ {
+   "cityName": "Dalsinghsarai",
+   "code": "06278"
+ },
+ {
+   "cityName": "Daltonganj",
+   "code": "06562"
+ },
+ {
+   "cityName": "Damnagar",
+   "code": "02793"
+ },
+ {
+   "cityName": "Damoh",
+   "code": "07638"
+ },
+ {
+   "cityName": "Damoh",
+   "code": "07812"
+ },
+ {
+   "cityName": "Danapur",
+   "code": "06115"
+ },
+ {
+   "cityName": "Danta",
+   "code": "02749"
+ },
+ {
+   "cityName": "Dantan",
+   "code": "03229"
+ },
+ {
+   "cityName": "Dantaramgarh(E)",
+   "code": "01576"
+ },
+ {
+   "cityName": "Dantaramgarh(W)",
+   "code": "01577"
+ },
+ {
+   "cityName": "Dantewada",
+   "code": "07856"
+ },
+ {
+   "cityName": "Dapoli",
+   "code": "02358"
+ },
+ {
+   "cityName": "Daporizo",
+   "code": "03792"
+ },
+ {
+   "cityName": "Darbhanga",
+   "code": "06272"
+ },
+ {
+   "cityName": "Daringbadi",
+   "code": "06849"
+ },
+ {
+   "cityName": "Darjeeling",
+   "code": "0354"
+ },
+ {
+   "cityName": "Darsi",
+   "code": "08407"
+ },
+ {
+   "cityName": "Darwaha",
+   "code": "07238"
+ },
+ {
+   "cityName": "Daryapur",
+   "code": "07224"
+ },
+ {
+   "cityName": "Dasada",
+   "code": "02757"
+ },
+ {
+   "cityName": "Daspalla",
+   "code": "06757"
+ },
+ {
+   "cityName": "Dasua",
+   "code": "01883"
+ },
+ {
+   "cityName": "Dataganj",
+   "code": "05831"
+ },
+ {
+   "cityName": "Datia",
+   "code": "07522"
+ },
+ {
+   "cityName": "Daudnagar",
+   "code": "06328"
+ },
+ {
+   "cityName": "Daund",
+   "code": "02117"
+ },
+ {
+   "cityName": "Dausa",
+   "code": "01427"
+ },
+ {
+   "cityName": "Debai",
+   "code": "05734"
+ },
+ {
+   "cityName": "Dediapada",
+   "code": "02649"
+ },
+ {
+   "cityName": "Deedwana",
+   "code": "01580"
+ },
+ {
+   "cityName": "Deeg",
+   "code": "05641"
+ },
+ {
+   "cityName": "Deesa",
+   "code": "02744"
+ },
+ {
+   "cityName": "Degana",
+   "code": "01587"
+ },
+ {
+   "cityName": "Degloor",
+   "code": "02463"
+ },
+ {
+   "cityName": "Dehgam",
+   "code": "02716"
+ },
+ {
+   "cityName": "Dehra Gopipur",
+   "code": "01970"
+ },
+ {
+   "cityName": "Dehradun",
+   "code": "0135"
+ },
+ {
+   "cityName": "Delhi Tanda",
+   "code": "02460"
+ },
+ {
+   "cityName": "Demagiri",
+   "code": "03834"
+ },
+ {
+   "cityName": "Denkanikoitah",
+   "code": "04347"
+ },
+ {
+   "cityName": "Deoband",
+   "code": "01336"
+ },
+ {
+   "cityName": "Deobhog",
+   "code": "07704"
+ },
+ {
+   "cityName": "Deodar",
+   "code": "02735"
+ },
+ {
+   "cityName": "Deodgarh",
+   "code": "06641"
+ },
+ {
+   "cityName": "Deogad",
+   "code": "02364"
+ },
+ {
+   "cityName": "Deogarh",
+   "code": "02904"
+ },
+ {
+   "cityName": "Deoghar",
+   "code": "06432"
+ },
+ {
+   "cityName": "Deolgaonraja",
+   "code": "07261"
+ },
+ {
+   "cityName": "Deoli",
+   "code": "07158"
+ },
+ {
+   "cityName": "Deoli",
+   "code": "01434"
+ },
+ {
+   "cityName": "Deoprayag-I",
+   "code": "01378"
+ },
+ {
+   "cityName": "Deoprayag-Ii",
+   "code": "01370"
+ },
+ {
+   "cityName": "Deori",
+   "code": "07586"
+ },
+ {
+   "cityName": "Deori",
+   "code": "07199"
+ },
+ {
+   "cityName": "Deoria",
+   "code": "05568"
+ },
+ {
+   "cityName": "Deosar",
+   "code": "07801"
+ },
+ {
+   "cityName": "Depalpur",
+   "code": "07322"
+ },
+ {
+   "cityName": "Derapur",
+   "code": "05114"
+ },
+ {
+   "cityName": "Desaiganj",
+   "code": "07137"
+ },
+ {
+   "cityName": "Desuri",
+   "code": "02934"
+ },
+ {
+   "cityName": "Devakottai",
+   "code": "04561"
+ },
+ {
+   "cityName": "Devarakonda",
+   "code": "08691"
+ },
+ {
+   "cityName": "Devgadhbaria",
+   "code": "02678"
+ },
+ {
+   "cityName": "Dewas",
+   "code": "07272"
+ },
+ {
+   "cityName": "Dhadgaon",
+   "code": "02595"
+ },
+ {
+   "cityName": "Dhaka",
+   "code": "06250"
+ },
+ {
+   "cityName": "Dhakuakhana",
+   "code": "03758"
+ },
+ {
+   "cityName": "Dhamda",
+   "code": "07821"
+ },
+ {
+   "cityName": "Dhamdaha",
+   "code": "06462"
+ },
+ {
+   "cityName": "Dhampur",
+   "code": "01344"
+ },
+ {
+   "cityName": "Dhamtari",
+   "code": "07722"
+ },
+ {
+   "cityName": "Dhanbad",
+   "code": "0326"
+ },
+ {
+   "cityName": "Dhandhuka",
+   "code": "02713"
+ },
+ {
+   "cityName": "Dhanera",
+   "code": "02748"
+ },
+ {
+   "cityName": "Dhaniakhali",
+   "code": "03213"
+ },
+ {
+   "cityName": "Dhanmandal",
+   "code": "06725"
+ },
+ {
+   "cityName": "Dhanora",
+   "code": "07138"
+ },
+ {
+   "cityName": "Dhar",
+   "code": "07292"
+ },
+ {
+   "cityName": "Dharam Nagar",
+   "code": "03822"
+ },
+ {
+   "cityName": "Dharamgarh",
+   "code": "06672"
+ },
+ {
+   "cityName": "Dharamjaigarh",
+   "code": "07766"
+ },
+ {
+   "cityName": "Dharampur",
+   "code": "02633"
+ },
+ {
+   "cityName": "Dharampuram",
+   "code": "04258"
+ },
+ {
+   "cityName": "Dharampuri",
+   "code": "07294"
+ },
+ {
+   "cityName": "Dharani",
+   "code": "07226"
+ },
+ {
+   "cityName": "Dharchula",
+   "code": "05967"
+ },
+ {
+   "cityName": "Dhari",
+   "code": "02797"
+ },
+ {
+   "cityName": "Dhariawad",
+   "code": "02950"
+ },
+ {
+   "cityName": "Dharmapuri",
+   "code": "04342"
+ },
+ {
+   "cityName": "Dharmavaram",
+   "code": "08559"
+ },
+ {
+   "cityName": "Dhemaji",
+   "code": "03753"
+ },
+ {
+   "cityName": "Dhenkanal",
+   "code": "06762"
+ },
+ {
+   "cityName": "Dhiwadi",
+   "code": "02165"
+ },
+ {
+   "cityName": "Dholka",
+   "code": "02714"
+ },
+ {
+   "cityName": "Dholpur",
+   "code": "05642"
+ },
+ {
+   "cityName": "Dhoraji",
+   "code": "02824"
+ },
+ {
+   "cityName": "Dhrangadhra",
+   "code": "02754"
+ },
+ {
+   "cityName": "Dhrol",
+   "code": "02897"
+ },
+ {
+   "cityName": "Dhubri",
+   "code": "03662"
+ },
+ {
+   "cityName": "Dhulia",
+   "code": "02562"
+ },
+ {
+   "cityName": "Dhuliyan",
+   "code": "03485"
+ },
+ {
+   "cityName": "Dibrugarh",
+   "code": "0373"
+ },
+ {
+   "cityName": "Dichpalli",
+   "code": "08461"
+ },
+ {
+   "cityName": "Digapahandi",
+   "code": "06814"
+ },
+ {
+   "cityName": "Digboi",
+   "code": "03751"
+ },
+ {
+   "cityName": "Digod",
+   "code": "07455"
+ },
+ {
+   "cityName": "Digras",
+   "code": "07234"
+ },
+ {
+   "cityName": "Dimapur",
+   "code": "03862"
+ },
+ {
+   "cityName": "Dinanagar",
+   "code": "01875"
+ },
+ {
+   "cityName": "Dindigul",
+   "code": "0451"
+ },
+ {
+   "cityName": "Dindori",
+   "code": "07644"
+ },
+ {
+   "cityName": "Dindori",
+   "code": "02557"
+ },
+ {
+   "cityName": "Dinhata",
+   "code": "03581"
+ },
+ {
+   "cityName": "Diphu",
+   "code": "03671"
+ },
+ {
+   "cityName": "Dirang",
+   "code": "03780"
+ },
+ {
+   "cityName": "Divi",
+   "code": "08671"
+ },
+ {
+   "cityName": "Doda",
+   "code": "01996"
+ },
+ {
+   "cityName": "Domariyaganj",
+   "code": "05541"
+ },
+ {
+   "cityName": "Donakonda",
+   "code": "08408"
+ },
+ {
+   "cityName": "Dongargarh",
+   "code": "07823"
+ },
+ {
+   "cityName": "Dronachalam",
+   "code": "08516"
+ },
+ {
+   "cityName": "Dudhi-I",
+   "code": "05447"
+ },
+ {
+   "cityName": "Dudhi-Ii",
+   "code": "05446"
+ },
+ {
+   "cityName": "Dudu",
+   "code": "01428"
+ },
+ {
+   "cityName": "Dumka",
+   "code": "06434"
+ },
+ {
+   "cityName": "Dumraon",
+   "code": "06323"
+ },
+ {
+   "cityName": "Dumri",
+   "code": "06558"
+ },
+ {
+   "cityName": "Dunda",
+   "code": "01371"
+ },
+ {
+   "cityName": "Dungarpur",
+   "code": "02964"
+ },
+ {
+   "cityName": "Dungla",
+   "code": "01470"
+ },
+ {
+   "cityName": "Dunguripali",
+   "code": "06653"
+ },
+ {
+   "cityName": "Durg",
+   "code": "0788"
+ },
+ {
+   "cityName": "Durgakondal",
+   "code": "07843"
+ },
+ {
+   "cityName": "Durgapur",
+   "code": "0343"
+ },
+ {
+   "cityName": "Edalabad",
+   "code": "02583"
+ },
+ {
+   "cityName": "Ekma",
+   "code": "06155"
+ },
+ {
+   "cityName": "Ellenabad",
+   "code": "01698"
+ },
+ {
+   "cityName": "Eluru",
+   "code": "08812"
+ },
+ {
+   "cityName": "Erandul",
+   "code": "02588"
+ },
+ {
+   "cityName": "Ernakulam",
+   "code": "0484"
+ },
+ {
+   "cityName": "Erode",
+   "code": "0424"
+ },
+ {
+   "cityName": "Etah",
+   "code": "05742"
+ },
+ {
+   "cityName": "Etapalli",
+   "code": "07136"
+ },
+ {
+   "cityName": "Etawah",
+   "code": "05688"
+ },
+ {
+   "cityName": "Eturnagaram",
+   "code": "08717"
+ },
+ {
+   "cityName": "Faizabad",
+   "code": "05278"
+ },
+ {
+   "cityName": "Faridabad",
+   "code": "0129"
+ },
+ {
+   "cityName": "Faridkot",
+   "code": "01639"
+ },
+ {
+   "cityName": "Farrukhabad",
+   "code": "05692"
+ },
+ {
+   "cityName": "Fatehabad",
+   "code": "01667"
+ },
+ {
+   "cityName": "Fatehpur",
+   "code": "01571"
+ },
+ {
+   "cityName": "Fatehpur",
+   "code": "05240"
+ },
+ {
+   "cityName": "Fatehpur-I",
+   "code": "05180"
+ },
+ {
+   "cityName": "Fatehpur-Ii",
+   "code": "05183"
+ },
+ {
+   "cityName": "Fazilka",
+   "code": "01638"
+ },
+ {
+   "cityName": "Ferojpur Jhirka",
+   "code": "01268"
+ },
+ {
+   "cityName": "Ferozabad",
+   "code": "05612"
+ },
+ {
+   "cityName": "Ferozepur",
+   "code": "01632"
+ },
+ {
+   "cityName": "Fingeshwar",
+   "code": "07701"
+ },
+ {
+   "cityName": "Forbesganj",
+   "code": "06455"
+ },
+ {
+   "cityName": "Fortsongadh",
+   "code": "02624"
+ },
+ {
+   "cityName": "G. Udayagiri",
+   "code": "06847"
+ },
+ {
+   "cityName": "Gadarwara",
+   "code": "07791"
+ },
+ {
+   "cityName": "Gadhada",
+   "code": "02847"
+ },
+ {
+   "cityName": "Gadhchiroli",
+   "code": "07132"
+ },
+ {
+   "cityName": "Gadhinglaj",
+   "code": "02327"
+ },
+ {
+   "cityName": "Gadwal",
+   "code": "08546"
+ },
+ {
+   "cityName": "Gaganbavada",
+   "code": "02326"
+ },
+ {
+   "cityName": "Gairatganj",
+   "code": "07481"
+ },
+ {
+   "cityName": "Gajapathinagaram",
+   "code": "08965"
+ },
+ {
+   "cityName": "Gajwel",
+   "code": "08454"
+ },
+ {
+   "cityName": "Gandhi Nagar",
+   "code": "02712"
+ },
+ {
+   "cityName": "Gangajalghati",
+   "code": "03241"
+ },
+ {
+   "cityName": "Gangakhed",
+   "code": "02453"
+ },
+ {
+   "cityName": "Gangapur",
+   "code": "02433"
+ },
+ {
+   "cityName": "Gangapur",
+   "code": "07463"
+ },
+ {
+   "cityName": "Gangarampur",
+   "code": "03521"
+ },
+ {
+   "cityName": "Gangdhar",
+   "code": "07435"
+ },
+ {
+   "cityName": "Gangtok",
+   "code": "03592"
+ },
+ {
+   "cityName": "Ganjbasoda",
+   "code": "07594"
+ },
+ {
+   "cityName": "Garauth",
+   "code": "05171"
+ },
+ {
+   "cityName": "Garhashanker",
+   "code": "01884"
+ },
+ {
+   "cityName": "Garhmukteshwar",
+   "code": "05731"
+ },
+ {
+   "cityName": "Garhwa",
+   "code": "06561"
+ },
+ {
+   "cityName": "Gariaband",
+   "code": "07706"
+ },
+ {
+   "cityName": "Gariadhar",
+   "code": "02843"
+ },
+ {
+   "cityName": "Garladinne",
+   "code": "08551"
+ },
+ {
+   "cityName": "Garoth",
+   "code": "07425"
+ },
+ {
+   "cityName": "Garpa",
+   "code": "07846"
+ },
+ {
+   "cityName": "Garu",
+   "code": "06569"
+ },
+ {
+   "cityName": "Gauzing",
+   "code": "03595"
+ },
+ {
+   "cityName": "Gaya",
+   "code": "0631"
+ },
+ {
+   "cityName": "Gerhi",
+   "code": "02963"
+ },
+ {
+   "cityName": "Gevrai",
+   "code": "02447"
+ },
+ {
+   "cityName": "Ghaghra",
+   "code": "06523"
+ },
+ {
+   "cityName": "Ghansour",
+   "code": "07693"
+ },
+ {
+   "cityName": "Gharaunda",
+   "code": "01748"
+ },
+ {
+   "cityName": "Gharghoda",
+   "code": "07767"
+ },
+ {
+   "cityName": "Ghatal",
+   "code": "03225"
+ },
+ {
+   "cityName": "Ghatampur",
+   "code": "05115"
+ },
+ {
+   "cityName": "Ghatanji",
+   "code": "07230"
+ },
+ {
+   "cityName": "Ghatgaon",
+   "code": "06733"
+ },
+ {
+   "cityName": "Ghatia",
+   "code": "07368"
+ },
+ {
+   "cityName": "Ghatigaon",
+   "code": "07526"
+ },
+ {
+   "cityName": "Ghatol",
+   "code": "02961"
+ },
+ {
+   "cityName": "Ghatsila",
+   "code": "06585"
+ },
+ {
+   "cityName": "Ghaziabad+Dadri",
+   "code": "0120"
+ },
+ {
+   "cityName": "Ghazipur",
+   "code": "0548"
+ },
+ {
+   "cityName": "Ghorandogri",
+   "code": "07146"
+ },
+ {
+   "cityName": "Ghosi",
+   "code": "05461"
+ },
+ {
+   "cityName": "Ghughari",
+   "code": "07647"
+ },
+ {
+   "cityName": "Giddalur",
+   "code": "08405"
+ },
+ {
+   "cityName": "Gingee",
+   "code": "04145"
+ },
+ {
+   "cityName": "Giridih",
+   "code": "06532"
+ },
+ {
+   "cityName": "Girwa",
+   "code": "0294"
+ },
+ {
+   "cityName": "Goalpara",
+   "code": "03663"
+ },
+ {
+   "cityName": "Gobichettipalayam",
+   "code": "04285"
+ },
+ {
+   "cityName": "Godda",
+   "code": "06422"
+ },
+ {
+   "cityName": "Godhra",
+   "code": "02672"
+ },
+ {
+   "cityName": "Gogaon",
+   "code": "07287"
+ },
+ {
+   "cityName": "Gogodar",
+   "code": "02806"
+ },
+ {
+   "cityName": "Gogri",
+   "code": "06245"
+ },
+ {
+   "cityName": "Gogunda",
+   "code": "07865"
+ },
+ {
+   "cityName": "Gogunda",
+   "code": "02956"
+ },
+ {
+   "cityName": "Gohad",
+   "code": "07539"
+ },
+ {
+   "cityName": "Gohana",
+   "code": "01263"
+ },
+ {
+   "cityName": "Goharganj",
+   "code": "07480"
+ },
+ {
+   "cityName": "Gohpur",
+   "code": "03715"
+ },
+ {
+   "cityName": "Goindwal",
+   "code": "01859"
+ },
+ {
+   "cityName": "Golaghat",
+   "code": "03774"
+ },
+ {
+   "cityName": "Golegaon",
+   "code": "02439"
+ },
+ {
+   "cityName": "Gomia",
+   "code": "06544"
+ },
+ {
+   "cityName": "Gonda",
+   "code": "05262"
+ },
+ {
+   "cityName": "Gondal",
+   "code": "02825"
+ },
+ {
+   "cityName": "Gondia",
+   "code": "07182"
+ },
+ {
+   "cityName": "Gondpipri",
+   "code": "07171"
+ },
+ {
+   "cityName": "Gooty",
+   "code": "08552"
+ },
+ {
+   "cityName": "Gopalganj",
+   "code": "06156"
+ },
+ {
+   "cityName": "Gopalganj",
+   "code": "07695"
+ },
+ {
+   "cityName": "Gorakhpur",
+   "code": "0551"
+ },
+ {
+   "cityName": "Goregaon",
+   "code": "07187"
+ },
+ {
+   "cityName": "Gotegaon",
+   "code": "07794"
+ },
+ {
+   "cityName": "Gourihar",
+   "code": "07688"
+ },
+ {
+   "cityName": "Govindpur",
+   "code": "06540"
+ },
+ {
+   "cityName": "Gudalur",
+   "code": "04262"
+ },
+ {
+   "cityName": "Gudari",
+   "code": "06862"
+ },
+ {
+   "cityName": "Gudivada",
+   "code": "08674"
+ },
+ {
+   "cityName": "Gudiyatham",
+   "code": "04171"
+ },
+ {
+   "cityName": "Gudur",
+   "code": "08525"
+ },
+ {
+   "cityName": "Gudur",
+   "code": "08624"
+ },
+ {
+   "cityName": "Guhagar",
+   "code": "02359"
+ },
+ {
+   "cityName": "Gumla",
+   "code": "06524"
+ },
+ {
+   "cityName": "Guna",
+   "code": "07542"
+ },
+ {
+   "cityName": "Gunnaur",
+   "code": "05836"
+ },
+ {
+   "cityName": "Gunnore",
+   "code": "07731"
+ },
+ {
+   "cityName": "Guntur",
+   "code": "0863"
+ },
+ {
+   "cityName": "Gunupur",
+   "code": "06857"
+ },
+ {
+   "cityName": "Gurdaspur",
+   "code": "01874"
+ },
+ {
+   "cityName": "Gurgaon",
+   "code": "0124"
+ },
+ {
+   "cityName": "Guruharsahai",
+   "code": "01685"
+ },
+ {
+   "cityName": "Guskara",
+   "code": "03452"
+ },
+ {
+   "cityName": "Guwahati",
+   "code": "0361"
+ },
+ {
+   "cityName": "Gwalior",
+   "code": "0751"
+ },
+ {
+   "cityName": "Gyraspur",
+   "code": "07596"
+ },
+ {
+   "cityName": "H.Kharagpur",
+   "code": "06342"
+ },
+ {
+   "cityName": "Habra",
+   "code": "03216"
+ },
+ {
+   "cityName": "Hadgaon",
+   "code": "02468"
+ },
+ {
+   "cityName": "Haidergarh",
+   "code": "05244"
+ },
+ {
+   "cityName": "Hailakandi",
+   "code": "03844"
+ },
+ {
+   "cityName": "Hajipur",
+   "code": "06224"
+ },
+ {
+   "cityName": "Hajo",
+   "code": "03664"
+ },
+ {
+   "cityName": "Haldia",
+   "code": "03224"
+ },
+ {
+   "cityName": "Haldwani-I",
+   "code": "05946"
+ },
+ {
+   "cityName": "Haldwani-Ii",
+   "code": "05945"
+ },
+ {
+   "cityName": "Halflong",
+   "code": "03673"
+ },
+ {
+   "cityName": "Halol",
+   "code": "02676"
+ },
+ {
+   "cityName": "Halvad",
+   "code": "02758"
+ },
+ {
+   "cityName": "Hamirpur",
+   "code": "01972"
+ },
+ {
+   "cityName": "Hamirpur",
+   "code": "05282"
+ },
+ {
+   "cityName": "Hansi",
+   "code": "01663"
+ },
+ {
+   "cityName": "Hanumana",
+   "code": "07664"
+ },
+ {
+   "cityName": "Hanumangarh",
+   "code": "01552"
+ },
+ {
+   "cityName": "Hapur",
+   "code": "0122"
+ },
+ {
+   "cityName": "Harapanahalli",
+   "code": "08398"
+ },
+ {
+   "cityName": "Harda",
+   "code": "07577"
+ },
+ {
+   "cityName": "Hardoi-I",
+   "code": "05852"
+ },
+ {
+   "cityName": "Hardoi-Ii",
+   "code": "05850"
+ },
+ {
+   "cityName": "Harij",
+   "code": "02733"
+ },
+ {
+   "cityName": "Harirampur",
+   "code": "03524"
+ },
+ {
+   "cityName": "Harishchandrapur",
+   "code": "03513"
+ },
+ {
+   "cityName": "Harrai",
+   "code": "07168"
+ },
+ {
+   "cityName": "Harraiya",
+   "code": "05546"
+ },
+ {
+   "cityName": "Harsud",
+   "code": "07327"
+ },
+ {
+   "cityName": "Harur",
+   "code": "04346"
+ },
+ {
+   "cityName": "Hasanganj",
+   "code": "05143"
+ },
+ {
+   "cityName": "Hasanpur",
+   "code": "05924"
+ },
+ {
+   "cityName": "Hassan",
+   "code": "08172"
+ },
+ {
+   "cityName": "Hathras",
+   "code": "05722"
+ },
+ {
+   "cityName": "Hathua",
+   "code": "06150"
+ },
+ {
+   "cityName": "Hatkangale",
+   "code": "02324"
+ },
+ {
+   "cityName": "Hatta",
+   "code": "07604"
+ },
+ {
+   "cityName": "Haveri",
+   "code": "08375"
+ },
+ {
+   "cityName": "Hayuliang",
+   "code": "03805"
+ },
+ {
+   "cityName": "Hazaribagh",
+   "code": "06546"
+ },
+ {
+   "cityName": "Hebri",
+   "code": "08253"
+ },
+ {
+   "cityName": "Hemgiri",
+   "code": "06621"
+ },
+ {
+   "cityName": "Hilsa",
+   "code": "06111"
+ },
+ {
+   "cityName": "Himatnagar",
+   "code": "02772"
+ },
+ {
+   "cityName": "Hindaun",
+   "code": "07469"
+ },
+ {
+   "cityName": "Hindol",
+   "code": "06732"
+ },
+ {
+   "cityName": "Hindoli",
+   "code": "07436"
+ },
+ {
+   "cityName": "Hindupur",
+   "code": "08556"
+ },
+ {
+   "cityName": "Hinganghat",
+   "code": "07153"
+ },
+ {
+   "cityName": "Hingoli",
+   "code": "02456"
+ },
+ {
+   "cityName": "Hingua",
+   "code": "07104"
+ },
+ {
+   "cityName": "Hirekerur",
+   "code": "08376"
+ },
+ {
+   "cityName": "Hiriyur",
+   "code": "08193"
+ },
+ {
+   "cityName": "Hissar",
+   "code": "01662"
+ },
+ {
+   "cityName": "Hojai",
+   "code": "03674"
+ },
+ {
+   "cityName": "Holalkere",
+   "code": "08191"
+ },
+ {
+   "cityName": "Holenarsipur",
+   "code": "08175"
+ },
+ {
+   "cityName": "Honnali",
+   "code": "08188"
+ },
+ {
+   "cityName": "Honnavar",
+   "code": "08387"
+ },
+ {
+   "cityName": "Hosadurga",
+   "code": "08199"
+ },
+ {
+   "cityName": "Hosakote",
+   "code": "08111"
+ },
+ {
+   "cityName": "Hosanagara",
+   "code": "08185"
+ },
+ {
+   "cityName": "Hoshangabad",
+   "code": "07574"
+ },
+ {
+   "cityName": "Hoshiarpur",
+   "code": "01882"
+ },
+ {
+   "cityName": "Hospet",
+   "code": "08394"
+ },
+ {
+   "cityName": "Hosur",
+   "code": "04344"
+ },
+ {
+   "cityName": "Howraghat",
+   "code": "03676"
+ },
+ {
+   "cityName": "Hubli",
+   "code": "0836"
+ },
+ {
+   "cityName": "Hukkeri",
+   "code": "08333"
+ },
+ {
+   "cityName": "Humnabad",
+   "code": "08483"
+ },
+ {
+   "cityName": "Hungund",
+   "code": "08351"
+ },
+ {
+   "cityName": "Hunsabad",
+   "code": "08721"
+ },
+ {
+   "cityName": "Hunsagi",
+   "code": "08444"
+ },
+ {
+   "cityName": "Hunsur",
+   "code": "08222"
+ },
+ {
+   "cityName": "Hunterganj",
+   "code": "06550"
+ },
+ {
+   "cityName": "Hurda",
+   "code": "01483"
+ },
+ {
+   "cityName": "Huri",
+   "code": "03789"
+ },
+ {
+   "cityName": "Huvinahadagali",
+   "code": "08399"
+ },
+ {
+   "cityName": "Huzurabad",
+   "code": "08727"
+ },
+ {
+   "cityName": "Huzurnagar",
+   "code": "08683"
+ },
+ {
+   "cityName": "Hyderabad East",
+   "code": "08415"
+ },
+ {
+   "cityName": "Hyderabad Local",
+   "code": "040"
+ },
+ {
+   "cityName": "Hyderabad West",
+   "code": "08413"
+ },
+ {
+   "cityName": "Ibrahimpatnam",
+   "code": "08414"
+ },
+ {
+   "cityName": "Ichak",
+   "code": "06548"
+ },
+ {
+   "cityName": "Ichhawar",
+   "code": "07561"
+ },
+ {
+   "cityName": "Idar",
+   "code": "02778"
+ },
+ {
+   "cityName": "Igatpuri",
+   "code": "02553"
+ },
+ {
+   "cityName": "Ilamidi",
+   "code": "07854"
+ },
+ {
+   "cityName": "Imamganj",
+   "code": "06331"
+ },
+ {
+   "cityName": "Imphal",
+   "code": "0385"
+ },
+ {
+   "cityName": "Indapur",
+   "code": "02111"
+ },
+ {
+   "cityName": "Indi",
+   "code": "08359"
+ },
+ {
+   "cityName": "Indore",
+   "code": "0731"
+ },
+ {
+   "cityName": "Irinjalakuda",
+   "code": "0480"
+ },
+ {
+   "cityName": "Isagarh",
+   "code": "07541"
+ },
+ {
+   "cityName": "Islampur",
+   "code": "02342"
+ },
+ {
+   "cityName": "Islampur(M)",
+   "code": "03481"
+ },
+ {
+   "cityName": "Islampur(Nd)",
+   "code": "03526"
+ },
+ {
+   "cityName": "Itanagar",
+   "code": "0360"
+ },
+ {
+   "cityName": "Itarsi",
+   "code": "07572"
+ },
+ {
+   "cityName": "Itki",
+   "code": "06529"
+ },
+ {
+   "cityName": "Jabalpur",
+   "code": "0761"
+ },
+ {
+   "cityName": "Jabera",
+   "code": "07606"
+ },
+ {
+   "cityName": "Jagadhari",
+   "code": "01732"
+ },
+ {
+   "cityName": "Jagalur",
+   "code": "08196"
+ },
+ {
+   "cityName": "Jagarnathpur",
+   "code": "06588"
+ },
+ {
+   "cityName": "Jagatballavpur",
+   "code": "03214"
+ },
+ {
+   "cityName": "Jagatsinghpur",
+   "code": "06724"
+ },
+ {
+   "cityName": "Jagdalpur",
+   "code": "07782"
+ },
+ {
+   "cityName": "Jaggayyapet",
+   "code": "08654"
+ },
+ {
+   "cityName": "Jagraon",
+   "code": "01624"
+ },
+ {
+   "cityName": "Jagtial",
+   "code": "08724"
+ },
+ {
+   "cityName": "Jahanabad",
+   "code": "06114"
+ },
+ {
+   "cityName": "Jahazpur",
+   "code": "01485"
+ },
+ {
+   "cityName": "Jainagar",
+   "code": "06246"
+ },
+ {
+   "cityName": "Jaipur",
+   "code": "0141"
+ },
+ {
+   "cityName": "Jairampur",
+   "code": "03800"
+ },
+ {
+   "cityName": "Jaisalmer-01",
+   "code": "02991"
+ },
+ {
+   "cityName": "Jaisalmer-02",
+   "code": "03018"
+ },
+ {
+   "cityName": "Jaisalmer-03",
+   "code": "02999"
+ },
+ {
+   "cityName": "Jaisalmer-04",
+   "code": "03010"
+ },
+ {
+   "cityName": "Jaisalmer-05",
+   "code": "02998"
+ },
+ {
+   "cityName": "Jaisalmer-06",
+   "code": "03011"
+ },
+ {
+   "cityName": "Jaisalmer-07",
+   "code": "02997"
+ },
+ {
+   "cityName": "Jaisalmer-08",
+   "code": "03012"
+ },
+ {
+   "cityName": "Jaisalmer-09",
+   "code": "03013"
+ },
+ {
+   "cityName": "Jaisalmer-10",
+   "code": "03014"
+ },
+ {
+   "cityName": "Jaisalmer-11",
+   "code": "02992"
+ },
+ {
+   "cityName": "Jaisalmer-12",
+   "code": "02993"
+ },
+ {
+   "cityName": "Jaisalmer-13",
+   "code": "03015"
+ },
+ {
+   "cityName": "Jaisalmer-14",
+   "code": "03016"
+ },
+ {
+   "cityName": "Jaisinghnagar",
+   "code": "07651"
+ },
+ {
+   "cityName": "Jaitaran",
+   "code": "02939"
+ },
+ {
+   "cityName": "Jaithari",
+   "code": "07659"
+ },
+ {
+   "cityName": "Jaitpur",
+   "code": "07657"
+ },
+ {
+   "cityName": "Jaitwara",
+   "code": "07671"
+ },
+ {
+   "cityName": "Jajpur Road",
+   "code": "06726"
+ },
+ {
+   "cityName": "Jajpur Town",
+   "code": "06728"
+ },
+ {
+   "cityName": "Jal Andhar",
+   "code": "0181"
+ },
+ {
+   "cityName": "Jalalabad",
+   "code": "05843"
+ },
+ {
+   "cityName": "Jalaun",
+   "code": "05168"
+ },
+ {
+   "cityName": "Jalesar",
+   "code": "05745"
+ },
+ {
+   "cityName": "Jalgaon",
+   "code": "0257"
+ },
+ {
+   "cityName": "Jalgaonjamod",
+   "code": "07266"
+ },
+ {
+   "cityName": "Jalna",
+   "code": "02482"
+ },
+ {
+   "cityName": "Jalore(E)",
+   "code": "02973"
+ },
+ {
+   "cityName": "Jalore(W)",
+   "code": "02977"
+ },
+ {
+   "cityName": "Jalpaiguri",
+   "code": "03561"
+ },
+ {
+   "cityName": "Jalukie",
+   "code": "03839"
+ },
+ {
+   "cityName": "Jamai",
+   "code": "07160"
+ },
+ {
+   "cityName": "Jamankira",
+   "code": "06649"
+ },
+ {
+   "cityName": "Jambusar",
+   "code": "02644"
+ },
+ {
+   "cityName": "Jamjodhpur",
+   "code": "02898"
+ },
+ {
+   "cityName": "Jamkalyanpur",
+   "code": "02891"
+ },
+ {
+   "cityName": "Jamkhandi",
+   "code": "08353"
+ },
+ {
+   "cityName": "Jamkhed",
+   "code": "02421"
+ },
+ {
+   "cityName": "Jammalamadugu",
+   "code": "08560"
+ },
+ {
+   "cityName": "Jammu",
+   "code": "0191"
+ },
+ {
+   "cityName": "Jamnagar",
+   "code": "0288"
+ },
+ {
+   "cityName": "Jamner",
+   "code": "02580"
+ },
+ {
+   "cityName": "Jamshedpur",
+   "code": "0657"
+ },
+ {
+   "cityName": "Jamtara",
+   "code": "06433"
+ },
+ {
+   "cityName": "Jamui",
+   "code": "06345"
+ },
+ {
+   "cityName": "Jamwa-Ramgarh",
+   "code": "01426"
+ },
+ {
+   "cityName": "Jangaon",
+   "code": "08716"
+ },
+ {
+   "cityName": "Jangareddygudem",
+   "code": "08821"
+ },
+ {
+   "cityName": "Janjgir",
+   "code": "07817"
+ },
+ {
+   "cityName": "Jannaram",
+   "code": "08739"
+ },
+ {
+   "cityName": "Jansath",
+   "code": "01396"
+ },
+ {
+   "cityName": "Jaora",
+   "code": "07414"
+ },
+ {
+   "cityName": "Japla",
+   "code": "06566"
+ },
+ {
+   "cityName": "Jarar",
+   "code": "05614"
+ },
+ {
+   "cityName": "Jarwa",
+   "code": "07787"
+ },
+ {
+   "cityName": "Jasdan",
+   "code": "02821"
+ },
+ {
+   "cityName": "Jashipur",
+   "code": "06797"
+ },
+ {
+   "cityName": "Jashpurnagar",
+   "code": "07763"
+ },
+ {
+   "cityName": "Jasrana",
+   "code": "05671"
+ },
+ {
+   "cityName": "Jatara",
+   "code": "07681"
+ },
+ {
+   "cityName": "Jath",
+   "code": "02344"
+ },
+ {
+   "cityName": "Jatusana",
+   "code": "01281"
+ },
+ {
+   "cityName": "Jaunpur",
+   "code": "05452"
+ },
+ {
+   "cityName": "Jawad",
+   "code": "07420"
+ },
+ {
+   "cityName": "Jawahar",
+   "code": "02520"
+ },
+ {
+   "cityName": "Jayal",
+   "code": "01583"
+ },
+ {
+   "cityName": "Jayamkondan",
+   "code": "04331"
+ },
+ {
+   "cityName": "Jayapatna",
+   "code": "06673"
+ },
+ {
+   "cityName": "Jetpur",
+   "code": "02823"
+ },
+ {
+   "cityName": "Jewargi",
+   "code": "08442"
+ },
+ {
+   "cityName": "Jeypur",
+   "code": "06854"
+ },
+ {
+   "cityName": "Jhabua",
+   "code": "07392"
+ },
+ {
+   "cityName": "Jhadol",
+   "code": "02959"
+ },
+ {
+   "cityName": "Jhagadia",
+   "code": "02645"
+ },
+ {
+   "cityName": "Jhajha",
+   "code": "06349"
+ },
+ {
+   "cityName": "Jhajjar",
+   "code": "01251"
+ },
+ {
+   "cityName": "Jhalawar",
+   "code": "07432"
+ },
+ {
+   "cityName": "Jhalda",
+   "code": "03254"
+ },
+ {
+   "cityName": "Jhalod",
+   "code": "02679"
+ },
+ {
+   "cityName": "Jhanjharpur",
+   "code": "06273"
+ },
+ {
+   "cityName": "Jhansi",
+   "code": "05174"
+ },
+ {
+   "cityName": "Jhargram",
+   "code": "03221"
+ },
+ {
+   "cityName": "Jharigan",
+   "code": "06867"
+ },
+ {
+   "cityName": "Jharmundi",
+   "code": "06431"
+ },
+ {
+   "cityName": "Jharsuguda",
+   "code": "06645"
+ },
+ {
+   "cityName": "Jhinkpani",
+   "code": "06589"
+ },
+ {
+   "cityName": "Jhumaritalaiya",
+   "code": "06534"
+ },
+ {
+   "cityName": "Jhunjhunu(N)",
+   "code": "01595"
+ },
+ {
+   "cityName": "Jhunjhunu(S)",
+   "code": "01592"
+ },
+ {
+   "cityName": "Jind",
+   "code": "01681"
+ },
+ {
+   "cityName": "Jintdor",
+   "code": "02457"
+ },
+ {
+   "cityName": "Jiribam",
+   "code": "03876"
+ },
+ {
+   "cityName": "Jobat",
+   "code": "07393"
+ },
+ {
+   "cityName": "Jodhpur(E)",
+   "code": "0291"
+ },
+ {
+   "cityName": "Jodhpur(W)",
+   "code": "02931"
+ },
+ {
+   "cityName": "Jodia",
+   "code": "02893"
+ },
+ {
+   "cityName": "Jogindernagar",
+   "code": "01908"
+ },
+ {
+   "cityName": "Joida",
+   "code": "08383"
+ },
+ {
+   "cityName": "Jora",
+   "code": "07537"
+ },
+ {
+   "cityName": "Jorhat",
+   "code": "0376"
+ },
+ {
+   "cityName": "Joshimath-I",
+   "code": "01389"
+ },
+ {
+   "cityName": "Joshimath-Ii",
+   "code": "01381"
+ },
+ {
+   "cityName": "Jowai",
+   "code": "03652"
+ },
+ {
+   "cityName": "Jugial",
+   "code": "01870"
+ },
+ {
+   "cityName": "Jujumura",
+   "code": "06681"
+ },
+ {
+   "cityName": "Julana",
+   "code": "01683"
+ },
+ {
+   "cityName": "Junagarh",
+   "code": "0285"
+ },
+ {
+   "cityName": "Junnar",
+   "code": "02132"
+ },
+ {
+   "cityName": "K.R. Nagar",
+   "code": "08223"
+ },
+ {
+   "cityName": "Kadamath",
+   "code": "04897"
+ },
+ {
+   "cityName": "Kadipur",
+   "code": "05364"
+ },
+ {
+   "cityName": "Kadiri",
+   "code": "08494"
+ },
+ {
+   "cityName": "Kadur",
+   "code": "08267"
+ },
+ {
+   "cityName": "Kagal",
+   "code": "02325"
+ },
+ {
+   "cityName": "Kahalgaon",
+   "code": "06429"
+ },
+ {
+   "cityName": "Kaij",
+   "code": "02445"
+ },
+ {
+   "cityName": "Kaikaluru",
+   "code": "08677"
+ },
+ {
+   "cityName": "Kailashar",
+   "code": "03824"
+ },
+ {
+   "cityName": "Kaimganj",
+   "code": "05690"
+ },
+ {
+   "cityName": "Kairana",
+   "code": "01398"
+ },
+ {
+   "cityName": "Kaisarganj-I",
+   "code": "05251"
+ },
+ {
+   "cityName": "Kaisarganj-Ii",
+   "code": "05255"
+ },
+ {
+   "cityName": "Kaithal",
+   "code": "01746"
+ },
+ {
+   "cityName": "Kakaiya",
+   "code": "07649"
+ },
+ {
+   "cityName": "Kakdwip",
+   "code": "03210"
+ },
+ {
+   "cityName": "Kakinada",
+   "code": "0884"
+ },
+ {
+   "cityName": "Kalakot",
+   "code": "01964"
+ },
+ {
+   "cityName": "Kalaktung",
+   "code": "03782"
+ },
+ {
+   "cityName": "Kalamb",
+   "code": "07201"
+ },
+ {
+   "cityName": "Kalamnuri",
+   "code": "02455"
+ },
+ {
+   "cityName": "Kalanaur",
+   "code": "01258"
+ },
+ {
+   "cityName": "Kalanwali",
+   "code": "01696"
+ },
+ {
+   "cityName": "Kalawad",
+   "code": "02894"
+ },
+ {
+   "cityName": "Kalchini",
+   "code": "03566"
+ },
+ {
+   "cityName": "Kalghatagi",
+   "code": "08370"
+ },
+ {
+   "cityName": "Kalimela",
+   "code": "06850"
+ },
+ {
+   "cityName": "Kalimpong",
+   "code": "03552"
+ },
+ {
+   "cityName": "Kalka",
+   "code": "01733"
+ },
+ {
+   "cityName": "Kallam",
+   "code": "02473"
+ },
+ {
+   "cityName": "Kallkurichi",
+   "code": "04151"
+ },
+ {
+   "cityName": "Kalmeshwar",
+   "code": "07118"
+ },
+ {
+   "cityName": "Kalna",
+   "code": "03454"
+ },
+ {
+   "cityName": "Kalol",
+   "code": "02764"
+ },
+ {
+   "cityName": "Kalpa",
+   "code": "01786"
+ },
+ {
+   "cityName": "Kalpeni",
+   "code": "04895"
+ },
+ {
+   "cityName": "Kalpetta",
+   "code": "04936"
+ },
+ {
+   "cityName": "Kalpi",
+   "code": "05164"
+ },
+ {
+   "cityName": "Kalwakurthy",
+   "code": "08549"
+ },
+ {
+   "cityName": "Kalwan",
+   "code": "02592"
+ },
+ {
+   "cityName": "Kalyan",
+   "code": "0251"
+ },
+ {
+   "cityName": "Kalyandurg",
+   "code": "08497"
+ },
+ {
+   "cityName": "Kamakhyanagar",
+   "code": "06769"
+ },
+ {
+   "cityName": "Kamalapur",
+   "code": "08478"
+ },
+ {
+   "cityName": "Kamalapuram",
+   "code": "08563"
+ },
+ {
+   "cityName": "Kaman",
+   "code": "05640"
+ },
+ {
+   "cityName": "Kamareddy",
+   "code": "08468"
+ },
+ {
+   "cityName": "Kambadur",
+   "code": "08492"
+ },
+ {
+   "cityName": "Kamptee",
+   "code": "07109"
+ },
+ {
+   "cityName": "Kanaganapalle",
+   "code": "08491"
+ },
+ {
+   "cityName": "Kanakapura",
+   "code": "08117"
+ },
+ {
+   "cityName": "Kanchipuram",
+   "code": "044"
+ },
+ {
+   "cityName": "Kandhar",
+   "code": "02466"
+ },
+ {
+   "cityName": "Kandi",
+   "code": "03484"
+ },
+ {
+   "cityName": "Kandukuru",
+   "code": "08598"
+ },
+ {
+   "cityName": "Kangayam",
+   "code": "04257"
+ },
+ {
+   "cityName": "Kangra",
+   "code": "01892"
+ },
+ {
+   "cityName": "Kanhangad",
+   "code": "04997"
+ },
+ {
+   "cityName": "Kanigiri",
+   "code": "08402"
+ },
+ {
+   "cityName": "Kanjirapally",
+   "code": "04828"
+ },
+ {
+   "cityName": "Kankavali",
+   "code": "02367"
+ },
+ {
+   "cityName": "Kanker",
+   "code": "07868"
+ },
+ {
+   "cityName": "Kannad",
+   "code": "02435"
+ },
+ {
+   "cityName": "Kannauj",
+   "code": "05694"
+ },
+ {
+   "cityName": "Kannod",
+   "code": "07273"
+ },
+ {
+   "cityName": "Kannodi",
+   "code": "07656"
+ },
+ {
+   "cityName": "Kanpur",
+   "code": "0512"
+ },
+ {
+   "cityName": "Kantabhanji",
+   "code": "06657"
+ },
+ {
+   "cityName": "Kantamal",
+   "code": "06844"
+ },
+ {
+   "cityName": "Kapad Wanj",
+   "code": "02691"
+ },
+ {
+   "cityName": "Kapasan",
+   "code": "01476"
+ },
+ {
+   "cityName": "Kapurthala",
+   "code": "01822"
+ },
+ {
+   "cityName": "Karad",
+   "code": "02164"
+ },
+ {
+   "cityName": "Karaikal",
+   "code": "04368"
+ },
+ {
+   "cityName": "Karaikudi",
+   "code": "04565"
+ },
+ {
+   "cityName": "Karan Prayag",
+   "code": "01363"
+ },
+ {
+   "cityName": "Karanjia",
+   "code": "07645"
+ },
+ {
+   "cityName": "Karanjia",
+   "code": "06796"
+ },
+ {
+   "cityName": "Karauli",
+   "code": "07464"
+ },
+ {
+   "cityName": "Karchhana",
+   "code": "05333"
+ },
+ {
+   "cityName": "Kareli",
+   "code": "07793"
+ },
+ {
+   "cityName": "Karera",
+   "code": "07493"
+ },
+ {
+   "cityName": "Kargal",
+   "code": "08186"
+ },
+ {
+   "cityName": "Kargil",
+   "code": "01985"
+ },
+ {
+   "cityName": "Karhal",
+   "code": "07533"
+ },
+ {
+   "cityName": "Karhal",
+   "code": "05677"
+ },
+ {
+   "cityName": "Karimganj",
+   "code": "03843"
+ },
+ {
+   "cityName": "Karimnagar",
+   "code": "0878"
+ },
+ {
+   "cityName": "Karimpur",
+   "code": "03471"
+ },
+ {
+   "cityName": "Karjat",
+   "code": "02489"
+ },
+ {
+   "cityName": "Karjat",
+   "code": "02148"
+ },
+ {
+   "cityName": "Karkala",
+   "code": "08258"
+ },
+ {
+   "cityName": "Karmala",
+   "code": "02182"
+ },
+ {
+   "cityName": "Karnah",
+   "code": "01958"
+ },
+ {
+   "cityName": "Karnal",
+   "code": "0184"
+ },
+ {
+   "cityName": "Karpa",
+   "code": "07628"
+ },
+ {
+   "cityName": "Karungapally",
+   "code": "0476"
+ },
+ {
+   "cityName": "Karur",
+   "code": "04324"
+ },
+ {
+   "cityName": "Karvi-I",
+   "code": "05198"
+ },
+ {
+   "cityName": "Karvi-Ii",
+   "code": "05194"
+ },
+ {
+   "cityName": "Karwar",
+   "code": "08382"
+ },
+ {
+   "cityName": "Kasargode",
+   "code": "04994"
+ },
+ {
+   "cityName": "Kasdol",
+   "code": "07728"
+ },
+ {
+   "cityName": "Kasganj",
+   "code": "05744"
+ },
+ {
+   "cityName": "Kashipur",
+   "code": "06865"
+ },
+ {
+   "cityName": "Kashipur",
+   "code": "05947"
+ },
+ {
+   "cityName": "Kasrawad",
+   "code": "07285"
+ },
+ {
+   "cityName": "Katangi",
+   "code": "07630"
+ },
+ {
+   "cityName": "Kathdol",
+   "code": "07770"
+ },
+ {
+   "cityName": "Kathghora",
+   "code": "07815"
+ },
+ {
+   "cityName": "Kathikund",
+   "code": "06427"
+ },
+ {
+   "cityName": "Kathua",
+   "code": "01922"
+ },
+ {
+   "cityName": "Katihar",
+   "code": "06452"
+ },
+ {
+   "cityName": "Katni",
+   "code": "07622"
+ },
+ {
+   "cityName": "Katol",
+   "code": "07112"
+ },
+ {
+   "cityName": "Katoria",
+   "code": "06425"
+ },
+ {
+   "cityName": "Katwa",
+   "code": "03453"
+ },
+ {
+   "cityName": "Kavali",
+   "code": "08626"
+ },
+ {
+   "cityName": "Kavarathy",
+   "code": "04896"
+ },
+ {
+   "cityName": "Kavathemankal",
+   "code": "02341"
+ },
+ {
+   "cityName": "Kawardha",
+   "code": "07741"
+ },
+ {
+   "cityName": "Kedgaon",
+   "code": "02119"
+ },
+ {
+   "cityName": "Keeranur",
+   "code": "04339"
+ },
+ {
+   "cityName": "Kekri (E)",
+   "code": "01467"
+ },
+ {
+   "cityName": "Kekri (W)",
+   "code": "01466"
+ },
+ {
+   "cityName": "Kendrapara",
+   "code": "06727"
+ },
+ {
+   "cityName": "Keolari",
+   "code": "07694"
+ },
+ {
+   "cityName": "Keonjhar",
+   "code": "06766"
+ },
+ {
+   "cityName": "Kerakat",
+   "code": "05450"
+ },
+ {
+   "cityName": "Keshod",
+   "code": "02871"
+ },
+ {
+   "cityName": "Keshoraipatan",
+   "code": "07438"
+ },
+ {
+   "cityName": "Keskal",
+   "code": "07848"
+ },
+ {
+   "cityName": "Khachrod",
+   "code": "07366"
+ },
+ {
+   "cityName": "Khadakwasala",
+   "code": "0230"
+ },
+ {
+   "cityName": "Khaga",
+   "code": "05182"
+ },
+ {
+   "cityName": "Khagaria",
+   "code": "06244"
+ },
+ {
+   "cityName": "Khair",
+   "code": "05724"
+ },
+ {
+   "cityName": "Khairgarh",
+   "code": "07820"
+ },
+ {
+   "cityName": "Khajuraho",
+   "code": "07686"
+ },
+ {
+   "cityName": "Khakner",
+   "code": "07329"
+ },
+ {
+   "cityName": "Khalikote",
+   "code": "06810"
+ },
+ {
+   "cityName": "Khalilabad-I",
+   "code": "05547"
+ },
+ {
+   "cityName": "Khalilabad-Ii",
+   "code": "05548"
+ },
+ {
+   "cityName": "Khalwa",
+   "code": "07328"
+ },
+ {
+   "cityName": "Khambat",
+   "code": "02698"
+ },
+ {
+   "cityName": "Khambhalia",
+   "code": "02833"
+ },
+ {
+   "cityName": "Khamgaon",
+   "code": "07263"
+ },
+ {
+   "cityName": "Khammam",
+   "code": "08742"
+ },
+ {
+   "cityName": "Khanapur",
+   "code": "08336"
+ },
+ {
+   "cityName": "Khanapur(Ap)",
+   "code": "08730"
+ },
+ {
+   "cityName": "Khandar",
+   "code": "07468"
+ },
+ {
+   "cityName": "Khandwa",
+   "code": "0733"
+ },
+ {
+   "cityName": "Khaniadhana",
+   "code": "07497"
+ },
+ {
+   "cityName": "Khanpur",
+   "code": "07430"
+ },
+ {
+   "cityName": "Kharagpur",
+   "code": "03222"
+ },
+ {
+   "cityName": "Kharar",
+   "code": "0160"
+ },
+ {
+   "cityName": "Khargone",
+   "code": "07282"
+ },
+ {
+   "cityName": "Kharsawa",
+   "code": "06583"
+ },
+ {
+   "cityName": "Khategaon",
+   "code": "07274"
+ },
+ {
+   "cityName": "Khatima-I",
+   "code": "05943"
+ },
+ {
+   "cityName": "Khatima-Ii",
+   "code": "05948"
+ },
+ {
+   "cityName": "Khatra",
+   "code": "03243"
+ },
+ {
+   "cityName": "Khavda",
+   "code": "02803"
+ },
+ {
+   "cityName": "Khed",
+   "code": "02356"
+ },
+ {
+   "cityName": "Khedbrahma",
+   "code": "02775"
+ },
+ {
+   "cityName": "Kheralu",
+   "code": "02761"
+ },
+ {
+   "cityName": "Kheri-I",
+   "code": "05872"
+ },
+ {
+   "cityName": "Kheri-Ii",
+   "code": "05870"
+ },
+ {
+   "cityName": "Kherwara",
+   "code": "02907"
+ },
+ {
+   "cityName": "Khetia",
+   "code": "07286"
+ },
+ {
+   "cityName": "Khetri",
+   "code": "01593"
+ },
+ {
+   "cityName": "Khilchipur",
+   "code": "07370"
+ },
+ {
+   "cityName": "Khirkiya",
+   "code": "07571"
+ },
+ {
+   "cityName": "Khliehriat",
+   "code": "03655"
+ },
+ {
+   "cityName": "Khonsa",
+   "code": "03786"
+ },
+ {
+   "cityName": "Khopoli",
+   "code": "02192"
+ },
+ {
+   "cityName": "Khowai",
+   "code": "03825"
+ },
+ {
+   "cityName": "Khultabad",
+   "code": "02437"
+ },
+ {
+   "cityName": "Khunti",
+   "code": "06528"
+ },
+ {
+   "cityName": "Khurai",
+   "code": "07581"
+ },
+ {
+   "cityName": "Khurda",
+   "code": "06755"
+ },
+ {
+   "cityName": "Khurja",
+   "code": "05738"
+ },
+ {
+   "cityName": "Kichha-I",
+   "code": "05944"
+ },
+ {
+   "cityName": "Kichha-Ii",
+   "code": "05949"
+ },
+ {
+   "cityName": "Kiltan",
+   "code": "04898"
+ },
+ {
+   "cityName": "Kinwat",
+   "code": "02469"
+ },
+ {
+   "cityName": "Kiphire",
+   "code": "03863"
+ },
+ {
+   "cityName": "Kishanganj",
+   "code": "06466"
+ },
+ {
+   "cityName": "Kishanganj",
+   "code": "07456"
+ },
+ {
+   "cityName": "Kishangarh (N)",
+   "code": "01497"
+ },
+ {
+   "cityName": "Kishangarh (S)",
+   "code": "01463"
+ },
+ {
+   "cityName": "Kishangarhbas",
+   "code": "01460"
+ },
+ {
+   "cityName": "Kishtwar",
+   "code": "01995"
+ },
+ {
+   "cityName": "Kodaikanal",
+   "code": "04542"
+ },
+ {
+   "cityName": "Kodangal",
+   "code": "08505"
+ },
+ {
+   "cityName": "Kodinar",
+   "code": "02795"
+ },
+ {
+   "cityName": "Kodumudi",
+   "code": "04204"
+ },
+ {
+   "cityName": "Koduru",
+   "code": "08566"
+ },
+ {
+   "cityName": "Koduvayur",
+   "code": "04923"
+ },
+ {
+   "cityName": "Kohima",
+   "code": "0370"
+ },
+ {
+   "cityName": "Koilkuntla",
+   "code": "08510"
+ },
+ {
+   "cityName": "Kokarajhar",
+   "code": "03661"
+ },
+ {
+   "cityName": "Kolar",
+   "code": "08152"
+ },
+ {
+   "cityName": "Kolaras",
+   "code": "07494"
+ },
+ {
+   "cityName": "Kolaring",
+   "code": "03788"
+ },
+ {
+   "cityName": "Kolasib",
+   "code": "03837"
+ },
+ {
+   "cityName": "Kolayat-I",
+   "code": "01533"
+ },
+ {
+   "cityName": "Kolayat-Ii",
+   "code": "01534"
+ },
+ {
+   "cityName": "Kolayat-Iii",
+   "code": "01535"
+ },
+ {
+   "cityName": "Kolayat-Iv",
+   "code": "01536"
+ },
+ {
+   "cityName": "Kolebira",
+   "code": "06527"
+ },
+ {
+   "cityName": "Kolhapur",
+   "code": "0231"
+ },
+ {
+   "cityName": "Kollapur",
+   "code": "08501"
+ },
+ {
+   "cityName": "Kollegal",
+   "code": "08224"
+ },
+ {
+   "cityName": "Komana",
+   "code": "06679"
+ },
+ {
+   "cityName": "Konch",
+   "code": "05165"
+ },
+ {
+   "cityName": "Kondagaon",
+   "code": "07786"
+ },
+ {
+   "cityName": "Konta",
+   "code": "07866"
+ },
+ {
+   "cityName": "Kopargaon",
+   "code": "02423"
+ },
+ {
+   "cityName": "Koppa",
+   "code": "08265"
+ },
+ {
+   "cityName": "Koppal",
+   "code": "08539"
+ },
+ {
+   "cityName": "Koraput",
+   "code": "06852"
+ },
+ {
+   "cityName": "Koratageri",
+   "code": "08138"
+ },
+ {
+   "cityName": "Korba",
+   "code": "07759"
+ },
+ {
+   "cityName": "Koregaon",
+   "code": "02163"
+ },
+ {
+   "cityName": "Korha",
+   "code": "06457"
+ },
+ {
+   "cityName": "Kosli",
+   "code": "01259"
+ },
+ {
+   "cityName": "Kota",
+   "code": "07753"
+ },
+ {
+   "cityName": "Kotagarh",
+   "code": "06848"
+ },
+ {
+   "cityName": "Kotagiri",
+   "code": "04266"
+ },
+ {
+   "cityName": "Kotdasanghani",
+   "code": "02827"
+ },
+ {
+   "cityName": "Kothagudem",
+   "code": "08744"
+ },
+ {
+   "cityName": "Kotkapura",
+   "code": "01635"
+ },
+ {
+   "cityName": "Kotma",
+   "code": "07658"
+ },
+ {
+   "cityName": "Kotputli",
+   "code": "01421"
+ },
+ {
+   "cityName": "Kotra",
+   "code": "02958"
+ },
+ {
+   "cityName": "Kotri",
+   "code": "01488"
+ },
+ {
+   "cityName": "Kottayam",
+   "code": "0481"
+ },
+ {
+   "cityName": "Kovilpatti",
+   "code": "04632"
+ },
+ {
+   "cityName": "Kovvur",
+   "code": "08622"
+ },
+ {
+   "cityName": "Kovvur",
+   "code": "08813"
+ },
+ {
+   "cityName": "Koyelibeda",
+   "code": "07840"
+ },
+ {
+   "cityName": "Krishnagiri",
+   "code": "04343"
+ },
+ {
+   "cityName": "Krishnanagar",
+   "code": "03472"
+ },
+ {
+   "cityName": "Krishnarajapet",
+   "code": "08230"
+ },
+ {
+   "cityName": "Krosuru",
+   "code": "08640"
+ },
+ {
+   "cityName": "Kuakunda",
+   "code": "07858"
+ },
+ {
+   "cityName": "Kuchinda",
+   "code": "06642"
+ },
+ {
+   "cityName": "Kudal",
+   "code": "02362"
+ },
+ {
+   "cityName": "Kudligi",
+   "code": "08391"
+ },
+ {
+   "cityName": "Kuhi",
+   "code": "07100"
+ },
+ {
+   "cityName": "Kukshi",
+   "code": "07297"
+ },
+ {
+   "cityName": "Kulgam",
+   "code": "01931"
+ },
+ {
+   "cityName": "Kulithalai",
+   "code": "04323"
+ },
+ {
+   "cityName": "Kullu",
+   "code": "01902"
+ },
+ {
+   "cityName": "Kumbakonam",
+   "code": "0435"
+ },
+ {
+   "cityName": "Kumbalgarh",
+   "code": "02954"
+ },
+ {
+   "cityName": "Kumta",
+   "code": "08386"
+ },
+ {
+   "cityName": "Kunda",
+   "code": "05341"
+ },
+ {
+   "cityName": "Kundam",
+   "code": "07623"
+ },
+ {
+   "cityName": "Kundapur",
+   "code": "08254"
+ },
+ {
+   "cityName": "Kundgol",
+   "code": "08304"
+ },
+ {
+   "cityName": "Kunigal",
+   "code": "08132"
+ },
+ {
+   "cityName": "Kunkawav",
+   "code": "02796"
+ },
+ {
+   "cityName": "Kunkuri",
+   "code": "07764"
+ },
+ {
+   "cityName": "Kunnamkulam",
+   "code": "04885"
+ },
+ {
+   "cityName": "Kuppam",
+   "code": "08570"
+ },
+ {
+   "cityName": "Kupwara",
+   "code": "01955"
+ },
+ {
+   "cityName": "Kurkheda",
+   "code": "07139"
+ },
+ {
+   "cityName": "Kurnool",
+   "code": "08518"
+ },
+ {
+   "cityName": "Kurud",
+   "code": "07705"
+ },
+ {
+   "cityName": "Kurugodu",
+   "code": "08393"
+ },
+ {
+   "cityName": "Kurukshetra",
+   "code": "01744"
+ },
+ {
+   "cityName": "Kurwai",
+   "code": "07593"
+ },
+ {
+   "cityName": "Kushalgarh",
+   "code": "02965"
+ },
+ {
+   "cityName": "Kusmi",
+   "code": "07804"
+ },
+ {
+   "cityName": "Kustagi",
+   "code": "08536"
+ },
+ {
+   "cityName": "Kusumba",
+   "code": "02560"
+ },
+ {
+   "cityName": "Kutchmandvi",
+   "code": "02834"
+ },
+ {
+   "cityName": "Kutiyana",
+   "code": "02804"
+ },
+ {
+   "cityName": "Kuzhithurai",
+   "code": "04651"
+ },
+ {
+   "cityName": "Ladnun",
+   "code": "01581"
+ },
+ {
+   "cityName": "Ladpura",
+   "code": "0744"
+ },
+ {
+   "cityName": "Laher",
+   "code": "07529"
+ },
+ {
+   "cityName": "Lahul",
+   "code": "01900"
+ },
+ {
+   "cityName": "Lahunipara",
+   "code": "06625"
+ },
+ {
+   "cityName": "Lakhandur",
+   "code": "07181"
+ },
+ {
+   "cityName": "Lakhisarai",
+   "code": "06346"
+ },
+ {
+   "cityName": "Lakhnadon",
+   "code": "07690"
+ },
+ {
+   "cityName": "Lakhpat",
+   "code": "02839"
+ },
+ {
+   "cityName": "Lakhtar",
+   "code": "02759"
+ },
+ {
+   "cityName": "Lakkireddipalli",
+   "code": "08567"
+ },
+ {
+   "cityName": "Lalganj",
+   "code": "05463"
+ },
+ {
+   "cityName": "Lalitpur-I",
+   "code": "05176"
+ },
+ {
+   "cityName": "Lalitpur-Ii",
+   "code": "05175"
+ },
+ {
+   "cityName": "Lalpur",
+   "code": "02895"
+ },
+ {
+   "cityName": "Lalsot",
+   "code": "01431"
+ },
+ {
+   "cityName": "Lamta",
+   "code": "07634"
+ },
+ {
+   "cityName": "Langa",
+   "code": "02351"
+ },
+ {
+   "cityName": "Lanji",
+   "code": "07635"
+ },
+ {
+   "cityName": "Lansdown-I",
+   "code": "01386"
+ },
+ {
+   "cityName": "Lansdown-Ii",
+   "code": "01382"
+ },
+ {
+   "cityName": "Lansdown-Iii",
+   "code": "01348"
+ },
+ {
+   "cityName": "Latehar",
+   "code": "06565"
+ },
+ {
+   "cityName": "Lateri",
+   "code": "07590"
+ },
+ {
+   "cityName": "Latur",
+   "code": "02382"
+ },
+ {
+   "cityName": "Laundi",
+   "code": "07687"
+ },
+ {
+   "cityName": "Laxmangarh",
+   "code": "01492"
+ },
+ {
+   "cityName": "Laxmangarh(E)",
+   "code": "01573"
+ },
+ {
+   "cityName": "Laxmangarh(W)",
+   "code": "01570"
+ },
+ {
+   "cityName": "Laxmipur",
+   "code": "06855"
+ },
+ {
+   "cityName": "Leh",
+   "code": "01982"
+ },
+ {
+   "cityName": "Limbdi",
+   "code": "02753"
+ },
+ {
+   "cityName": "Limkheda",
+   "code": "02677"
+ },
+ {
+   "cityName": "Lingsugur",
+   "code": "08537"
+ },
+ {
+   "cityName": "Lohadigundah",
+   "code": "07859"
+ },
+ {
+   "cityName": "Lohardaga",
+   "code": "06526"
+ },
+ {
+   "cityName": "Loharu",
+   "code": "01252"
+ },
+ {
+   "cityName": "Lonar",
+   "code": "07260"
+ },
+ {
+   "cityName": "Lonavala",
+   "code": "02114"
+ },
+ {
+   "cityName": "Lormi",
+   "code": "07756"
+ },
+ {
+   "cityName": "Lucknow",
+   "code": "0522"
+ },
+ {
+   "cityName": "Luckwada",
+   "code": "07788"
+ },
+ {
+   "cityName": "Ludhiana",
+   "code": "0161"
+ },
+ {
+   "cityName": "Lunavada",
+   "code": "02674"
+ },
+ {
+   "cityName": "Lungleh",
+   "code": "0372"
+ },
+ {
+   "cityName": "Lunkaransar-I",
+   "code": "01529"
+ },
+ {
+   "cityName": "Lunkaransar-Ii",
+   "code": "01526"
+ },
+ {
+   "cityName": "Lunkaransar-Iii",
+   "code": "01527"
+ },
+ {
+   "cityName": "Lunkaransar-Iv",
+   "code": "01528"
+ },
+ {
+   "cityName": "M. Rampur",
+   "code": "06676"
+ },
+ {
+   "cityName": "M.M.Mangrol",
+   "code": "02629"
+ },
+ {
+   "cityName": "Machlishahar",
+   "code": "05454"
+ },
+ {
+   "cityName": "Madakasira",
+   "code": "08493"
+ },
+ {
+   "cityName": "Madanapalli",
+   "code": "08571"
+ },
+ {
+   "cityName": "Madangad",
+   "code": "02350"
+ },
+ {
+   "cityName": "Madha",
+   "code": "02183"
+ },
+ {
+   "cityName": "Madhepura",
+   "code": "06476"
+ },
+ {
+   "cityName": "Madhira",
+   "code": "08749"
+ },
+ {
+   "cityName": "Madhubani",
+   "code": "06276"
+ },
+ {
+   "cityName": "Madhupur",
+   "code": "06438"
+ },
+ {
+   "cityName": "Madikeri",
+   "code": "08272"
+ },
+ {
+   "cityName": "Madnur",
+   "code": "08464"
+ },
+ {
+   "cityName": "Madugiri",
+   "code": "08137"
+ },
+ {
+   "cityName": "Madurai",
+   "code": "0452"
+ },
+ {
+   "cityName": "Madurantgam",
+   "code": "044"
+ },
+ {
+   "cityName": "Mahabaleswar",
+   "code": "02168"
+ },
+ {
+   "cityName": "Mahabubabad",
+   "code": "08719"
+ },
+ {
+   "cityName": "Mahabubnagar",
+   "code": "08542"
+ },
+ {
+   "cityName": "Mahad",
+   "code": "02145"
+ },
+ {
+   "cityName": "Mahadevapur",
+   "code": "08720"
+ },
+ {
+   "cityName": "Mahagama",
+   "code": "06437"
+ },
+ {
+   "cityName": "Mahagaon",
+   "code": "07236"
+ },
+ {
+   "cityName": "Maharajganj",
+   "code": "06153"
+ },
+ {
+   "cityName": "Maharajganj",
+   "code": "05523"
+ },
+ {
+   "cityName": "Mahasala",
+   "code": "02149"
+ },
+ {
+   "cityName": "Mahasamund",
+   "code": "07723"
+ },
+ {
+   "cityName": "Mahaswad",
+   "code": "02373"
+ },
+ {
+   "cityName": "Maheshpur Raj",
+   "code": "06423"
+ },
+ {
+   "cityName": "Maheshwar",
+   "code": "07283"
+ },
+ {
+   "cityName": "Mahidpurcity",
+   "code": "07365"
+ },
+ {
+   "cityName": "Mahoba",
+   "code": "05281"
+ },
+ {
+   "cityName": "Mahore",
+   "code": "01999"
+ },
+ {
+   "cityName": "Mahua",
+   "code": "06227"
+ },
+ {
+   "cityName": "Mahuva",
+   "code": "02844"
+ },
+ {
+   "cityName": "Mahuwa",
+   "code": "07461"
+ },
+ {
+   "cityName": "Maibong",
+   "code": "03670"
+ },
+ {
+   "cityName": "Maihar",
+   "code": "07674"
+ },
+ {
+   "cityName": "Mainpuri",
+   "code": "05672"
+ },
+ {
+   "cityName": "Mairwa",
+   "code": "06157"
+ },
+ {
+   "cityName": "Majhagwan",
+   "code": "07670"
+ },
+ {
+   "cityName": "Majholi",
+   "code": "07803"
+ },
+ {
+   "cityName": "Majuli",
+   "code": "03775"
+ },
+ {
+   "cityName": "Makodi",
+   "code": "07785"
+ },
+ {
+   "cityName": "Makthal",
+   "code": "08503"
+ },
+ {
+   "cityName": "Mal Bazar",
+   "code": "03562"
+ },
+ {
+   "cityName": "Malaut",
+   "code": "01637"
+ },
+ {
+   "cityName": "Malavalli",
+   "code": "08231"
+ },
+ {
+   "cityName": "Malda",
+   "code": "03512"
+ },
+ {
+   "cityName": "Malegaon",
+   "code": "02554"
+ },
+ {
+   "cityName": "Malerkotla",
+   "code": "01675"
+ },
+ {
+   "cityName": "Malgaon",
+   "code": "07254"
+ },
+ {
+   "cityName": "Malgund",
+   "code": "02357"
+ },
+ {
+   "cityName": "Malhargarh",
+   "code": "07424"
+ },
+ {
+   "cityName": "Malia-Hatina",
+   "code": "02870"
+ },
+ {
+   "cityName": "Malihabad",
+   "code": "05212"
+ },
+ {
+   "cityName": "Maliya Miyana",
+   "code": "02829"
+ },
+ {
+   "cityName": "Malkangiri",
+   "code": "06861"
+ },
+ {
+   "cityName": "Malkapur",
+   "code": "07267"
+ },
+ {
+   "cityName": "Mallehpur",
+   "code": "06348"
+ },
+ {
+   "cityName": "Malpur",
+   "code": "02773"
+ },
+ {
+   "cityName": "Malpura",
+   "code": "01437"
+ },
+ {
+   "cityName": "Malsuras",
+   "code": "02185"
+ },
+ {
+   "cityName": "Malur",
+   "code": "08151"
+ },
+ {
+   "cityName": "Malvi",
+   "code": "02955"
+ },
+ {
+   "cityName": "Malwan",
+   "code": "02365"
+ },
+ {
+   "cityName": "Manamadurai",
+   "code": "04574"
+ },
+ {
+   "cityName": "Mananthodi",
+   "code": "04935"
+ },
+ {
+   "cityName": "Manaparai",
+   "code": "04332"
+ },
+ {
+   "cityName": "Manasa",
+   "code": "07421"
+ },
+ {
+   "cityName": "Manavadar",
+   "code": "02874"
+ },
+ {
+   "cityName": "Manawar",
+   "code": "07291"
+ },
+ {
+   "cityName": "Manbazar",
+   "code": "03253"
+ },
+ {
+   "cityName": "Mancher",
+   "code": "02133"
+ },
+ {
+   "cityName": "Mancherial",
+   "code": "08736"
+ },
+ {
+   "cityName": "Mandal",
+   "code": "01486"
+ },
+ {
+   "cityName": "Mandalgarh",
+   "code": "01489"
+ },
+ {
+   "cityName": "Mandapeta",
+   "code": "08855"
+ },
+ {
+   "cityName": "Mandar",
+   "code": "06531"
+ },
+ {
+   "cityName": "Mandawar",
+   "code": "01495"
+ },
+ {
+   "cityName": "Mandi",
+   "code": "01905"
+ },
+ {
+   "cityName": "Mandla",
+   "code": "07642"
+ },
+ {
+   "cityName": "Mandsaur",
+   "code": "07422"
+ },
+ {
+   "cityName": "Mandu",
+   "code": "06545"
+ },
+ {
+   "cityName": "Mandvi",
+   "code": "02623"
+ },
+ {
+   "cityName": "Mandya",
+   "code": "08232"
+ },
+ {
+   "cityName": "Manendragarh",
+   "code": "07771"
+ },
+ {
+   "cityName": "Mangalagiri",
+   "code": "08645"
+ },
+ {
+   "cityName": "Mangaldoi",
+   "code": "03713"
+ },
+ {
+   "cityName": "Mangalore",
+   "code": "0824"
+ },
+ {
+   "cityName": "Mangalwedha",
+   "code": "02188"
+ },
+ {
+   "cityName": "Mangaon",
+   "code": "02140"
+ },
+ {
+   "cityName": "Mangrol",
+   "code": "02878"
+ },
+ {
+   "cityName": "Mangrol",
+   "code": "07457"
+ },
+ {
+   "cityName": "Mangrulpur",
+   "code": "07253"
+ },
+ {
+   "cityName": "Manjalegaon",
+   "code": "02443"
+ },
+ {
+   "cityName": "Manjeri",
+   "code": "0483"
+ },
+ {
+   "cityName": "Manmad",
+   "code": "02591"
+ },
+ {
+   "cityName": "Mannarghat",
+   "code": "04924"
+ },
+ {
+   "cityName": "Mannargudi",
+   "code": "04367"
+ },
+ {
+   "cityName": "Manoharpur",
+   "code": "06593"
+ },
+ {
+   "cityName": "Manpur",
+   "code": "07703"
+ },
+ {
+   "cityName": "Manpur",
+   "code": "07746"
+ },
+ {
+   "cityName": "Manpur",
+   "code": "07627"
+ },
+ {
+   "cityName": "Mansa",
+   "code": "01652"
+ },
+ {
+   "cityName": "Manthani",
+   "code": "08729"
+ },
+ {
+   "cityName": "Manvi",
+   "code": "08538"
+ },
+ {
+   "cityName": "Mao",
+   "code": "03871"
+ },
+ {
+   "cityName": "Maregaon",
+   "code": "07237"
+ },
+ {
+   "cityName": "Margaon",
+   "code": "08342"
+ },
+ {
+   "cityName": "Mariang",
+   "code": "03657"
+ },
+ {
+   "cityName": "Mariani",
+   "code": "03771"
+ },
+ {
+   "cityName": "Mariyahu",
+   "code": "05451"
+ },
+ {
+   "cityName": "Mariyang",
+   "code": "03798"
+ },
+ {
+   "cityName": "Markapur",
+   "code": "08596"
+ },
+ {
+   "cityName": "Marturu",
+   "code": "08404"
+ },
+ {
+   "cityName": "Marwahi",
+   "code": "07750"
+ },
+ {
+   "cityName": "Marwar-Jn",
+   "code": "02935"
+ },
+ {
+   "cityName": "Mashal",
+   "code": "08471"
+ },
+ {
+   "cityName": "Masrakh",
+   "code": "06159"
+ },
+ {
+   "cityName": "Math",
+   "code": "05664"
+ },
+ {
+   "cityName": "Mathabhanga",
+   "code": "03583"
+ },
+ {
+   "cityName": "Mathili",
+   "code": "06864"
+ },
+ {
+   "cityName": "Mathura",
+   "code": "0565"
+ },
+ {
+   "cityName": "Mau",
+   "code": "05195"
+ },
+ {
+   "cityName": "Maudaha",
+   "code": "05284"
+ },
+ {
+   "cityName": "Mauganj",
+   "code": "07663"
+ },
+ {
+   "cityName": "Maunathbhanjan",
+   "code": "05464"
+ },
+ {
+   "cityName": "Mauranipur",
+   "code": "05178"
+ },
+ {
+   "cityName": "Mavelikkara",
+   "code": "0479"
+ },
+ {
+   "cityName": "Mawai",
+   "code": "07648"
+ },
+ {
+   "cityName": "Mawana",
+   "code": "01233"
+ },
+ {
+   "cityName": "Mawkyrwat",
+   "code": "03656"
+ },
+ {
+   "cityName": "Mayiladutjurai",
+   "code": "04364"
+ },
+ {
+   "cityName": "Mechuka",
+   "code": "03793"
+ },
+ {
+   "cityName": "Medachal",
+   "code": "08418"
+ },
+ {
+   "cityName": "Medak",
+   "code": "08452"
+ },
+ {
+   "cityName": "Medarmetla",
+   "code": "08593"
+ },
+ {
+   "cityName": "Meerut",
+   "code": "0121"
+ },
+ {
+   "cityName": "Meham",
+   "code": "01257"
+ },
+ {
+   "cityName": "Mehda",
+   "code": "02378"
+ },
+ {
+   "cityName": "Mehgaon",
+   "code": "07527"
+ },
+ {
+   "cityName": "Mehmedabad",
+   "code": "02694"
+ },
+ {
+   "cityName": "Mehraun",
+   "code": "05172"
+ },
+ {
+   "cityName": "Mehsana",
+   "code": "02762"
+ },
+ {
+   "cityName": "Meja",
+   "code": "05334"
+ },
+ {
+   "cityName": "Mekhar",
+   "code": "07268"
+ },
+ {
+   "cityName": "Mekhliganj",
+   "code": "03584"
+ },
+ {
+   "cityName": "Merta(E)",
+   "code": "01590"
+ },
+ {
+   "cityName": "Merta(W)",
+   "code": "01591"
+ },
+ {
+   "cityName": "Metpalli",
+   "code": "08725"
+ },
+ {
+   "cityName": "Mettupalayam",
+   "code": "04254"
+ },
+ {
+   "cityName": "Metturdam",
+   "code": "04298"
+ },
+ {
+   "cityName": "Mhow",
+   "code": "07324"
+ },
+ {
+   "cityName": "Miao",
+   "code": "03807"
+ },
+ {
+   "cityName": "Minicoy",
+   "code": "04892"
+ },
+ {
+   "cityName": "Mirzapur-I",
+   "code": "05442"
+ },
+ {
+   "cityName": "Mirzapur-Ii",
+   "code": "05440"
+ },
+ {
+   "cityName": "Misrikh-I",
+   "code": "05865"
+ },
+ {
+   "cityName": "Misrikh-Ii",
+   "code": "05861"
+ },
+ {
+   "cityName": "Miyagam",
+   "code": "02666"
+ },
+ {
+   "cityName": "Modasa",
+   "code": "02774"
+ },
+ {
+   "cityName": "Modinagar",
+   "code": "01232"
+ },
+ {
+   "cityName": "Moga",
+   "code": "01636"
+ },
+ {
+   "cityName": "Mohadi",
+   "code": "07197"
+ },
+ {
+   "cityName": "Mohamdabad",
+   "code": "05493"
+ },
+ {
+   "cityName": "Mohamdi-I",
+   "code": "05876"
+ },
+ {
+   "cityName": "Mohamdi-Ii",
+   "code": "05875"
+ },
+ {
+   "cityName": "Mohana",
+   "code": "06816"
+ },
+ {
+   "cityName": "Mohania",
+   "code": "06187"
+ },
+ {
+   "cityName": "Mohindergarh",
+   "code": "01285"
+ },
+ {
+   "cityName": "Mohla",
+   "code": "07747"
+ },
+ {
+   "cityName": "Mohol",
+   "code": "02189"
+ },
+ {
+   "cityName": "Mokhada",
+   "code": "02529"
+ },
+ {
+   "cityName": "Mokokchung",
+   "code": "0369"
+ },
+ {
+   "cityName": "Molkalmuru",
+   "code": "08198"
+ },
+ {
+   "cityName": "Mon",
+   "code": "03869"
+ },
+ {
+   "cityName": "Monghyr",
+   "code": "06344"
+ },
+ {
+   "cityName": "Moradabad",
+   "code": "0591"
+ },
+ {
+   "cityName": "Moranhat",
+   "code": "03754"
+ },
+ {
+   "cityName": "Morena",
+   "code": "07532"
+ },
+ {
+   "cityName": "Morigaon",
+   "code": "03678"
+ },
+ {
+   "cityName": "Morshi",
+   "code": "07228"
+ },
+ {
+   "cityName": "Morvi",
+   "code": "02822"
+ },
+ {
+   "cityName": "Motihari",
+   "code": "06252"
+ },
+ {
+   "cityName": "Motipur",
+   "code": "06223"
+ },
+ {
+   "cityName": "Motu",
+   "code": "06859"
+ },
+ {
+   "cityName": "Mouda",
+   "code": "07115"
+ },
+ {
+   "cityName": "Mriyalguda",
+   "code": "08689"
+ },
+ {
+   "cityName": "Mudalgi",
+   "code": "08334"
+ },
+ {
+   "cityName": "Muddebihal",
+   "code": "08356"
+ },
+ {
+   "cityName": "Mudhol",
+   "code": "08350"
+ },
+ {
+   "cityName": "Mudigere",
+   "code": "08263"
+ },
+ {
+   "cityName": "Mudukulathur",
+   "code": "04576"
+ },
+ {
+   "cityName": "Mukhed",
+   "code": "02461"
+ },
+ {
+   "cityName": "Muktasar",
+   "code": "01633"
+ },
+ {
+   "cityName": "Mul",
+   "code": "07174"
+ },
+ {
+   "cityName": "Mulanur",
+   "code": "04202"
+ },
+ {
+   "cityName": "Mulbagal",
+   "code": "08159"
+ },
+ {
+   "cityName": "Muli",
+   "code": "02756"
+ },
+ {
+   "cityName": "Multai",
+   "code": "07147"
+ },
+ {
+   "cityName": "Mulug",
+   "code": "08715"
+ },
+ {
+   "cityName": "Mumbai",
+   "code": "022"
+ },
+ {
+   "cityName": "Mundagod",
+   "code": "08301"
+ },
+ {
+   "cityName": "Mundargi",
+   "code": "08371"
+ },
+ {
+   "cityName": "Mundra",
+   "code": "02838"
+ },
+ {
+   "cityName": "Mungaoli",
+   "code": "07548"
+ },
+ {
+   "cityName": "Mungeli",
+   "code": "07755"
+ },
+ {
+   "cityName": "Munnar",
+   "code": "04865"
+ },
+ {
+   "cityName": "Munsiari",
+   "code": "05961"
+ },
+ {
+   "cityName": "Murbad",
+   "code": "02524"
+ },
+ {
+   "cityName": "Muri",
+   "code": "06522"
+ },
+ {
+   "cityName": "Murshidabad",
+   "code": "03483"
+ },
+ {
+   "cityName": "Murtizapur",
+   "code": "07256"
+ },
+ {
+   "cityName": "Murud",
+   "code": "02144"
+ },
+ {
+   "cityName": "Murugod",
+   "code": "08337"
+ },
+ {
+   "cityName": "Musafirkhana",
+   "code": "05361"
+ },
+ {
+   "cityName": "Musiri",
+   "code": "04326"
+ },
+ {
+   "cityName": "Muvattupuzha",
+   "code": "0485"
+ },
+ {
+   "cityName": "Muzaffarnagar",
+   "code": "0131"
+ },
+ {
+   "cityName": "Muzaffarpur",
+   "code": "0621"
+ },
+ {
+   "cityName": "Mylavaram",
+   "code": "08659"
+ },
+ {
+   "cityName": "Mysore",
+   "code": "0821"
+ },
+ {
+   "cityName": "Nabha",
+   "code": "01765"
+ },
+ {
+   "cityName": "Nabinagar",
+   "code": "06332"
+ },
+ {
+   "cityName": "Nadbai",
+   "code": "05643"
+ },
+ {
+   "cityName": "Nadiad",
+   "code": "0268"
+ },
+ {
+   "cityName": "Nagamangala",
+   "code": "08234"
+ },
+ {
+   "cityName": "Nagaon",
+   "code": "03672"
+ },
+ {
+   "cityName": "Nagapattinam",
+   "code": "04365"
+ },
+ {
+   "cityName": "Nagarakata",
+   "code": "03565"
+ },
+ {
+   "cityName": "Nagarcoil",
+   "code": "04652"
+ },
+ {
+   "cityName": "Nagarkurnool",
+   "code": "08540"
+ },
+ {
+   "cityName": "Nagarutatri",
+   "code": "06564"
+ },
+ {
+   "cityName": "Nagaur(E)",
+   "code": "01584"
+ },
+ {
+   "cityName": "Nagaur(N)",
+   "code": "01582"
+ },
+ {
+   "cityName": "Nagaur(W)",
+   "code": "01585"
+ },
+ {
+   "cityName": "Nagbhir",
+   "code": "07179"
+ },
+ {
+   "cityName": "Nagina",
+   "code": "01343"
+ },
+ {
+   "cityName": "Nagod",
+   "code": "07673"
+ },
+ {
+   "cityName": "Nagpur",
+   "code": "0712"
+ },
+ {
+   "cityName": "Nagri",
+   "code": "07700"
+ },
+ {
+   "cityName": "Nahan",
+   "code": "01702"
+ },
+ {
+   "cityName": "Nahavara",
+   "code": "02137"
+ },
+ {
+   "cityName": "Nainital",
+   "code": "05942"
+ },
+ {
+   "cityName": "Nainpur",
+   "code": "07646"
+ },
+ {
+   "cityName": "Nainwa",
+   "code": "07437"
+ },
+ {
+   "cityName": "Najibabad",
+   "code": "01341"
+ },
+ {
+   "cityName": "Nakhatrana",
+   "code": "02835"
+ },
+ {
+   "cityName": "Nakodar",
+   "code": "01821"
+ },
+ {
+   "cityName": "Naktideul",
+   "code": "06647"
+ },
+ {
+   "cityName": "Nakur",
+   "code": "01331"
+ },
+ {
+   "cityName": "Nala",
+   "code": "06428"
+ },
+ {
+   "cityName": "Nalagarh",
+   "code": "01795"
+ },
+ {
+   "cityName": "Nalbari",
+   "code": "03624"
+ },
+ {
+   "cityName": "Nalgonda",
+   "code": "08682"
+ },
+ {
+   "cityName": "Nalhati",
+   "code": "03465"
+ },
+ {
+   "cityName": "Nalia",
+   "code": "02831"
+ },
+ {
+   "cityName": "Nallacheruvu",
+   "code": "08498"
+ },
+ {
+   "cityName": "Namakkal",
+   "code": "04286"
+ },
+ {
+   "cityName": "Nampalle",
+   "code": "08692"
+ },
+ {
+   "cityName": "Nandapur",
+   "code": "06868"
+ },
+ {
+   "cityName": "Nanded",
+   "code": "02462"
+ },
+ {
+   "cityName": "Nandgaon",
+   "code": "07221"
+ },
+ {
+   "cityName": "Nandgaon",
+   "code": "02552"
+ },
+ {
+   "cityName": "Nandigama",
+   "code": "08678"
+ },
+ {
+   "cityName": "Nandikotkur",
+   "code": "08513"
+ },
+ {
+   "cityName": "Nandnva",
+   "code": "07279"
+ },
+ {
+   "cityName": "Nandurbar",
+   "code": "02564"
+ },
+ {
+   "cityName": "Nandyal",
+   "code": "08514"
+ },
+ {
+   "cityName": "Nangal",
+   "code": "01887"
+ },
+ {
+   "cityName": "Nanguneri",
+   "code": "04635"
+ },
+ {
+   "cityName": "Nanjangud",
+   "code": "08221"
+ },
+ {
+   "cityName": "Nanpara-I",
+   "code": "05253"
+ },
+ {
+   "cityName": "Nanpara-Ii",
+   "code": "05254"
+ },
+ {
+   "cityName": "Naraingarh",
+   "code": "01734"
+ },
+ {
+   "cityName": "Naraini",
+   "code": "05191"
+ },
+ {
+   "cityName": "Narainpur",
+   "code": "07781"
+ },
+ {
+   "cityName": "Narasampet",
+   "code": "08718"
+ },
+ {
+   "cityName": "Narasaraopet",
+   "code": "08647"
+ },
+ {
+   "cityName": "Narayanakhed",
+   "code": "08456"
+ },
+ {
+   "cityName": "Narayanpet",
+   "code": "08506"
+ },
+ {
+   "cityName": "Nargund",
+   "code": "08377"
+ },
+ {
+   "cityName": "Narkatiaganj",
+   "code": "06253"
+ },
+ {
+   "cityName": "Narkhed",
+   "code": "07105"
+ },
+ {
+   "cityName": "Narlaroad",
+   "code": "06677"
+ },
+ {
+   "cityName": "Narnaul",
+   "code": "01282"
+ },
+ {
+   "cityName": "Narsapur",
+   "code": "08458"
+ },
+ {
+   "cityName": "Narsapur",
+   "code": "08814"
+ },
+ {
+   "cityName": "Narsimrajapur",
+   "code": "08266"
+ },
+ {
+   "cityName": "Narsingarh",
+   "code": "07375"
+ },
+ {
+   "cityName": "Narsinghpur",
+   "code": "07792"
+ },
+ {
+   "cityName": "Narsinghpur",
+   "code": "06721"
+ },
+ {
+   "cityName": "Narsipatnam",
+   "code": "08932"
+ },
+ {
+   "cityName": "Narwana",
+   "code": "01684"
+ },
+ {
+   "cityName": "Narwar",
+   "code": "07491"
+ },
+ {
+   "cityName": "Nasikcity",
+   "code": "0253"
+ },
+ {
+   "cityName": "Nasirabad",
+   "code": "01491"
+ },
+ {
+   "cityName": "Nasrullaganj",
+   "code": "07563"
+ },
+ {
+   "cityName": "Naswadi",
+   "code": "02661"
+ },
+ {
+   "cityName": "Nateran",
+   "code": "07595"
+ },
+ {
+   "cityName": "Natham",
+   "code": "04544"
+ },
+ {
+   "cityName": "Nathdwara",
+   "code": "02953"
+ },
+ {
+   "cityName": "Naugachia",
+   "code": "06421"
+ },
+ {
+   "cityName": "Naugarh-I",
+   "code": "05544"
+ },
+ {
+   "cityName": "Naugarh-Ii",
+   "code": "05543"
+ },
+ {
+   "cityName": "Navalgund",
+   "code": "08380"
+ },
+ {
+   "cityName": "Navapur",
+   "code": "02569"
+ },
+ {
+   "cityName": "Navasari",
+   "code": "02637"
+ },
+ {
+   "cityName": "Navi Mumbai",
+   "code": "0215"
+ },
+ {
+   "cityName": "Nawa",
+   "code": "01586"
+ },
+ {
+   "cityName": "Nawabganj",
+   "code": "05825"
+ },
+ {
+   "cityName": "Nawada",
+   "code": "06324"
+ },
+ {
+   "cityName": "Nawanshahar",
+   "code": "01823"
+ },
+ {
+   "cityName": "Nayagarh",
+   "code": "06753"
+ },
+ {
+   "cityName": "Nayagarh",
+   "code": "03223"
+ },
+ {
+   "cityName": "Nazvidu",
+   "code": "08656"
+ },
+ {
+   "cityName": "Nedumandad",
+   "code": "04728"
+ },
+ {
+   "cityName": "Nedumgandam",
+   "code": "04868"
+ },
+ {
+   "cityName": "Neem Ka Thana",
+   "code": "01574"
+ },
+ {
+   "cityName": "Neemuch",
+   "code": "07423"
+ },
+ {
+   "cityName": "Nefra",
+   "code": "03784"
+ },
+ {
+   "cityName": "Nelamangala",
+   "code": "08118"
+ },
+ {
+   "cityName": "Nelloe",
+   "code": "0861"
+ },
+ {
+   "cityName": "Neora",
+   "code": "07721"
+ },
+ {
+   "cityName": "Ner",
+   "code": "02481"
+ },
+ {
+   "cityName": "Netanar",
+   "code": "07861"
+ },
+ {
+   "cityName": "New Delhi",
+   "code": "011"
+ },
+ {
+   "cityName": "Newai",
+   "code": "01438"
+ },
+ {
+   "cityName": "Newasa",
+   "code": "02427"
+ },
+ {
+   "cityName": "Nicobar Island",
+   "code": "03193"
+ },
+ {
+   "cityName": "Nidamanur",
+   "code": "08680"
+ },
+ {
+   "cityName": "Nighasan-I",
+   "code": "05871"
+ },
+ {
+   "cityName": "Nighasan-Ii",
+   "code": "05873"
+ },
+ {
+   "cityName": "Nighasan-Iii",
+   "code": "05874"
+ },
+ {
+   "cityName": "Nilambur",
+   "code": "04931"
+ },
+ {
+   "cityName": "Nilanga",
+   "code": "02384"
+ },
+ {
+   "cityName": "Nilokheri",
+   "code": "01745"
+ },
+ {
+   "cityName": "Nimapara",
+   "code": "06758"
+ },
+ {
+   "cityName": "Nimbahera",
+   "code": "01477"
+ },
+ {
+   "cityName": "Nimburga",
+   "code": "08440"
+ },
+ {
+   "cityName": "Niphad",
+   "code": "02550"
+ },
+ {
+   "cityName": "Nirmal",
+   "code": "08734"
+ },
+ {
+   "cityName": "Nirmand",
+   "code": "01904"
+ },
+ {
+   "cityName": "Niwari",
+   "code": "07680"
+ },
+ {
+   "cityName": "Niwas",
+   "code": "07641"
+ },
+ {
+   "cityName": "Nizamabad",
+   "code": "08462"
+ },
+ {
+   "cityName": "Nizar",
+   "code": "02628"
+ },
+ {
+   "cityName": "Noamundi",
+   "code": "06596"
+ },
+ {
+   "cityName": "Nobra",
+   "code": "01980"
+ },
+ {
+   "cityName": "Nohar( C)",
+   "code": "01537"
+ },
+ {
+   "cityName": "Nohar(E)",
+   "code": "01555"
+ },
+ {
+   "cityName": "Nohar(W)",
+   "code": "01502"
+ },
+ {
+   "cityName": "Nokha (E)",
+   "code": "01531"
+ },
+ {
+   "cityName": "Nokha (W)",
+   "code": "01532"
+ },
+ {
+   "cityName": "Nongpoh",
+   "code": "03638"
+ },
+ {
+   "cityName": "Nongstoin",
+   "code": "03654"
+ },
+ {
+   "cityName": "North Lakhimpur",
+   "code": "03752"
+ },
+ {
+   "cityName": "Nowgaon",
+   "code": "07685"
+ },
+ {
+   "cityName": "Nowparatan",
+   "code": "06678"
+ },
+ {
+   "cityName": "Nowrangapur",
+   "code": "06858"
+ },
+ {
+   "cityName": "Nowshera",
+   "code": "01960"
+ },
+ {
+   "cityName": "Nuguru",
+   "code": "08747"
+ },
+ {
+   "cityName": "Nuh",
+   "code": "01267"
+ },
+ {
+   "cityName": "Nurpur",
+   "code": "01893"
+ },
+ {
+   "cityName": "Nyoma",
+   "code": "01981"
+ },
+ {
+   "cityName": "Oddanchatram",
+   "code": "04553"
+ },
+ {
+   "cityName": "Odgi",
+   "code": "07773"
+ },
+ {
+   "cityName": "Okha",
+   "code": "02892"
+ },
+ {
+   "cityName": "Omalpur",
+   "code": "04290"
+ },
+ {
+   "cityName": "Omerga",
+   "code": "02475"
+ },
+ {
+   "cityName": "Ongole",
+   "code": "08592"
+ },
+ {
+   "cityName": "Ootacamund",
+   "code": "0423"
+ },
+ {
+   "cityName": "Orai",
+   "code": "05162"
+ },
+ {
+   "cityName": "Orathanad",
+   "code": "04372"
+ },
+ {
+   "cityName": "Osian(E)",
+   "code": "02927"
+ },
+ {
+   "cityName": "Osian(N)",
+   "code": "02922"
+ },
+ {
+   "cityName": "Osian(S)",
+   "code": "02926"
+ },
+ {
+   "cityName": "Osmanabad",
+   "code": "02472"
+ },
+ {
+   "cityName": "Outsarangapalle",
+   "code": "08753"
+ },
+ {
+   "cityName": "Pachmarhi",
+   "code": "07578"
+ },
+ {
+   "cityName": "Pachora",
+   "code": "02596"
+ },
+ {
+   "cityName": "Pachpadara (E)",
+   "code": "02980"
+ },
+ {
+   "cityName": "Pachpadara (W)",
+   "code": "02988"
+ },
+ {
+   "cityName": "Pachpahar",
+   "code": "07433"
+ },
+ {
+   "cityName": "Padam",
+   "code": "01983"
+ },
+ {
+   "cityName": "Padamkot",
+   "code": "07783"
+ },
+ {
+   "cityName": "Padampur",
+   "code": "06683"
+ },
+ {
+   "cityName": "Padampur",
+   "code": "01505"
+ },
+ {
+   "cityName": "Paddhari",
+   "code": "02820"
+ },
+ {
+   "cityName": "Paderu",
+   "code": "08935"
+ },
+ {
+   "cityName": "Padra",
+   "code": "02662"
+ },
+ {
+   "cityName": "Padrauna",
+   "code": "05564"
+ },
+ {
+   "cityName": "Pahalgam",
+   "code": "01936"
+ },
+ {
+   "cityName": "Pahasu",
+   "code": "05733"
+ },
+ {
+   "cityName": "Paikamal",
+   "code": "06684"
+ },
+ {
+   "cityName": "Paithan",
+   "code": "02431"
+ },
+ {
+   "cityName": "Pakala",
+   "code": "08585"
+ },
+ {
+   "cityName": "Pakhanjur",
+   "code": "07844"
+ },
+ {
+   "cityName": "Pakkekesang",
+   "code": "03778"
+ },
+ {
+   "cityName": "Pakribarwan",
+   "code": "06325"
+ },
+ {
+   "cityName": "Pakridayal",
+   "code": "06259"
+ },
+ {
+   "cityName": "Pakur",
+   "code": "06435"
+ },
+ {
+   "cityName": "Palacode",
+   "code": "04348"
+ },
+ {
+   "cityName": "Palai",
+   "code": "04822"
+ },
+ {
+   "cityName": "Palakonda",
+   "code": "08941"
+ },
+ {
+   "cityName": "Palampur",
+   "code": "01894"
+ },
+ {
+   "cityName": "Paland",
+   "code": "08642"
+ },
+ {
+   "cityName": "Palani",
+   "code": "04545"
+ },
+ {
+   "cityName": "Palanpur",
+   "code": "02742"
+ },
+ {
+   "cityName": "Palghar",
+   "code": "02525"
+ },
+ {
+   "cityName": "Palghat",
+   "code": "0491"
+ },
+ {
+   "cityName": "Pali",
+   "code": "07816"
+ },
+ {
+   "cityName": "Pali",
+   "code": "02142"
+ },
+ {
+   "cityName": "Pali(N)",
+   "code": "02936"
+ },
+ {
+   "cityName": "Pali(S)",
+   "code": "02932"
+ },
+ {
+   "cityName": "Palitana",
+   "code": "02848"
+ },
+ {
+   "cityName": "Palkot",
+   "code": "06536"
+ },
+ {
+   "cityName": "Palla Hara",
+   "code": "06765"
+ },
+ {
+   "cityName": "Palladum",
+   "code": "04255"
+ },
+ {
+   "cityName": "Palmaneru",
+   "code": "08579"
+ },
+ {
+   "cityName": "Palwal",
+   "code": "01275"
+ },
+ {
+   "cityName": "Pamuru",
+   "code": "08490"
+ },
+ {
+   "cityName": "Pandaria",
+   "code": "07754"
+ },
+ {
+   "cityName": "Pandavapura",
+   "code": "08236"
+ },
+ {
+   "cityName": "Pandhana",
+   "code": "07320"
+ },
+ {
+   "cityName": "Pandharkawada",
+   "code": "07235"
+ },
+ {
+   "cityName": "Pandharpur",
+   "code": "02186"
+ },
+ {
+   "cityName": "Pandhurna",
+   "code": "07164"
+ },
+ {
+   "cityName": "Pandishankar",
+   "code": "07819"
+ },
+ {
+   "cityName": "Pangi",
+   "code": "01897"
+ },
+ {
+   "cityName": "Pangin",
+   "code": "03797"
+ },
+ {
+   "cityName": "Panhala",
+   "code": "02328"
+ },
+ {
+   "cityName": "Panipat",
+   "code": "0180"
+ },
+ {
+   "cityName": "Panji",
+   "code": "0832"
+ },
+ {
+   "cityName": "Panna",
+   "code": "07732"
+ },
+ {
+   "cityName": "Paonta",
+   "code": "01704"
+ },
+ {
+   "cityName": "Papadhandi",
+   "code": "06869"
+ },
+ {
+   "cityName": "Papanasam",
+   "code": "04374"
+ },
+ {
+   "cityName": "Parajang",
+   "code": "06768"
+ },
+ {
+   "cityName": "Paramakudi",
+   "code": "04564"
+ },
+ {
+   "cityName": "Paranda",
+   "code": "02477"
+ },
+ {
+   "cityName": "Parasgaon",
+   "code": "07784"
+ },
+ {
+   "cityName": "Parasia",
+   "code": "07161"
+ },
+ {
+   "cityName": "Parbatsar(N)",
+   "code": "01588"
+ },
+ {
+   "cityName": "Parbatsar(S)",
+   "code": "01589"
+ },
+ {
+   "cityName": "Parbhani",
+   "code": "02452"
+ },
+ {
+   "cityName": "Pardip",
+   "code": "06722"
+ },
+ {
+   "cityName": "Pargi",
+   "code": "08412"
+ },
+ {
+   "cityName": "Parkal",
+   "code": "08713"
+ },
+ {
+   "cityName": "Parlakhemundi",
+   "code": "06815"
+ },
+ {
+   "cityName": "Parner",
+   "code": "02488"
+ },
+ {
+   "cityName": "Parola",
+   "code": "02597"
+ },
+ {
+   "cityName": "Parseoni",
+   "code": "07102"
+ },
+ {
+   "cityName": "Partapnagar",
+   "code": "01379"
+ },
+ {
+   "cityName": "Partur",
+   "code": "02484"
+ },
+ {
+   "cityName": "Parvathipuram",
+   "code": "08963"
+ },
+ {
+   "cityName": "Pasan",
+   "code": "07811"
+ },
+ {
+   "cityName": "Passighat",
+   "code": "0368"
+ },
+ {
+   "cityName": "Patan",
+   "code": "07826"
+ },
+ {
+   "cityName": "Patan",
+   "code": "02766"
+ },
+ {
+   "cityName": "Patan",
+   "code": "06560"
+ },
+ {
+   "cityName": "Patan",
+   "code": "07621"
+ },
+ {
+   "cityName": "Patan",
+   "code": "02372"
+ },
+ {
+   "cityName": "Patera",
+   "code": "07605"
+ },
+ {
+   "cityName": "Pathaanamthitta",
+   "code": "0468"
+ },
+ {
+   "cityName": "Pathalgaon",
+   "code": "07765"
+ },
+ {
+   "cityName": "Pathankot",
+   "code": "0186"
+ },
+ {
+   "cityName": "Pathapatnam",
+   "code": "08946"
+ },
+ {
+   "cityName": "Pathardi",
+   "code": "02428"
+ },
+ {
+   "cityName": "Pathari",
+   "code": "02451"
+ },
+ {
+   "cityName": "Patharia",
+   "code": "07601"
+ },
+ {
+   "cityName": "Patiala",
+   "code": "0175"
+ },
+ {
+   "cityName": "Patna",
+   "code": "0612"
+ },
+ {
+   "cityName": "Patnagarh",
+   "code": "06648"
+ },
+ {
+   "cityName": "Patoda",
+   "code": "02444"
+ },
+ {
+   "cityName": "Pattamundai",
+   "code": "06729"
+ },
+ {
+   "cityName": "Patti",
+   "code": "01851"
+ },
+ {
+   "cityName": "Patti",
+   "code": "05343"
+ },
+ {
+   "cityName": "Pattikonda",
+   "code": "08520"
+ },
+ {
+   "cityName": "Pattukottai",
+   "code": "04373"
+ },
+ {
+   "cityName": "Pauni",
+   "code": "07185"
+ },
+ {
+   "cityName": "Pauri-I",
+   "code": "01368"
+ },
+ {
+   "cityName": "Pauri-Ii",
+   "code": "01346"
+ },
+ {
+   "cityName": "Pavagada",
+   "code": "08136"
+ },
+ {
+   "cityName": "Pavijetpur",
+   "code": "02664"
+ },
+ {
+   "cityName": "Pawai",
+   "code": "07733"
+ },
+ {
+   "cityName": "Payyanur",
+   "code": "04985"
+ },
+ {
+   "cityName": "Peapalle",
+   "code": "08522"
+ },
+ {
+   "cityName": "Peddapalli",
+   "code": "08728"
+ },
+ {
+   "cityName": "Peddapuram",
+   "code": "08852"
+ },
+ {
+   "cityName": "Peermedu",
+   "code": "04869"
+ },
+ {
+   "cityName": "Pehowa",
+   "code": "01741"
+ },
+ {
+   "cityName": "Peint",
+   "code": "02558"
+ },
+ {
+   "cityName": "Pen",
+   "code": "02143"
+ },
+ {
+   "cityName": "Pendra",
+   "code": "07751"
+ },
+ {
+   "cityName": "Penukonda",
+   "code": "08557"
+ },
+ {
+   "cityName": "Perambalur",
+   "code": "04328"
+ },
+ {
+   "cityName": "Perinthalmanna",
+   "code": "04933"
+ },
+ {
+   "cityName": "Perundurai",
+   "code": "04294"
+ },
+ {
+   "cityName": "Petlawad",
+   "code": "07391"
+ },
+ {
+   "cityName": "Phagi",
+   "code": "01430"
+ },
+ {
+   "cityName": "Phagwara",
+   "code": "01824"
+ },
+ {
+   "cityName": "Phalodi(E)",
+   "code": "02923"
+ },
+ {
+   "cityName": "Phalodi(N)",
+   "code": "02921"
+ },
+ {
+   "cityName": "Phalodi(S)",
+   "code": "02925"
+ },
+ {
+   "cityName": "Phalodi(W)",
+   "code": "02924"
+ },
+ {
+   "cityName": "Phaltan",
+   "code": "02166"
+ },
+ {
+   "cityName": "Pharenda-I",
+   "code": "05522"
+ },
+ {
+   "cityName": "Pharenda-Ii",
+   "code": "05524"
+ },
+ {
+   "cityName": "Phek",
+   "code": "03865"
+ },
+ {
+   "cityName": "Phillaur",
+   "code": "01826"
+ },
+ {
+   "cityName": "Phiringia",
+   "code": "06845"
+ },
+ {
+   "cityName": "Phoolpur",
+   "code": "05332"
+ },
+ {
+   "cityName": "Phulbani",
+   "code": "06842"
+ },
+ {
+   "cityName": "Phulera(E)",
+   "code": "01424"
+ },
+ {
+   "cityName": "Phulera(W)",
+   "code": "01425"
+ },
+ {
+   "cityName": "Phulmandi",
+   "code": "01651"
+ },
+ {
+   "cityName": "Phulparas",
+   "code": "06277"
+ },
+ {
+   "cityName": "Phulpur-I",
+   "code": "05460"
+ },
+ {
+   "cityName": "Phulpur-Ii",
+   "code": "05465"
+ },
+ {
+   "cityName": "Pichhore",
+   "code": "07496"
+ },
+ {
+   "cityName": "Piduguralla",
+   "code": "08649"
+ },
+ {
+   "cityName": "Piler",
+   "code": "08584"
+ },
+ {
+   "cityName": "Pilibhit",
+   "code": "05882"
+ },
+ {
+   "cityName": "Pimpalner",
+   "code": "02561"
+ },
+ {
+   "cityName": "Pindwara",
+   "code": "02971"
+ },
+ {
+   "cityName": "Pipalda",
+   "code": "07458"
+ },
+ {
+   "cityName": "Piparia",
+   "code": "07576"
+ },
+ {
+   "cityName": "Pirangut",
+   "code": "02139"
+ },
+ {
+   "cityName": "Pirawa",
+   "code": "07434"
+ },
+ {
+   "cityName": "Piro",
+   "code": "06181"
+ },
+ {
+   "cityName": "Pitamberpur",
+   "code": "05821"
+ },
+ {
+   "cityName": "Pithapuram",
+   "code": "08869"
+ },
+ {
+   "cityName": "Pithoragarh",
+   "code": "05964"
+ },
+ {
+   "cityName": "Podili",
+   "code": "08499"
+ },
+ {
+   "cityName": "Pohari",
+   "code": "07490"
+ },
+ {
+   "cityName": "Pokaran-1",
+   "code": "02995"
+ },
+ {
+   "cityName": "Pokaran-2",
+   "code": "03017"
+ },
+ {
+   "cityName": "Pokaran-3",
+   "code": "02996"
+ },
+ {
+   "cityName": "Pokaran-4",
+   "code": "02994"
+ },
+ {
+   "cityName": "Pokaran-5",
+   "code": "03019"
+ },
+ {
+   "cityName": "Poladpur",
+   "code": "02191"
+ },
+ {
+   "cityName": "Polavaram",
+   "code": "08811"
+ },
+ {
+   "cityName": "Pollachi",
+   "code": "04259"
+ },
+ {
+   "cityName": "Polur",
+   "code": "04181"
+ },
+ {
+   "cityName": "Ponda",
+   "code": "08343"
+ },
+ {
+   "cityName": "Pondicherry",
+   "code": "0413"
+ },
+ {
+   "cityName": "Ponnamaravathi",
+   "code": "04333"
+ },
+ {
+   "cityName": "Ponneri",
+   "code": "044"
+ },
+ {
+   "cityName": "Pooh",
+   "code": "01785"
+ },
+ {
+   "cityName": "Poonch",
+   "code": "01965"
+ },
+ {
+   "cityName": "Porbander",
+   "code": "0286"
+ },
+ {
+   "cityName": "Powayan",
+   "code": "05844"
+ },
+ {
+   "cityName": "Prabhapattan",
+   "code": "07148"
+ },
+ {
+   "cityName": "Prantij",
+   "code": "02770"
+ },
+ {
+   "cityName": "Pratapgarh",
+   "code": "05342"
+ },
+ {
+   "cityName": "Pratapgarh(N)",
+   "code": "01478"
+ },
+ {
+   "cityName": "Pratapgarh(S)",
+   "code": "01479"
+ },
+ {
+   "cityName": "Pratappur",
+   "code": "07777"
+ },
+ {
+   "cityName": "Premnagar",
+   "code": "07776"
+ },
+ {
+   "cityName": "Proddatur",
+   "code": "08564"
+ },
+ {
+   "cityName": "Pudukkottai",
+   "code": "04322"
+ },
+ {
+   "cityName": "Pulivendla",
+   "code": "08568"
+ },
+ {
+   "cityName": "Pulwama",
+   "code": "01933"
+ },
+ {
+   "cityName": "Punalur",
+   "code": "0475"
+ },
+ {
+   "cityName": "Punasa",
+   "code": "07323"
+ },
+ {
+   "cityName": "Pune",
+   "code": "020"
+ },
+ {
+   "cityName": "Punganur",
+   "code": "08581"
+ },
+ {
+   "cityName": "Pupri",
+   "code": "06228"
+ },
+ {
+   "cityName": "Puranpur",
+   "code": "05880"
+ },
+ {
+   "cityName": "Purena",
+   "code": "06454"
+ },
+ {
+   "cityName": "Puri",
+   "code": "06752"
+ },
+ {
+   "cityName": "Purola",
+   "code": "01373"
+ },
+ {
+   "cityName": "Purulia",
+   "code": "03252"
+ },
+ {
+   "cityName": "Puruna Katak",
+   "code": "06843"
+ },
+ {
+   "cityName": "Purwa",
+   "code": "05142"
+ },
+ {
+   "cityName": "Pusad",
+   "code": "07233"
+ },
+ {
+   "cityName": "Pusegaon",
+   "code": "02375"
+ },
+ {
+   "cityName": "Pushprajgarh",
+   "code": "07629"
+ },
+ {
+   "cityName": "Puttur",
+   "code": "08251"
+ },
+ {
+   "cityName": "Putturu",
+   "code": "08577"
+ },
+ {
+   "cityName": "Quadian",
+   "code": "01872"
+ },
+ {
+   "cityName": "Quilon",
+   "code": "0474"
+ },
+ {
+   "cityName": "R. Udayigiri",
+   "code": "06817"
+ },
+ {
+   "cityName": "R.K. Pur",
+   "code": "03821"
+ },
+ {
+   "cityName": "Radhanagar",
+   "code": "02321"
+ },
+ {
+   "cityName": "Radhanpur",
+   "code": "02746"
+ },
+ {
+   "cityName": "Rafiganj",
+   "code": "06327"
+ },
+ {
+   "cityName": "Raghogarh",
+   "code": "07544"
+ },
+ {
+   "cityName": "Raghunathpur",
+   "code": "07535"
+ },
+ {
+   "cityName": "Rahatgarh",
+   "code": "07584"
+ },
+ {
+   "cityName": "Rahpar",
+   "code": "02830"
+ },
+ {
+   "cityName": "Rahuri",
+   "code": "02426"
+ },
+ {
+   "cityName": "Raibag",
+   "code": "08331"
+ },
+ {
+   "cityName": "Raibareli",
+   "code": "0535"
+ },
+ {
+   "cityName": "Raichur",
+   "code": "08532"
+ },
+ {
+   "cityName": "Raiganj",
+   "code": "03523"
+ },
+ {
+   "cityName": "Raigarh",
+   "code": "07762"
+ },
+ {
+   "cityName": "Raipur",
+   "code": "0771"
+ },
+ {
+   "cityName": "Raipur",
+   "code": "02937"
+ },
+ {
+   "cityName": "Raipur",
+   "code": "01481"
+ },
+ {
+   "cityName": "Rairakhol",
+   "code": "06644"
+ },
+ {
+   "cityName": "Rairangpur",
+   "code": "06794"
+ },
+ {
+   "cityName": "Raisen",
+   "code": "07482"
+ },
+ {
+   "cityName": "Raisinghnagar",
+   "code": "01507"
+ },
+ {
+   "cityName": "Rajahmundri",
+   "code": "0883"
+ },
+ {
+   "cityName": "Rajampeta",
+   "code": "08565"
+ },
+ {
+   "cityName": "Rajandgaon",
+   "code": "07744"
+ },
+ {
+   "cityName": "Rajapalayam",
+   "code": "04563"
+ },
+ {
+   "cityName": "Rajapur",
+   "code": "02353"
+ },
+ {
+   "cityName": "Rajaula",
+   "code": "02794"
+ },
+ {
+   "cityName": "Rajauli",
+   "code": "06336"
+ },
+ {
+   "cityName": "Rajdhanwar",
+   "code": "06554"
+ },
+ {
+   "cityName": "Rajgangpur",
+   "code": "06624"
+ },
+ {
+   "cityName": "Rajgarh",
+   "code": "01799"
+ },
+ {
+   "cityName": "Rajgarh",
+   "code": "07372"
+ },
+ {
+   "cityName": "Rajgarh",
+   "code": "01464"
+ },
+ {
+   "cityName": "Rajgarh",
+   "code": "01559"
+ },
+ {
+   "cityName": "Rajgarh",
+   "code": "01375"
+ },
+ {
+   "cityName": "Rajgurunagar",
+   "code": "02135"
+ },
+ {
+   "cityName": "Rajkhariar",
+   "code": "06671"
+ },
+ {
+   "cityName": "Rajkot",
+   "code": "0281"
+ },
+ {
+   "cityName": "Rajmahal",
+   "code": "06426"
+ },
+ {
+   "cityName": "Rajouri",
+   "code": "01962"
+ },
+ {
+   "cityName": "Rajpipla",
+   "code": "02640"
+ },
+ {
+   "cityName": "Rajpur",
+   "code": "07832"
+ },
+ {
+   "cityName": "Rajpur",
+   "code": "07284"
+ },
+ {
+   "cityName": "Rajpura",
+   "code": "01762"
+ },
+ {
+   "cityName": "Rajsamand",
+   "code": "02952"
+ },
+ {
+   "cityName": "Rajura",
+   "code": "07173"
+ },
+ {
+   "cityName": "Ralegaon",
+   "code": "07202"
+ },
+ {
+   "cityName": "Ramachandrapuram",
+   "code": "08857"
+ },
+ {
+   "cityName": "Raman",
+   "code": "01655"
+ },
+ {
+   "cityName": "Ramanathpuram",
+   "code": "04567"
+ },
+ {
+   "cityName": "Ramannapet",
+   "code": "08694"
+ },
+ {
+   "cityName": "Ramban",
+   "code": "01998"
+ },
+ {
+   "cityName": "Ramchandrapur",
+   "code": "07779"
+ },
+ {
+   "cityName": "Ramdurg",
+   "code": "08335"
+ },
+ {
+   "cityName": "Rameshwaram",
+   "code": "04573"
+ },
+ {
+   "cityName": "Ramganj Mandi",
+   "code": "07459"
+ },
+ {
+   "cityName": "Ramgarh",
+   "code": "06553"
+ },
+ {
+   "cityName": "Ramgarh",
+   "code": "01468"
+ },
+ {
+   "cityName": "Ramnagar",
+   "code": "06256"
+ },
+ {
+   "cityName": "Ramnagar",
+   "code": "01990"
+ },
+ {
+   "cityName": "Rampachodavaram",
+   "code": "08864"
+ },
+ {
+   "cityName": "Rampur",
+   "code": "0595"
+ },
+ {
+   "cityName": "Rampur Bushahar",
+   "code": "01782"
+ },
+ {
+   "cityName": "Rampur Hat",
+   "code": "03461"
+ },
+ {
+   "cityName": "Ramsanehi Ghat",
+   "code": "05241"
+ },
+ {
+   "cityName": "Ramtek",
+   "code": "07114"
+ },
+ {
+   "cityName": "Ranaghat",
+   "code": "03473"
+ },
+ {
+   "cityName": "Ranavav",
+   "code": "02801"
+ },
+ {
+   "cityName": "Ranchi",
+   "code": "0651"
+ },
+ {
+   "cityName": "Ranebennur",
+   "code": "08373"
+ },
+ {
+   "cityName": "Rangapara",
+   "code": "03714"
+ },
+ {
+   "cityName": "Raniganj",
+   "code": "06461"
+ },
+ {
+   "cityName": "Ranikhet",
+   "code": "05966"
+ },
+ {
+   "cityName": "Ranipet",
+   "code": "04172"
+ },
+ {
+   "cityName": "Ranni",
+   "code": "04735"
+ },
+ {
+   "cityName": "Rapur",
+   "code": "08621"
+ },
+ {
+   "cityName": "Rasara",
+   "code": "05491"
+ },
+ {
+   "cityName": "Rashmi",
+   "code": "01471"
+ },
+ {
+   "cityName": "Rasipuram",
+   "code": "04287"
+ },
+ {
+   "cityName": "Ratangarh",
+   "code": "01567"
+ },
+ {
+   "cityName": "Rath",
+   "code": "05280"
+ },
+ {
+   "cityName": "Ratia",
+   "code": "01697"
+ },
+ {
+   "cityName": "Ratlam",
+   "code": "07412"
+ },
+ {
+   "cityName": "Ratnagiri",
+   "code": "02352"
+ },
+ {
+   "cityName": "Raver",
+   "code": "02584"
+ },
+ {
+   "cityName": "Raxaul",
+   "code": "06255"
+ },
+ {
+   "cityName": "Rayachoti",
+   "code": "08561"
+ },
+ {
+   "cityName": "Rayadurg",
+   "code": "08495"
+ },
+ {
+   "cityName": "Rayagada",
+   "code": "06856"
+ },
+ {
+   "cityName": "Rayya",
+   "code": "01853"
+ },
+ {
+   "cityName": "Razole",
+   "code": "08862"
+ },
+ {
+   "cityName": "Reasi",
+   "code": "01991"
+ },
+ {
+   "cityName": "Rehli",
+   "code": "07585"
+ },
+ {
+   "cityName": "Reodar",
+   "code": "02975"
+ },
+ {
+   "cityName": "Repalle",
+   "code": "08648"
+ },
+ {
+   "cityName": "Resubelpara",
+   "code": "03659"
+ },
+ {
+   "cityName": "Rewa",
+   "code": "07662"
+ },
+ {
+   "cityName": "Rewari",
+   "code": "01274"
+ },
+ {
+   "cityName": "Risod",
+   "code": "07251"
+ },
+ {
+   "cityName": "Robertsganj-I",
+   "code": "05444"
+ },
+ {
+   "cityName": "Robertsganj-Ii",
+   "code": "05445"
+ },
+ {
+   "cityName": "Roha",
+   "code": "02194"
+ },
+ {
+   "cityName": "Rohru",
+   "code": "01781"
+ },
+ {
+   "cityName": "Rohtak",
+   "code": "01262"
+ },
+ {
+   "cityName": "Rohtas",
+   "code": "06188"
+ },
+ {
+   "cityName": "Roing-I",
+   "code": "03803"
+ },
+ {
+   "cityName": "Roing-Ii",
+   "code": "03802"
+ },
+ {
+   "cityName": "Roing-Iii",
+   "code": "03779"
+ },
+ {
+   "cityName": "Ron",
+   "code": "08381"
+ },
+ {
+   "cityName": "Roorkee-I",
+   "code": "01332"
+ },
+ {
+   "cityName": "Roorkee-Ii",
+   "code": "01334"
+ },
+ {
+   "cityName": "Ropar",
+   "code": "01881"
+ },
+ {
+   "cityName": "Rosera",
+   "code": "06275"
+ },
+ {
+   "cityName": "Rourkela",
+   "code": "0661"
+ },
+ {
+   "cityName": "Rupbas",
+   "code": "05645"
+ },
+ {
+   "cityName": "S.Bakhtiarpur",
+   "code": "06475"
+ },
+ {
+   "cityName": "Sabalgarh",
+   "code": "07536"
+ },
+ {
+   "cityName": "Sadabad",
+   "code": "05661"
+ },
+ {
+   "cityName": "Sadarhills",
+   "code": "03880"
+ },
+ {
+   "cityName": "Sadiya",
+   "code": "03756"
+ },
+ {
+   "cityName": "Sadulshahar",
+   "code": "01503"
+ },
+ {
+   "cityName": "Safidon",
+   "code": "01686"
+ },
+ {
+   "cityName": "Safipur",
+   "code": "05144"
+ },
+ {
+   "cityName": "Sagalee",
+   "code": "03809"
+ },
+ {
+   "cityName": "Sagar",
+   "code": "08183"
+ },
+ {
+   "cityName": "Sagar",
+   "code": "07582"
+ },
+ {
+   "cityName": "Sagri",
+   "code": "05466"
+ },
+ {
+   "cityName": "Sagwara",
+   "code": "02966"
+ },
+ {
+   "cityName": "Sahabad",
+   "code": "07460"
+ },
+ {
+   "cityName": "Saharanpur",
+   "code": "0132"
+ },
+ {
+   "cityName": "Saharsa",
+   "code": "06478"
+ },
+ {
+   "cityName": "Sahaswan",
+   "code": "05833"
+ },
+ {
+   "cityName": "Sahibganj",
+   "code": "06436"
+ },
+ {
+   "cityName": "Sahjahanpur",
+   "code": "05842"
+ },
+ {
+   "cityName": "Saidpur",
+   "code": "05495"
+ },
+ {
+   "cityName": "Saiha-I",
+   "code": "03835"
+ },
+ {
+   "cityName": "Saiha-Ii",
+   "code": "03836"
+ },
+ {
+   "cityName": "Sailana",
+   "code": "07413"
+ },
+ {
+   "cityName": "Sakarwadi",
+   "code": "02160"
+ },
+ {
+   "cityName": "Sakleshpur",
+   "code": "08173"
+ },
+ {
+   "cityName": "Sakoli",
+   "code": "07186"
+ },
+ {
+   "cityName": "Sakri",
+   "code": "02568"
+ },
+ {
+   "cityName": "Salekasa",
+   "code": "07180"
+ },
+ {
+   "cityName": "Salem",
+   "code": "0427"
+ },
+ {
+   "cityName": "Salempur-I",
+   "code": "05566"
+ },
+ {
+   "cityName": "Salempur-Ii",
+   "code": "05561"
+ },
+ {
+   "cityName": "Salkani",
+   "code": "08283"
+ },
+ {
+   "cityName": "Salon-I",
+   "code": "05311"
+ },
+ {
+   "cityName": "Salon-Ii",
+   "code": "05313"
+ },
+ {
+   "cityName": "Salumber",
+   "code": "02906"
+ },
+ {
+   "cityName": "Saluru",
+   "code": "08964"
+ },
+ {
+   "cityName": "Samana",
+   "code": "01764"
+ },
+ {
+   "cityName": "Samastipur",
+   "code": "06274"
+ },
+ {
+   "cityName": "Samba",
+   "code": "01923"
+ },
+ {
+   "cityName": "Sambalpur",
+   "code": "0663"
+ },
+ {
+   "cityName": "Sambhal",
+   "code": "05923"
+ },
+ {
+   "cityName": "Samrala",
+   "code": "01628"
+ },
+ {
+   "cityName": "Samudrapur",
+   "code": "07151"
+ },
+ {
+   "cityName": "Sanand",
+   "code": "02717"
+ },
+ {
+   "cityName": "Sanchore(E)",
+   "code": "02979"
+ },
+ {
+   "cityName": "Sanchore(W)",
+   "code": "02970"
+ },
+ {
+   "cityName": "Sandila",
+   "code": "05854"
+ },
+ {
+   "cityName": "Sandur",
+   "code": "08395"
+ },
+ {
+   "cityName": "Sangamner",
+   "code": "02425"
+ },
+ {
+   "cityName": "Sanganeshwar",
+   "code": "02354"
+ },
+ {
+   "cityName": "Sangareddy",
+   "code": "08455"
+ },
+ {
+   "cityName": "Sangaria",
+   "code": "01499"
+ },
+ {
+   "cityName": "Sangli",
+   "code": "0233"
+ },
+ {
+   "cityName": "Sangod",
+   "code": "07450"
+ },
+ {
+   "cityName": "Sangola",
+   "code": "02187"
+ },
+ {
+   "cityName": "Sangrur",
+   "code": "01672"
+ },
+ {
+   "cityName": "Sanguem",
+   "code": "08345"
+ },
+ {
+   "cityName": "Sankagiri",
+   "code": "04283"
+ },
+ {
+   "cityName": "Sankaran Koil",
+   "code": "04636"
+ },
+ {
+   "cityName": "Sankheda",
+   "code": "02665"
+ },
+ {
+   "cityName": "Santalpur",
+   "code": "02738"
+ },
+ {
+   "cityName": "Santrampur",
+   "code": "02675"
+ },
+ {
+   "cityName": "Sanwer",
+   "code": "07321"
+ },
+ {
+   "cityName": "Saoner",
+   "code": "07113"
+ },
+ {
+   "cityName": "Sapotra",
+   "code": "07465"
+ },
+ {
+   "cityName": "Sarada",
+   "code": "02905"
+ },
+ {
+   "cityName": "Saraikela",
+   "code": "06597"
+ },
+ {
+   "cityName": "Saraipali",
+   "code": "07725"
+ },
+ {
+   "cityName": "Saranggarh",
+   "code": "07768"
+ },
+ {
+   "cityName": "Sarangpur",
+   "code": "07371"
+ },
+ {
+   "cityName": "Sardarpur",
+   "code": "07296"
+ },
+ {
+   "cityName": "Sardarshahar(N)",
+   "code": "01563"
+ },
+ {
+   "cityName": "Sardarshahar(S)",
+   "code": "01564"
+ },
+ {
+   "cityName": "Sardhana",
+   "code": "01237"
+ },
+ {
+   "cityName": "Sardulgarh",
+   "code": "01659"
+ },
+ {
+   "cityName": "Sarhind",
+   "code": "01763"
+ },
+ {
+   "cityName": "Sarona",
+   "code": "07841"
+ },
+ {
+   "cityName": "Sarwar",
+   "code": "01496"
+ },
+ {
+   "cityName": "Sasaram",
+   "code": "06184"
+ },
+ {
+   "cityName": "Saswad",
+   "code": "02115"
+ },
+ {
+   "cityName": "Satana",
+   "code": "02555"
+ },
+ {
+   "cityName": "Satara",
+   "code": "02162"
+ },
+ {
+   "cityName": "Sathiyamangalam",
+   "code": "04295"
+ },
+ {
+   "cityName": "Sathupalli",
+   "code": "08761"
+ },
+ {
+   "cityName": "Satna",
+   "code": "07672"
+ },
+ {
+   "cityName": "Sattenapalle",
+   "code": "08641"
+ },
+ {
+   "cityName": "Satyavedu",
+   "code": "08576"
+ },
+ {
+   "cityName": "Saundatti",
+   "code": "08330"
+ },
+ {
+   "cityName": "Saunsar",
+   "code": "07165"
+ },
+ {
+   "cityName": "Savanur",
+   "code": "08378"
+ },
+ {
+   "cityName": "Savarkundla",
+   "code": "02845"
+ },
+ {
+   "cityName": "Savli",
+   "code": "02667"
+ },
+ {
+   "cityName": "Sawaimadhopur",
+   "code": "07462"
+ },
+ {
+   "cityName": "Sawantwadi",
+   "code": "02363"
+ },
+ {
+   "cityName": "Sayan",
+   "code": "02621"
+ },
+ {
+   "cityName": "Sayla",
+   "code": "02755"
+ },
+ {
+   "cityName": "Sedam",
+   "code": "08441"
+ },
+ {
+   "cityName": "Seharabazar",
+   "code": "03451"
+ },
+ {
+   "cityName": "Sehore",
+   "code": "07562"
+ },
+ {
+   "cityName": "Seikhpura",
+   "code": "06341"
+ },
+ {
+   "cityName": "Seloo",
+   "code": "07155"
+ },
+ {
+   "cityName": "Semaria",
+   "code": "07778"
+ },
+ {
+   "cityName": "Sendhwa",
+   "code": "07281"
+ },
+ {
+   "cityName": "Seondha",
+   "code": "07521"
+ },
+ {
+   "cityName": "Seoni",
+   "code": "07692"
+ },
+ {
+   "cityName": "Seonimalwa",
+   "code": "07570"
+ },
+ {
+   "cityName": "Seppa",
+   "code": "03787"
+ },
+ {
+   "cityName": "Shadnagar",
+   "code": "08548"
+ },
+ {
+   "cityName": "Shahabad",
+   "code": "05960"
+ },
+ {
+   "cityName": "Shahabad",
+   "code": "05853"
+ },
+ {
+   "cityName": "Shahada",
+   "code": "02565"
+ },
+ {
+   "cityName": "Shahapur",
+   "code": "08479"
+ },
+ {
+   "cityName": "Shahapur",
+   "code": "02527"
+ },
+ {
+   "cityName": "Shahapura",
+   "code": "01484"
+ },
+ {
+   "cityName": "Shahdol",
+   "code": "07652"
+ },
+ {
+   "cityName": "Shahganj",
+   "code": "05453"
+ },
+ {
+   "cityName": "Shahnagar",
+   "code": "07734"
+ },
+ {
+   "cityName": "Shahpur",
+   "code": "07640"
+ },
+ {
+   "cityName": "Shahuwadi",
+   "code": "02329"
+ },
+ {
+   "cityName": "Shajapur",
+   "code": "07364"
+ },
+ {
+   "cityName": "Shakti",
+   "code": "07757"
+ },
+ {
+   "cityName": "Shankarnarayana",
+   "code": "08259"
+ },
+ {
+   "cityName": "Shehra",
+   "code": "02670"
+ },
+ {
+   "cityName": "Sheo (E)",
+   "code": "02987"
+ },
+ {
+   "cityName": "Sheo (W)",
+   "code": "02981"
+ },
+ {
+   "cityName": "Sheoganj",
+   "code": "02976"
+ },
+ {
+   "cityName": "Sheohar",
+   "code": "06222"
+ },
+ {
+   "cityName": "Sheopurkalan",
+   "code": "07530"
+ },
+ {
+   "cityName": "Shergarh(N)",
+   "code": "02928"
+ },
+ {
+   "cityName": "Shergarh(S)",
+   "code": "02929"
+ },
+ {
+   "cityName": "Sherghati",
+   "code": "06326"
+ },
+ {
+   "cityName": "Shertallai",
+   "code": "0478"
+ },
+ {
+   "cityName": "Shevgaon",
+   "code": "02429"
+ },
+ {
+   "cityName": "Shikaripura",
+   "code": "08187"
+ },
+ {
+   "cityName": "Shikohabad",
+   "code": "05676"
+ },
+ {
+   "cityName": "Shillong",
+   "code": "0364"
+ },
+ {
+   "cityName": "Shimla",
+   "code": "0177"
+ },
+ {
+   "cityName": "Shimoga",
+   "code": "08182"
+ },
+ {
+   "cityName": "Shirahatti",
+   "code": "08487"
+ },
+ {
+   "cityName": "Shirala",
+   "code": "02345"
+ },
+ {
+   "cityName": "Shirol",
+   "code": "02322"
+ },
+ {
+   "cityName": "Shirpur",
+   "code": "02563"
+ },
+ {
+   "cityName": "Shirur",
+   "code": "02138"
+ },
+ {
+   "cityName": "Shirwal",
+   "code": "02169"
+ },
+ {
+   "cityName": "Shivpuri",
+   "code": "07492"
+ },
+ {
+   "cityName": "Sholapur",
+   "code": "0217"
+ },
+ {
+   "cityName": "Shoranur",
+   "code": "04926"
+ },
+ {
+   "cityName": "Shorapur",
+   "code": "08443"
+ },
+ {
+   "cityName": "Shri Rampur",
+   "code": "02422"
+ },
+ {
+   "cityName": "Shrigonda",
+   "code": "02487"
+ },
+ {
+   "cityName": "Shrivardhan",
+   "code": "02147"
+ },
+ {
+   "cityName": "Shujalpur",
+   "code": "07360"
+ },
+ {
+   "cityName": "Sibsagar",
+   "code": "03772"
+ },
+ {
+   "cityName": "Siddapur",
+   "code": "08389"
+ },
+ {
+   "cityName": "Siddavattam",
+   "code": "08589"
+ },
+ {
+   "cityName": "Siddipet",
+   "code": "08457"
+ },
+ {
+   "cityName": "Sidhauli",
+   "code": "05864"
+ },
+ {
+   "cityName": "Sidhawalia",
+   "code": "06151"
+ },
+ {
+   "cityName": "Sidhi",
+   "code": "07822"
+ },
+ {
+   "cityName": "Sidhpur",
+   "code": "02767"
+ },
+ {
+   "cityName": "Sidlaghatta",
+   "code": "08158"
+ },
+ {
+   "cityName": "Sihor",
+   "code": "02846"
+ },
+ {
+   "cityName": "Sihora",
+   "code": "07624"
+ },
+ {
+   "cityName": "Sikandra Rao",
+   "code": "05721"
+ },
+ {
+   "cityName": "Sikandrabad",
+   "code": "05735"
+ },
+ {
+   "cityName": "Sikar",
+   "code": "01572"
+ },
+ {
+   "cityName": "Silchar",
+   "code": "03842"
+ },
+ {
+   "cityName": "Sileru",
+   "code": "08938"
+ },
+ {
+   "cityName": "Siliguri",
+   "code": "0353"
+ },
+ {
+   "cityName": "Sillod",
+   "code": "02430"
+ },
+ {
+   "cityName": "Silwani",
+   "code": "07484"
+ },
+ {
+   "cityName": "Simaria",
+   "code": "06559"
+ },
+ {
+   "cityName": "Simdega",
+   "code": "06525"
+ },
+ {
+   "cityName": "Sindagi",
+   "code": "08488"
+ },
+ {
+   "cityName": "Sinderwahi",
+   "code": "07178"
+ },
+ {
+   "cityName": "Sindhanur",
+   "code": "08535"
+ },
+ {
+   "cityName": "Sindkheda",
+   "code": "02566"
+ },
+ {
+   "cityName": "Sindkhedaraja",
+   "code": "07269"
+ },
+ {
+   "cityName": "Singhwara",
+   "code": "06247"
+ },
+ {
+   "cityName": "Singrauli",
+   "code": "07805"
+ },
+ {
+   "cityName": "Sinnar",
+   "code": "02551"
+ },
+ {
+   "cityName": "Sira",
+   "code": "08135"
+ },
+ {
+   "cityName": "Sircilla",
+   "code": "08723"
+ },
+ {
+   "cityName": "Sirmour",
+   "code": "07660"
+ },
+ {
+   "cityName": "Sirohi",
+   "code": "02972"
+ },
+ {
+   "cityName": "Sironcha",
+   "code": "07131"
+ },
+ {
+   "cityName": "Sironj",
+   "code": "07591"
+ },
+ {
+   "cityName": "Sirpur Kagaznagar",
+   "code": "08738"
+ },
+ {
+   "cityName": "Sirsa",
+   "code": "01666"
+ },
+ {
+   "cityName": "Sirsi",
+   "code": "08384"
+ },
+ {
+   "cityName": "Siruguppa",
+   "code": "08396"
+ },
+ {
+   "cityName": "Sitamarhi",
+   "code": "06226"
+ },
+ {
+   "cityName": "Sitamau",
+   "code": "07426"
+ },
+ {
+   "cityName": "Sitapur",
+   "code": "07834"
+ },
+ {
+   "cityName": "Sitapur",
+   "code": "05862"
+ },
+ {
+   "cityName": "Sivaganga",
+   "code": "04575"
+ },
+ {
+   "cityName": "Siwan",
+   "code": "06154"
+ },
+ {
+   "cityName": "Siwana (E)",
+   "code": "02900"
+ },
+ {
+   "cityName": "Siwana (W)",
+   "code": "02901"
+ },
+ {
+   "cityName": "Siwani",
+   "code": "01255"
+ },
+ {
+   "cityName": "Siyana",
+   "code": "05736"
+ },
+ {
+   "cityName": "Sodam",
+   "code": "08583"
+ },
+ {
+   "cityName": "Sohagpur",
+   "code": "07575"
+ },
+ {
+   "cityName": "Sohela",
+   "code": "06685"
+ },
+ {
+   "cityName": "Sojat",
+   "code": "02960"
+ },
+ {
+   "cityName": "Sojitra",
+   "code": "02697"
+ },
+ {
+   "cityName": "Solan",
+   "code": "01792"
+ },
+ {
+   "cityName": "Sompeta",
+   "code": "08947"
+ },
+ {
+   "cityName": "Somwarpet",
+   "code": "08276"
+ },
+ {
+   "cityName": "Sonapur",
+   "code": "06654"
+ },
+ {
+   "cityName": "Sondhwa",
+   "code": "07395"
+ },
+ {
+   "cityName": "Sonepur",
+   "code": "06158"
+ },
+ {
+   "cityName": "Sonipat",
+   "code": "0130"
+ },
+ {
+   "cityName": "Sonkatch",
+   "code": "07270"
+ },
+ {
+   "cityName": "Sorab",
+   "code": "08184"
+ },
+ {
+   "cityName": "Soraon",
+   "code": "05335"
+ },
+ {
+   "cityName": "Soro",
+   "code": "06788"
+ },
+ {
+   "cityName": "Soyegaon",
+   "code": "02438"
+ },
+ {
+   "cityName": "Spiti",
+   "code": "01906"
+ },
+ {
+   "cityName": "Sridungargarh(N)",
+   "code": "01565"
+ },
+ {
+   "cityName": "Sridungargarh(S)",
+   "code": "01566"
+ },
+ {
+   "cityName": "Sriganganagar",
+   "code": "0154"
+ },
+ {
+   "cityName": "Srikakulam",
+   "code": "08942"
+ },
+ {
+   "cityName": "Srikalahasthi",
+   "code": "08578"
+ },
+ {
+   "cityName": "Srikaranpur",
+   "code": "01501"
+ },
+ {
+   "cityName": "Srimadhopur",
+   "code": "01575"
+ },
+ {
+   "cityName": "Sriniwaspur",
+   "code": "08157"
+ },
+ {
+   "cityName": "Sriperumpudur",
+   "code": "044"
+ },
+ {
+   "cityName": "Srisailam",
+   "code": "08524"
+ },
+ {
+   "cityName": "Srivaikundam",
+   "code": "04630"
+ },
+ {
+   "cityName": "Srungavarapukota",
+   "code": "08966"
+ },
+ {
+   "cityName": "Sudhimalla",
+   "code": "08741"
+ },
+ {
+   "cityName": "Sujangarh(C )",
+   "code": "01560"
+ },
+ {
+   "cityName": "Sujangarh(E )",
+   "code": "01568"
+ },
+ {
+   "cityName": "Sujangarh(W )",
+   "code": "01569"
+ },
+ {
+   "cityName": "Sukma",
+   "code": "07864"
+ },
+ {
+   "cityName": "Sullarpet",
+   "code": "08623"
+ },
+ {
+   "cityName": "Sullia",
+   "code": "08257"
+ },
+ {
+   "cityName": "Sultanpur",
+   "code": "05362"
+ },
+ {
+   "cityName": "Sultanpur Lodhi",
+   "code": "01828"
+ },
+ {
+   "cityName": "Sumrasar",
+   "code": "02808"
+ },
+ {
+   "cityName": "Sunabeda",
+   "code": "06853"
+ },
+ {
+   "cityName": "Sunam",
+   "code": "01676"
+ },
+ {
+   "cityName": "Sundergarh",
+   "code": "06622"
+ },
+ {
+   "cityName": "Sundernagar",
+   "code": "01907"
+ },
+ {
+   "cityName": "Supaul",
+   "code": "06473"
+ },
+ {
+   "cityName": "Surada",
+   "code": "06819"
+ },
+ {
+   "cityName": "Surajpur",
+   "code": "07775"
+ },
+ {
+   "cityName": "Surat",
+   "code": "0261"
+ },
+ {
+   "cityName": "Suratgarh(N)",
+   "code": "01508"
+ },
+ {
+   "cityName": "Suratgarh(S)",
+   "code": "01509"
+ },
+ {
+   "cityName": "Surendranagar",
+   "code": "02752"
+ },
+ {
+   "cityName": "Surgena",
+   "code": "02593"
+ },
+ {
+   "cityName": "Suri",
+   "code": "03462"
+ },
+ {
+   "cityName": "Suryapet",
+   "code": "08684"
+ },
+ {
+   "cityName": "Susner",
+   "code": "07361"
+ },
+ {
+   "cityName": "T. Narsipur",
+   "code": "08227"
+ },
+ {
+   "cityName": "T. Rampur",
+   "code": "06675"
+ },
+ {
+   "cityName": "Tadepalligudem",
+   "code": "08818"
+ },
+ {
+   "cityName": "Tadipatri",
+   "code": "08558"
+ },
+ {
+   "cityName": "Talaja",
+   "code": "02842"
+ },
+ {
+   "cityName": "Talala",
+   "code": "02877"
+ },
+ {
+   "cityName": "Talasari",
+   "code": "02521"
+ },
+ {
+   "cityName": "Talcher",
+   "code": "06760"
+ },
+ {
+   "cityName": "Talegaon S.Ji Pant",
+   "code": "07156"
+ },
+ {
+   "cityName": "Tali",
+   "code": "03790"
+ },
+ {
+   "cityName": "Taliha",
+   "code": "03791"
+ },
+ {
+   "cityName": "Taliparamba",
+   "code": "04982"
+ },
+ {
+   "cityName": "Tallak",
+   "code": "08190"
+ },
+ {
+   "cityName": "Taloda",
+   "code": "02567"
+ },
+ {
+   "cityName": "Tamenglong",
+   "code": "03877"
+ },
+ {
+   "cityName": "Tamia",
+   "code": "07149"
+ },
+ {
+   "cityName": "Tamluk",
+   "code": "03228"
+ },
+ {
+   "cityName": "Tanda Urmar",
+   "code": "01886"
+ },
+ {
+   "cityName": "Tanda-I",
+   "code": "05273"
+ },
+ {
+   "cityName": "Tanda-Ii",
+   "code": "05274"
+ },
+ {
+   "cityName": "Tanduru",
+   "code": "08411"
+ },
+ {
+   "cityName": "Tanuku",
+   "code": "08819"
+ },
+ {
+   "cityName": "Tapkara",
+   "code": "07761"
+ },
+ {
+   "cityName": "Tarabarihat",
+   "code": "03665"
+ },
+ {
+   "cityName": "Tarabganj-I",
+   "code": "05260"
+ },
+ {
+   "cityName": "Tarabganj-Ii",
+   "code": "05261"
+ },
+ {
+   "cityName": "Taran Taran",
+   "code": "01852"
+ },
+ {
+   "cityName": "Tarana",
+   "code": "07369"
+ },
+ {
+   "cityName": "Taranagar",
+   "code": "01561"
+ },
+ {
+   "cityName": "Tarikere",
+   "code": "08261"
+ },
+ {
+   "cityName": "Tasgaon",
+   "code": "02346"
+ },
+ {
+   "cityName": "Tawang",
+   "code": "03794"
+ },
+ {
+   "cityName": "Tehri",
+   "code": "01376"
+ },
+ {
+   "cityName": "Tekkali",
+   "code": "08945"
+ },
+ {
+   "cityName": "Telgi",
+   "code": "08426"
+ },
+ {
+   "cityName": "Telkoi",
+   "code": "06735"
+ },
+ {
+   "cityName": "Tellicherry",
+   "code": "0490"
+ },
+ {
+   "cityName": "Tenali",
+   "code": "08644"
+ },
+ {
+   "cityName": "Tendukheda",
+   "code": "07603"
+ },
+ {
+   "cityName": "Tenkasi",
+   "code": "04633"
+ },
+ {
+   "cityName": "Teonthar",
+   "code": "07661"
+ },
+ {
+   "cityName": "Tezpur",
+   "code": "03712"
+ },
+ {
+   "cityName": "Tezu",
+   "code": "03804"
+ },
+ {
+   "cityName": "Thakurganj",
+   "code": "06459"
+ },
+ {
+   "cityName": "Thanaghazi",
+   "code": "01465"
+ },
+ {
+   "cityName": "Thandla",
+   "code": "07390"
+ },
+ {
+   "cityName": "Thanjavur",
+   "code": "04362"
+ },
+ {
+   "cityName": "Thara",
+   "code": "02747"
+ },
+ {
+   "cityName": "Tharad",
+   "code": "02737"
+ },
+ {
+   "cityName": "Thasra",
+   "code": "02699"
+ },
+ {
+   "cityName": "Theni",
+   "code": "04546"
+ },
+ {
+   "cityName": "Theog",
+   "code": "01783"
+ },
+ {
+   "cityName": "Thinghat",
+   "code": "03873"
+ },
+ {
+   "cityName": "Thirthahalli",
+   "code": "08181"
+ },
+ {
+   "cityName": "Thirumanglam",
+   "code": "04549"
+ },
+ {
+   "cityName": "Thiruraipoondi",
+   "code": "04369"
+ },
+ {
+   "cityName": "Thiruvananthapuram",
+   "code": "0471"
+ },
+ {
+   "cityName": "Thodupuzha",
+   "code": "04862"
+ },
+ {
+   "cityName": "Thoubal",
+   "code": "03848"
+ },
+ {
+   "cityName": "Thungaturthy",
+   "code": "08693"
+ },
+ {
+   "cityName": "Thuraiyure",
+   "code": "04327"
+ },
+ {
+   "cityName": "Tibbi",
+   "code": "01539"
+ },
+ {
+   "cityName": "Tijara (N)",
+   "code": "01493"
+ },
+ {
+   "cityName": "Tijara (S)",
+   "code": "01469"
+ },
+ {
+   "cityName": "Tikamgarh",
+   "code": "07683"
+ },
+ {
+   "cityName": "Tilhar",
+   "code": "05841"
+ },
+ {
+   "cityName": "Timarani",
+   "code": "07573"
+ },
+ {
+   "cityName": "Tindivanam",
+   "code": "04147"
+ },
+ {
+   "cityName": "Tinsukia",
+   "code": "0374"
+ },
+ {
+   "cityName": "Tiptur",
+   "code": "08134"
+ },
+ {
+   "cityName": "Tirivuru",
+   "code": "08673"
+ },
+ {
+   "cityName": "Tirora",
+   "code": "07198"
+ },
+ {
+   "cityName": "Tiruchendur",
+   "code": "04639"
+ },
+ {
+   "cityName": "Tiruchengode",
+   "code": "04288"
+ },
+ {
+   "cityName": "Tirunelvelli",
+   "code": "0462"
+ },
+ {
+   "cityName": "Tirupathi",
+   "code": "0877"
+ },
+ {
+   "cityName": "Tirupathur",
+   "code": "04577"
+ },
+ {
+   "cityName": "Tirupattur",
+   "code": "04179"
+ },
+ {
+   "cityName": "Tirupur",
+   "code": "0421"
+ },
+ {
+   "cityName": "Tirur",
+   "code": "0494"
+ },
+ {
+   "cityName": "Tiruttani",
+   "code": "044"
+ },
+ {
+   "cityName": "Tiruvalla",
+   "code": "0469"
+ },
+ {
+   "cityName": "Tiruvannamalai",
+   "code": "04175"
+ },
+ {
+   "cityName": "Tiruvarur",
+   "code": "04366"
+ },
+ {
+   "cityName": "Tiruvellore",
+   "code": "044"
+ },
+ {
+   "cityName": "Tiruvettipuram",
+   "code": "04182"
+ },
+ {
+   "cityName": "Tisri",
+   "code": "06556"
+ },
+ {
+   "cityName": "Titlagarh",
+   "code": "06655"
+ },
+ {
+   "cityName": "Tiwasa",
+   "code": "07225"
+ },
+ {
+   "cityName": "Todaraisingh",
+   "code": "01433"
+ },
+ {
+   "cityName": "Tohana",
+   "code": "01692"
+ },
+ {
+   "cityName": "Tohsam",
+   "code": "01253"
+ },
+ {
+   "cityName": "Tonk(N)",
+   "code": "01435"
+ },
+ {
+   "cityName": "Tonk(S)",
+   "code": "01432"
+ },
+ {
+   "cityName": "Torpa",
+   "code": "06538"
+ },
+ {
+   "cityName": "Toynar",
+   "code": "07852"
+ },
+ {
+   "cityName": "Trichur",
+   "code": "0487"
+ },
+ {
+   "cityName": "Trichy",
+   "code": "0431"
+ },
+ {
+   "cityName": "Trimbak",
+   "code": "02594"
+ },
+ {
+   "cityName": "Triveniganj",
+   "code": "06477"
+ },
+ {
+   "cityName": "Tuensang",
+   "code": "03861"
+ },
+ {
+   "cityName": "Tuljapur",
+   "code": "02471"
+ },
+ {
+   "cityName": "Tumkur",
+   "code": "0816"
+ },
+ {
+   "cityName": "Tumsar",
+   "code": "07183"
+ },
+ {
+   "cityName": "Tumudibandha",
+   "code": "06840"
+ },
+ {
+   "cityName": "Tuni",
+   "code": "08854"
+ },
+ {
+   "cityName": "Tura",
+   "code": "03651"
+ },
+ {
+   "cityName": "Turuvekere",
+   "code": "08139"
+ },
+ {
+   "cityName": "Tuticorin",
+   "code": "0461"
+ },
+ {
+   "cityName": "Tuting",
+   "code": "03799"
+ },
+ {
+   "cityName": "Udaipur",
+   "code": "07833"
+ },
+ {
+   "cityName": "Udaipur",
+   "code": "01909"
+ },
+ {
+   "cityName": "Udaipura",
+   "code": "07485"
+ },
+ {
+   "cityName": "Udaipurwati",
+   "code": "01594"
+ },
+ {
+   "cityName": "Udakishanganj",
+   "code": "06479"
+ },
+ {
+   "cityName": "Udala",
+   "code": "06795"
+ },
+ {
+   "cityName": "Udalgiri",
+   "code": "03711"
+ },
+ {
+   "cityName": "Udarbondh",
+   "code": "03841"
+ },
+ {
+   "cityName": "Udaygiri",
+   "code": "08620"
+ },
+ {
+   "cityName": "Udgir",
+   "code": "02385"
+ },
+ {
+   "cityName": "Udumalpet",
+   "code": "04252"
+ },
+ {
+   "cityName": "Udupi",
+   "code": "0820"
+ },
+ {
+   "cityName": "Ujjain",
+   "code": "0734"
+ },
+ {
+   "cityName": "Ukhimath",
+   "code": "01364"
+ },
+ {
+   "cityName": "Ukhrul Central",
+   "code": "03845"
+ },
+ {
+   "cityName": "Ukhrul South",
+   "code": "03870"
+ },
+ {
+   "cityName": "Ulundurpet",
+   "code": "04149"
+ },
+ {
+   "cityName": "Ulvapadu",
+   "code": "08599"
+ },
+ {
+   "cityName": "Umariapan",
+   "code": "07625"
+ },
+ {
+   "cityName": "Umarkhed",
+   "code": "07231"
+ },
+ {
+   "cityName": "Umerkote",
+   "code": "06866"
+ },
+ {
+   "cityName": "Umrane",
+   "code": "02598"
+ },
+ {
+   "cityName": "Umrer",
+   "code": "07116"
+ },
+ {
+   "cityName": "Una",
+   "code": "01975"
+ },
+ {
+   "cityName": "Una-Diu",
+   "code": "02875"
+ },
+ {
+   "cityName": "Uniayara",
+   "code": "01436"
+ },
+ {
+   "cityName": "Unnao",
+   "code": "0515"
+ },
+ {
+   "cityName": "Upleta",
+   "code": "02826"
+ },
+ {
+   "cityName": "Uppala",
+   "code": "04998"
+ },
+ {
+   "cityName": "Uproda",
+   "code": "07810"
+ },
+ {
+   "cityName": "Uravakonda",
+   "code": "08496"
+ },
+ {
+   "cityName": "Urlikanchan",
+   "code": "02136"
+ },
+ {
+   "cityName": "Usiliampatti",
+   "code": "04552"
+ },
+ {
+   "cityName": "Uthangarai",
+   "code": "04341"
+ },
+ {
+   "cityName": "Utnor",
+   "code": "08731"
+ },
+ {
+   "cityName": "Utraula",
+   "code": "05265"
+ },
+ {
+   "cityName": "V.R.Puram",
+   "code": "08748"
+ },
+ {
+   "cityName": "Vadakkanchery",
+   "code": "04884"
+ },
+ {
+   "cityName": "Vadgam",
+   "code": "02739"
+ },
+ {
+   "cityName": "Vadodara",
+   "code": "0265"
+ },
+ {
+   "cityName": "Vaduj",
+   "code": "02161"
+ },
+ {
+   "cityName": "Vaimpalli",
+   "code": "08588"
+ },
+ {
+   "cityName": "Valapady",
+   "code": "04292"
+ },
+ {
+   "cityName": "Valia",
+   "code": "02643"
+ },
+ {
+   "cityName": "Vallabhipur",
+   "code": "02841"
+ },
+ {
+   "cityName": "Vallabhnagar",
+   "code": "02957"
+ },
+ {
+   "cityName": "Valliyoor",
+   "code": "04637"
+ },
+ {
+   "cityName": "Valod",
+   "code": "02625"
+ },
+ {
+   "cityName": "Valsad",
+   "code": "02632"
+ },
+ {
+   "cityName": "Vaniyambadi",
+   "code": "04174"
+ },
+ {
+   "cityName": "Vanthali",
+   "code": "02872"
+ },
+ {
+   "cityName": "Vapi",
+   "code": "0260"
+ },
+ {
+   "cityName": "Varanasi",
+   "code": "0542"
+ },
+ {
+   "cityName": "Vav",
+   "code": "02740"
+ },
+ {
+   "cityName": "Vayalpad",
+   "code": "08586"
+ },
+ {
+   "cityName": "Vedasandur",
+   "code": "04551"
+ },
+ {
+   "cityName": "Velhe",
+   "code": "02130"
+ },
+ {
+   "cityName": "Vellore",
+   "code": "0416"
+ },
+ {
+   "cityName": "Velur",
+   "code": "04268"
+ },
+ {
+   "cityName": "Vengurla",
+   "code": "02366"
+ },
+ {
+   "cityName": "Venkatgiri",
+   "code": "08625"
+ },
+ {
+   "cityName": "Venkatgirikota",
+   "code": "08587"
+ },
+ {
+   "cityName": "Veraval",
+   "code": "02876"
+ },
+ {
+   "cityName": "Vidisha",
+   "code": "07592"
+ },
+ {
+   "cityName": "Vijapur",
+   "code": "02763"
+ },
+ {
+   "cityName": "Vijapur",
+   "code": "02436"
+ },
+ {
+   "cityName": "Vijayawada",
+   "code": "0866"
+ },
+ {
+   "cityName": "Vijayraghogarh",
+   "code": "07626"
+ },
+ {
+   "cityName": "Vikom",
+   "code": "04829"
+ },
+ {
+   "cityName": "Vikrabad",
+   "code": "08416"
+ },
+ {
+   "cityName": "Vilathikulam",
+   "code": "04638"
+ },
+ {
+   "cityName": "Villupuram",
+   "code": "04146"
+ },
+ {
+   "cityName": "Vinjamuru",
+   "code": "08629"
+ },
+ {
+   "cityName": "Vinukonda",
+   "code": "08646"
+ },
+ {
+   "cityName": "Virajpet",
+   "code": "08274"
+ },
+ {
+   "cityName": "Viramgam",
+   "code": "02715"
+ },
+ {
+   "cityName": "Viratnagar",
+   "code": "01422"
+ },
+ {
+   "cityName": "Virudhachalam",
+   "code": "04143"
+ },
+ {
+   "cityName": "Virudhunagar",
+   "code": "04562"
+ },
+ {
+   "cityName": "Visakhapatnam",
+   "code": "0891"
+ },
+ {
+   "cityName": "Visavadar",
+   "code": "02873"
+ },
+ {
+   "cityName": "Visnagar",
+   "code": "02765"
+ },
+ {
+   "cityName": "Vita",
+   "code": "02347"
+ },
+ {
+   "cityName": "Vizayanagaram",
+   "code": "08922"
+ },
+ {
+   "cityName": "Vuyyuru",
+   "code": "08676"
+ },
+ {
+   "cityName": "Vyara",
+   "code": "02626"
+ },
+ {
+   "cityName": "Wada",
+   "code": "02526"
+ },
+ {
+   "cityName": "Wadi",
+   "code": "08476"
+ },
+ {
+   "cityName": "Wadrainagar",
+   "code": "07772"
+ },
+ {
+   "cityName": "Waghodia",
+   "code": "02668"
+ },
+ {
+   "cityName": "Wai",
+   "code": "02167"
+ },
+ {
+   "cityName": "Walchandnagar",
+   "code": "02118"
+ },
+ {
+   "cityName": "Wanaparthy",
+   "code": "08543"
+ },
+ {
+   "cityName": "Wandiwash",
+   "code": "04183"
+ },
+ {
+   "cityName": "Wani",
+   "code": "07239"
+ },
+ {
+   "cityName": "Wankaner",
+   "code": "02828"
+ },
+ {
+   "cityName": "Warangal",
+   "code": "0870"
+ },
+ {
+   "cityName": "Waraseoni",
+   "code": "07633"
+ },
+ {
+   "cityName": "Wardha",
+   "code": "07152"
+ },
+ {
+   "cityName": "Wardhannapet",
+   "code": "08711"
+ },
+ {
+   "cityName": "Warlydwarud",
+   "code": "07229"
+ },
+ {
+   "cityName": "Warora",
+   "code": "07176"
+ },
+ {
+   "cityName": "Washim",
+   "code": "07252"
+ },
+ {
+   "cityName": "Wathar",
+   "code": "02371"
+ },
+ {
+   "cityName": "Wazirganj",
+   "code": "06322"
+ },
+ {
+   "cityName": "Williamnagar",
+   "code": "03658"
+ },
+ {
+   "cityName": "Wokha",
+   "code": "03860"
+ },
+ {
+   "cityName": "Yadgiri",
+   "code": "08473"
+ },
+ {
+   "cityName": "Yawal",
+   "code": "02585"
+ },
+ {
+   "cityName": "Yelamanchili",
+   "code": "08931"
+ },
+ {
+   "cityName": "Yelavaram",
+   "code": "08865"
+ },
+ {
+   "cityName": "Yelburga",
+   "code": "08534"
+ },
+ {
+   "cityName": "Yeleswaram",
+   "code": "08868"
+ },
+ {
+   "cityName": "Yellandu",
+   "code": "08745"
+ },
+ {
+   "cityName": "Yellanuru",
+   "code": "08550"
+ },
+ {
+   "cityName": "Yellapur",
+   "code": "08419"
+ },
+ {
+   "cityName": "Yellareddy",
+   "code": "08465"
+ },
+ {
+   "cityName": "Yeola",
+   "code": "02559"
+ },
+ {
+   "cityName": "Yeotmal",
+   "code": "07232"
+ },
+ {
+   "cityName": "Yercaud",
+   "code": "04281"
+ },
+ {
+   "cityName": "Yerragondapalem",
+   "code": "08403"
+ },
+ {
+   "cityName": "Yiang Kiag",
+   "code": "03777"
+ },
+ {
+   "cityName": "Zahirabad",
+   "code": "08451"
+ },
+ {
+   "cityName": "Zamania",
+   "code": "05497"
+ },
+ {
+   "cityName": "Zhirnia",
+   "code": "07289"
+ },
+ {
+   "cityName": "Zira",
+   "code": "01682"
+ },
+ {
+   "cityName": "Zunheboto",
+   "code": "03867"
+ }
+]
+}
